@@ -4,7 +4,7 @@ Using clustering algorithm to predict the best neighbourhoods for a new business
 ![image](https://user-images.githubusercontent.com/105684729/187061682-97ffed44-83a0-485a-bdf8-519a1d01a917.png)
 
 
-## OPTIMAL BUSINESS INVESTMENT AREA
+## OPTIMAL AREA FOR BUSINESS INVESTMENT 
 ### Project Introduction
 ### Purpose- 
 This project aims to give a list of district names in Toronto, Canada. The list is composed of the neighborhoods that hold the highest business opportunities for an enterpreneur who would like to start a gym business.
