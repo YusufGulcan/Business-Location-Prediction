@@ -1,0 +1,1192 @@
+,name,formatted_address,lat,lon,rating,popularity,District
+0,Stott Pilates,"2071 McCowan Rd, Scarborough ON M1S 3Y6",43.795931,-79.261192,null,null,Agincourt North 
+1,Tarana Dance Company Ltd,"589 Middlefield Rd, Scarborough ON M1V 4Y6",43.812037,-79.258416,null,null,Milliken 
+2,D'ornellas Fitness Factory,"4544 Sheppard Ave E, Scarborough ON M1S 1V2",43.788859,-79.263412,null,null,Agincourt South-Malvern West 
+3,Ravi Yoga Center,"130 Shorting Rd, Scarborough ON M1S 3S6",43.793191,-79.251525,null,null,Agincourt South-Malvern West 
+4,Canadian Chinese Cultural Centre of Scarborough,"4500 Sheppard Ave E, Toronto ON M1S 3R6",43.788458,-79.265084,null,null,Agincourt South-Malvern West 
+5,Simgamezone,"3320 Midland Ave, Toronto ON M1V 5E6",43.807415,-79.289259,null,null,Milliken 
+6,Dreams Pole Fitness,"4810 Sheppard Ave E, Scarborough ON M1S 4N6",43.791622,-79.25067,null,null,Agincourt South-Malvern West 
+7,Elite Studio & Spa,"70 Silver Star Blvd, Toronto ON M1V 4W2",43.806453,-79.290139,null,null,Milliken 
+8,Studio 9,"4385 Sheppard Ave E, Scarborough ON M1S 1T9",43.786969,-79.270196,null,null,Agincourt South-Malvern West 
+9,Strength-N-U,"80 Milner Ave (at McCowan Rd.), Toronto ON M1S 3P8",43.785739,-79.255938,8.0,0.8498330018388561,Agincourt South-Malvern West 
+10,GoodLife Fitness Scarborough Town Centre Women's Only,"1755 Brimley Rd (at Progress Ave.), Scarborough ON M1P 0A3",43.778141,-79.263185,7.4,0.9973355349570308,Bendale-Glen Andrew 
+11,World GYM,"1455 McCowan Rd, Toronto ON M1S 5K7",43.78517,-79.256036,7.1,0.9787718442351234,Agincourt South-Malvern West 
+12,Mitra Hot Yoga,"705 Progress Ave, Scarborough ON M1H 2X1",43.776774,-79.246894,6.3,0.917163908382432,Woburn North 
+13,TELUS Wellness Centre,"200 Consilium Pl, Scarborough ON",43.777098,-79.251022,null,0.12669969102212883,Woburn North 
+14,Lee Centre Gymnasium,"11 Lee Ave, Toronto ON",43.780587,-79.245428,null,0.14640797588221313,Woburn North 
+15,EQ1 - Gym,"70 Town Centre Crt, Scarborough ON M1P 0B2",43.774195,-79.25515,null,0.7828273351596803,Bendale-Glen Andrew 
+16,Solaris gym,"135 Village Green Sq (Kennedy Rd. & 401), Scarborough ON M1S 0G4",43.777488,-79.280695,null,0.5963398006029447,Agincourt South-Malvern West 
+17,Centro Condo Gym,"25 Town Centre Crt, Scarborough ON M1P 0B4",43.773269,-79.255064,null,0.6525062233397131,Bendale-Glen Andrew 
+18,Kanama High Performance,"39 Cosentino Dr (Kennedy Rd. & Progress Ave.), Toronto ON M1P 3A3",43.772649,-79.269261,null,0.8548992381881638,Bendale-Glen Andrew 
+19,CrossFit 4 Time,"285 Progress Ave (at Midland Ave.), Scarborough ON M1P 2Z3",43.773072,-79.271203,null,0.47829023905130036,Bendale-Glen Andrew 
+20,Crossfit Canuck,"710 Progress Ave, Scarborough ON M1H 2X3",43.778036,-79.246529,null,0.9458287987390701,Woburn North 
+21,Simply Swagg Dance Studio,"705 Progress Ave, Scarborough ON M1H 2X1",43.778258,-79.246564,null,0.9068625611388399,Woburn North 
+22,May Tower Corportation,"1 Lee Centre Dr, Scarborough ON M1H 3J2",43.780717,-79.246761,null,null,Woburn North 
+23,Move N Improve Canada,"2250 Midland Ave, Scarborough ON M1P 4R9",43.776156,-79.274452,null,null,Dorset Park 
+24,Radical Fitness,"705 Progress Ave, Scarborough ON M1H 2X1",43.778454,-79.246969,null,null,Woburn North 
+25,The Pilates House,"705 Progress Ave, Scarborough ON M1H 2X1",43.778258,-79.246564,null,null,Woburn North 
+26,Moksha Yoga Scarborough,"705 Progress Ave, Scarborough ON M1H 2X1",43.778258,-79.246564,null,null,Woburn North 
+27,Team UMAC,"1600 Brimley Rd, Scarborough ON M1P 3H1",43.77257,-79.2625,null,null,Bendale-Glen Andrew 
+28,Boulderz Climbing Centre,"80 the East Mall, Etobicoke ON M8Z 5X1",43.61827,-79.547216,8.7,0.9647114747126005,Etobicoke City Centre 
+29,Etobicoke Fitness Boot Camp Body Buster Fitness,"432 Horner Ave (Beta), Etobicoke ON M8W 2B2",43.603633,-79.537969,null,0.19532530241052776,Alderwood 
+30,Edge Fitness,"18 Thirthyfirst St, Toronto ON",43.591351,-79.52953,null,0.5635656296518683,Long Branch 
+31,Pinup Playground,"422 Horner Ave, Etobicoke ON M8W 2B1",43.603971,-79.536436,null,null,Alderwood 
+32,O'Brien Sport Toronto,"230 Browns Line, Etobicoke ON M8W 3T4",43.597975,-79.543915,null,null,Alderwood 
+33,Freedom Fitness Studio,"134C 30th St, Etobicoke ON M8W 3C4",43.601118,-79.532516,null,null,Alderwood 
+34,Branch Yoga & Wellness,"3473 Lake Shore Blvd W, Etobicoke ON M8W 1N5",43.594713,-79.531103,null,null,Long Branch 
+35,LCI Sports Centre,"290 Birmingham St, Etobicoke ON M8V 3L1",43.600585,-79.519213,null,null,New Toronto 
+36,Journey to Excel,"400 Kipling Ave, Toronto ON M8V 3L1",43.600868,-79.518418,null,null,New Toronto 
+37,Equinox Yorkville,"55 Ave Rd, Toronto ON M5R 3L2",43.671217,-79.39466,8.1,0.9661938179407313,Annex 
+38,DanceLife X Centre,"619 Yonge St (btwn Isabella St & Gloucester St), Toronto ON M4Y 1Z5",43.667023,-79.385152,9.2,0.928703668955855,Church-Wellesley 
+39,Sivananda Yoga Vedanta Centre,"77 Harbord St (at Spadina Ave), Toronto ON M5S 1G4",43.66271,-79.402796,8.0,0.9303736505672934,University 
+40,University of Toronto Athletic Centre,"55 Harbord St (University of Toronto), Toronto ON M5S 2W6",43.662935,-79.401242,7.6,0.9648678400320236,University 
+41,889 Yoga,"889 Yonge St, Toronto ON M4W 2H2",43.674593,-79.388369,7.6,0.8574636294267022,Rosedale-Moore Park 
+42,YMCA,"20 Grosvenor St (btwn St. Vincent Ln & St. Lukes Ln), Toronto ON M4Y 2V5",43.662876,-79.385053,7.9,0.989692398143631,Bay-Cloverhill 
+43,Goodlife Fitness,"80 Bloor St W (Btwn Bellair St & Bay St), Toronto ON M5S 2V1",43.669737,-79.390308,7.3,0.974337323776285,Annex 
+44,Iam Yoga,"680 Yonge St, Toronto ON M4Y 2A6",43.667316,-79.38576,7.3,0.8618230945322175,Bay-Cloverhill 
+45,Goodlife Fitness,"8 Park Rd (at Bloor St. E.), Toronto ON M4W 3S5",43.671165,-79.384549,7.1,0.9753318072078158,Rosedale-Moore Park 
+46,Trainers Fitness,"754 Bathurst St (at Bloor St. W), Toronto ON M5S 2R6",43.6643,-79.411046,6.6,0.8284297169162257,Palmerston-Little Italy 
+47,Hart House Gym,"7 Hart House Cir (University of Toronto), Toronto ON M5S 3H3",43.664172,-79.394888,6.3,0.9258828385934627,University 
+48,Personal Training,"682 Huron St, Toronto ON",43.674458,-79.407244,null,0.7870867264607648,Annex 
+49,Goodlife Fitness,"12 St Clair Ave E (St. Clair Centre), Toronto ON M4T 1L7",43.688367,-79.393559,6.2,0.9839318997760849,Rosedale-Moore Park 
+50,Crossfit Inc,"175 Ave Rd, Toronto ON M5R 2J2",43.674904,-79.396464,null,0.8523411015624023,Annex 
+51,SoulCycle,"55 Ave Rd, Toronto ON M5R 3L2",43.671523,-79.395083,null,0.8425651417920716,Annex 
+52,Manulife Residences Gym,"44 Charles St W (Bay), Toronto ON M4Y 1R7",43.668552,-79.388062,5.8,0.9643236887204313,Bay-Cloverhill 
+53,World TKD,"754 Bloor St W, Toronto ON",43.66325,-79.419296,null,0.5804093018601219,Palmerston-Little Italy 
+54,Goodlife Fitness,"533 College St (Euclid Avenue), Toronto ON M6G 1A8",43.655594,-79.411105,6.0,0.8620107329155252,Trinity-Bellwoods 
+55,Weight Room,"625 Spadina, Toronto ON",43.663048,-79.400465,null,0.8492325590122716,University 
+56,Arthur Murray Dance Studio,"70 Yorkville Ave (Bay St.), Toronto ON M5R 1B9",43.671388,-79.390758,null,0.06505422749277592,Annex 
+57,Christine's Fitness & Personal Training,"912 Yonge St, Toronto ON M4W 2J2",43.673803,-79.38843,null,0.568625611388399,Annex 
+58,Afro Latino Dance,"901 Yonge St, Toronto ON M4W 2H2",43.674704,-79.388387,null,0.8504897361804331,Rosedale-Moore Park 
+59,Totum Life Science,"2 Roxborough St E (Yonge St.), Toronto ON M4W 3V7",43.67804,-79.38962,null,0.8030547528802492,Rosedale-Moore Park 
+60,Eden Pilates,"901 Yonge St (Yonge and Bloor), Toronto ON M4W 2H2",43.674704,-79.388387,null,0.26610875520696514,Rosedale-Moore Park 
+61,Roots Yoga Studio,"1073 Yonge St, Toronto ON M4W 2L2",43.678849,-79.390076,null,0.8613665077995021,Rosedale-Moore Park 
+62,Collier Gym,"20 Collier St, Toronto ON M4W 3Y4",43.672617,-79.386979,null,0.02895260254437648,Rosedale-Moore Park 
+63,Body Harmonics Pilates,"672 Dupont St (Christie Street), Toronto ON M6G 1Z6",43.671702,-79.421958,null,0.8038115610262568,Dovercourt Village 
+64,Florida Jack's Boxing Club,"782 Yonge St (Bloor), Toronto ON M4Y 2B6",43.669763,-79.386851,null,0.535082123065761,Bay-Cloverhill 
+65,Power Institute,"79 St Nicholas St, Toronto ON M4Y 1W8",43.668143,-79.386734,null,0.7552069651367884,Bay-Cloverhill 
+66,Ultimate Athletics Club Inc,"1216 Yonge St (Alcorn Avenue), Toronto ON M4T 1W1",43.681818,-79.391719,null,0.35470534519207914,Yonge-St.Clair 
+67,The Forest Hill Gym,"500 St Clair Ave W, Toronto ON M6C 1A8",43.683126,-79.418648,null,0.07690046409226804,Wychwood 
+68,Arabesque Academy,"1 Gloucester St (Yonge St), Toronto ON M4Y 0C7",43.666475,-79.384971,null,0.9007518044557862,Church-Wellesley 
+69,L3 Fitness,"9 Saint Joseph St (""at Yonge St.""), Toronto ON M4Y 1J6",43.665807,-79.38566,null,0.47605734228993885,Bay-Cloverhill 
+70,24 WW Gym,"24 Wellesley St W, Toronto ON M4Y 2X6",43.664623,-79.3865,null,0.11254550230795211,Bay-Cloverhill 
+71,Body Pump Inc,"25 Saint Nicholas St (Wellesley), Toronto ON M4Y 1W5",43.66537,-79.385497,null,0.040298470121714766,Bay-Cloverhill 
+72,Orangetheory Fitness,"160 Bloor St E, Toronto ON M4W 1B9",43.671508,-79.38292,null,0.8979810109956092,Rosedale-Moore Park 
+73,Brass Vixens,"577 Yonge St, Toronto ON M4Y 1Z2",43.665659,-79.384608,null,0.7850289588571572,Church-Wellesley 
+74,Burano Gym,"832 Bay St, Toronto ON M5S 1Z6",43.662084,-79.385909,null,0.8585894597265483,Bay-Cloverhill 
+75,Couture Condo Gym,"28 Ted Rogers Way, Toronto ON M4Y 2J4",43.670715,-79.38036,null,0.9261392777173165,Church-Wellesley 
+76,Core Concepts,"466 Spadina Ave (Heath Street West), Toronto ON M5T 2G8",43.688915,-79.413063,null,0.8760711024380481,Forest Hill South 
+77,Realthings,"652 Huron St, Toronto ON M5R 2R9",43.674202,-79.404584,null,null,Annex 
+78,Coyne Pilates,"174 Bedford Rd, Toronto ON M5R 2K9",43.675086,-79.400141,null,null,Annex 
+79,Shape Health & Wellness Centre Inc,"261 Davenport Rd, Toronto ON M5R 1K3",43.674215,-79.398225,null,null,Annex 
+80,Fit and Fed,"374 Dupont Ave, Toronto ON M5R 1V9",43.674163,-79.410518,null,null,Annex 
+81,Sahaja Yoga Meditation Toronto,"252 Bloor St W, Toronto ON M5S 1V6",43.668349,-79.398598,null,null,Annex 
+82,Yoga Studio,"344 Bloor St W, Toronto ON M5S 3A7",43.666423,-79.40423,null,null,University 
+83,Yoga Way,"82 Ave Rd, Toronto ON M5R 2H2",43.671979,-79.395763,null,null,Annex 
+84,Equinox Fittness,"55 Ave Rd, Toronto ON M5R 3L2",43.671979,-79.395763,null,null,Annex 
+85,Annex Dance Academy Inc,"942 Bathurst St, Toronto ON M5R 3G5",43.669103,-79.412936,null,null,Annex 
+86,GoodLife Fitness,"21055 Bloor St W, Toronto ON M4W 1A5",43.668485,-79.395954,null,null,Annex 
+87,GoodLife Fitness North York York Mills Centre,"4025 Yonge St (York Mills Road), North York ON M2P 2E3",43.744834,-79.406507,8.4,0.95656171426427,St.Andrew-Windfields 
+88,Moksha Yoga North York,"100 Sheppard Ave E (Kenneth), North York ON M2N 6N5",43.76301,-79.405383,6.8,0.9218235949012397,East Willowdale 
+89,LA Fitness,"4861 Yonge St (Sheppard Ave), Toronto ON M2N 6Y9",43.762338,-79.410759,6.7,0.9678825633905005,Yonge-Doris 
+90,Goodlife Fitness,"4950 Yonge St (Yonge St & Sheppard Ave.), North York ON M2N 6K1",43.764852,-79.41252,6.6,0.9807608110981849,Lansing-Westgate 
+91,North York YMCA,"567 Sheppard Ave E (at Bayview Ave.), Toronto ON M2K 1B2",43.765597,-79.386769,6.1,0.9932325089753693,Bayview Village 
+92,Jaya Yoga Centre,"121 Willowdale Ave, North York ON M2N 6A3",43.765042,-79.399849,null,0.4324439273964549,East Willowdale 
+93,Avonshire Gym,"100 Harrison Garden Blvd, North York ON M2N 0C2",43.756655,-79.405445,null,0.5533205739232684,Avondale 
+94,Bayview School of Ballet,"148 Willowdale Ave (Sheppard And Willowdale), North York ON M2N 4Y4",43.76621,-79.400786,null,0.696363568131497,East Willowdale 
+95,The Academy by Trainer Jo,"1100 Sheppard Ave E, North York ON M2K 2W1",43.761921,-79.407224,null,0.8835703831575787,Avondale 
+96,Spectrum I Gym,"30 Harrison Garden Blvd, Toronto ON M2N 7A9",43.756276,-79.408336,null,0.8182346980898413,Avondale 
+97,Bikram Toronto,"500 Sheppard Ave E (at Bayview Ave.), Toronto ON M2N 6H7",43.766737,-79.388872,null,0.9801478590460465,East Willowdale 
+98,Hot Yoga TNT,"500 Sheppard Ave E, North York ON M2N 6H7",43.766966,-79.388815,null,0.7774233497204188,East Willowdale 
+99,Ultima Gym,"4978 Yonge St (at N York Blvd.), Toronto ON M2N 7G8",43.765816,-79.410846,null,0.4889230807720694,Yonge-Doris 
+100,Prelude Gym,"151 Beecroft Rd, North York ON M2N 7C4",43.764297,-79.413116,null,0.03844085012696864,Lansing-Westgate 
+101,WCC Gym,"28 William Carson Cres (at Yonge St.), Toronto ON M2P 2H1",43.749898,-79.407176,null,0.7074780150360891,St.Andrew-Windfields 
+102,Fit4Less,"5150 Yonge St, North York ON M2N 6L8",43.768309,-79.412886,null,0.9852391138464618,Willowdale West 
+103,Toronto Dance Salsa,"5095 Yonge St (Empress Avenue), Toronto ON M2N 6Z4",43.768291,-79.412367,null,0.25727098735317294,Yonge-Doris 
+104,Goh Ballet,"2901 Bayview Ave, Toronto ON M2K 1E6",43.768729,-79.383812,null,0.840832614052864,Bayview Village 
+105,Cardio Go,"4025 Yonge St (at York Mills), Toronto ON M2P 2E3",43.744886,-79.406562,null,0.4159817865675936,St.Andrew-Windfields 
+106,YMC Club,"4025 Yonge St (in York Mills Centre), Toronto ON M2P 2E3",43.744548,-79.405805,null,0.8600718029546791,St.Andrew-Windfields 
+107,Xbody North York,"125 Sheppard Ave E, North York ON M2N 3A5",43.763067,-79.403049,null,null,Avondale 
+108,Russian Classical Ballet Academy,"110 Sheppard Ave E, Toronto ON M2N 6Y8",43.762803,-79.404366,null,null,Avondale 
+109,Yoga Spirit Workshops & Tele-Classes,"10 Lyndale Dr, North York ON M2N 2Y1",43.761766,-79.406262,null,null,Avondale 
+110,Dance With Us.ca,"4578 Yonge St, North York ON",43.756547,-79.41002,null,null,Lansing-Westgate 
+111,Dance Lessons,"4578 Yonge St, North York ON M2N 5L7",43.756547,-79.41002,null,null,Lansing-Westgate 
+112,Yoga with Taya,"4578 Yonge St, Toronto ON M2N 5L7",43.756461,-79.410428,null,null,Lansing-Westgate 
+113,Inbody Fitness Studio,"4844 Yonge St, North York ON",43.762362,-79.411547,null,null,Lansing-Westgate 
+114,Extreme Fitness Inc,"4950 Yonge St, North York ON M2N 6K1",43.764793,-79.412557,null,null,Lansing-Westgate 
+115,Freddy's Dance Academy,"47 Harlandale Ave, North York ON M2N 1N9",43.761939,-79.413928,null,null,Lansing-Westgate 
+116,Beach Body Fitness Co,"2885 Bayview Ave, Toronto ON M2K 0A3",43.768478,-79.388118,null,null,Bayview Village 
+117,Laxbody,"120 Sheppard Ave W, North York ON M2N 1M5",43.760337,-79.417204,null,null,Lansing-Westgate 
+118,Arthur Murray Franchised Dance Studio,"27 Rean Dr, Toronto ON M2K 0A6",43.767566,-79.382864,null,null,Bayview Village 
+119,Ultra Fitness Inc,"5179 Yonge St, North York ON M2N 5P5",43.770062,-79.412744,null,null,Yonge-Doris 
+120,Tripcookie,"233 Beecroft Rd, Toronto ON M2N 6Z9",43.769643,-79.416193,null,null,Willowdale West 
+121,Seventh Star Fitness,"55 Ellerslie Ave, North York ON M2N 1X9",43.771202,-79.414849,null,null,Willowdale West 
+122,York Mills Centre,"55 University Ave, Toronto ON M5J 2H7",43.744849,-79.405525,null,null,St.Andrew-Windfields 
+123,Toronto Dancesport,"16 York Mills Rd, North York ON M2P 2E5",43.744541,-79.405898,null,null,St.Andrew-Windfields 
+124,CrossFit Toronto,"24 Industrial St (Don Mills & Lawrence), Toronto ON M4G 1Y9",43.735359,-79.348041,8.8,0.8138001776310029,Banbury-Don Mills 
+125,LA Fitness,"1380 Don Mills Rd (Mallard Rd), Toronto ON M3B 2X2",43.747551,-79.347257,8.1,0.993664077256977,Banbury-Don Mills 
+126,Fitness Connection,"900 Don Mills Rd, Toronto ON M3C 1V6",43.726793,-79.342188,7.7,0.8658323013222251,Banbury-Don Mills 
+127,Goodlife Fitness,"825 Don Mills Rd (at Eglinton Ave. E), North York ON M3C 1V4",43.722683,-79.337651,6.8,0.052882751028883804,Banbury-Don Mills 
+128,Elite Dance Studio,"30 Kern Rd, Toronto ON M3B 1T1",43.749651,-79.350073,null,0.5351884514829687,Banbury-Don Mills 
+129,Dallimore Cir Gym,"120 Dallimore Cir (Green belt), Toronto ON M3C 4J1",43.730592,-79.332347,null,0.7395454147433732,Banbury-Don Mills 
+130,Orangetheory Fitness,"861 York Mills Rd (Leslie), Toronto ON M3B 1Y2",43.75435,-79.351147,null,0.8282295693073641,Banbury-Don Mills 
+131,Champion Athletic Club,"95 Cottonwood Dr, North York ON M3C 2B3",43.730289,-79.342788,null,null,Banbury-Don Mills 
+132,AK Fitness Studio,"44 Prince Andrew Pl, North York ON M3C 2H4",43.726082,-79.345821,null,null,Banbury-Don Mills 
+133,Borkowski Karate Studio,"900 Don Mills Rd, North York ON M3C 1V6",43.726911,-79.342113,null,null,Banbury-Don Mills 
+134,Tuyeni Home Fitness,"44 Neilson Park Dr, Scarborough ON M1B 6B1",43.747058,-79.344743,null,null,Banbury-Don Mills 
+135,Yoga 4 Lyf,"213 Three Valleys Dr, North York ON M3A 3L7",43.74492,-79.336207,null,null,Parkwoods-O'Connor Hills 
+136,Fitness Marketing,"20 Apollo Dr, North York ON M3B 2G8",43.74678,-79.362594,null,null,Banbury-Don Mills 
+137,H20 Fit,"12 Lacewood Cres, North York ON M3A 2Z4",43.749575,-79.336335,null,null,Parkwoods-O'Connor Hills 
+138,Taylor'd Pilates,"40 Wynford Dr, North York ON M3C 1J5",43.723765,-79.335106,null,null,Banbury-Don Mills 
+139,Yoga For the Soul,"12 Upjohn Rd, Toronto ON M3B 2V9",43.753776,-79.35054,null,null,Banbury-Don Mills 
+140,GoodLife Fitness,"1000 Finch Ave W (at Dufferin St.), Toronto ON M3J 2V5",43.769116,-79.46884,6.1,0.985139040042031,York University Heights 
+141,Adelaide Club,"1 First Canadian Pl, Toronto ON M5X 1C8",43.766585,-79.440845,null,0.07208441225403735,Willowdale West 
+142,Dufferin North Athletics,"4646 Dufferin St (Martin Ross Ave.), Toronto ON M3H 5S4",43.774549,-79.469107,null,0.3834265270637095,York University Heights 
+143,Strictly Fitness,"4646 Dufferin St (Martin Ross Ave.), Toronto ON M3H 5S4",43.772694,-79.468339,null,0.8940531141717016,York University Heights 
+144,Discovery Gymnastics,"205 Champagne Dr (Finch), Toronto ON M3J 2C6",43.76543,-79.470824,null,0.8389499756070101,York University Heights 
+145,The Basement Yoga & Fitness Studio,"626C Sheppard Ave W, Toronto ON M3H 2S1",43.755629,-79.440377,null,0.7647765226854806,Bathurst Manor 
+146,Bathurst Jewish Community Centre,"4588 Bathurst St, North York ON M2R 1W6",43.762813,-79.440501,null,null,Westminster-Branson 
+147,Aerial Addictions,"154 Kennard Ave, North York ON M3H 4M5",43.760449,-79.460553,null,null,Bathurst Manor 
+148,Iyengar Yogananta,"40 Devondale Ave, North York ON",43.777977,-79.436749,null,null,Newtonbrook West 
+149,Tease Fitness,"275 Hidden Trail, North York ON M2R 3S7",43.78229,-79.45704,null,null,Westminster-Branson 
+150,Fitness Depot Downsview,"2 Champagne Dr, North York ON M3J 0K2",43.767645,-79.471275,null,null,York University Heights 
+151,D-jay's Combat Camp,"626C Sheppard Ave W, Toronto ON M3H 2S1",43.754976,-79.440085,null,null,Clanton Park 
+152,Busy Bodyz Private Fitness Training,"834 Sheppard Ave W, North York ON M3H 2T1",43.75294,-79.4518,null,null,Bathurst Manor 
+153,Fitness Marketing,"40 Brisbane Rd, North York ON M3J 2J8",43.77252,-79.472249,null,null,York University Heights 
+154,Curves,"824 Sheppard Ave W, North York ON M3H 2T2",43.75272,-79.450968,null,null,Clanton Park 
+155,InTech High Performance Training,"1107 Finch Ave W, Toronto ON M3J 2P7",43.766975,-79.47276,null,null,York University Heights 
+156,Sunny Gym,"265 Rimrock Rd, Toronto ON M3J 3C6",43.757079,-79.466665,null,null,York University Heights 
+157,Headrush Training Center,"4884 Dufferin St, North York ON M3H 5S8",43.78006,-79.469855,null,null,York University Heights 
+158,Canada's National Ballet School,"400 Jarvis St (btwn Carlton & Maitland St.), Toronto ON M4Y 2G6",43.663641,-79.3776,8.8,0.974981548892308,Church-Wellesley 
+159,Equinox,"199 Bay St Commerce Crt W (at Commerce Court West, PATH Level), Toronto ON M5L 1E2",43.64827,-79.379783,8.7,0.9732302573147696,Yonge-Bay Corridor 
+160,Adelaide Club Toronto,"1 First Canadian Pl, Toronto ON M5X 1C8",43.649332,-79.381958,8.4,0.84756883201361,Yonge-Bay Corridor 
+161,Hard Candy Fitness,"382 Yonge St (Yonge & Gerrard), Toronto ON M5B 1S8",43.659458,-79.382639,7.5,0.3666641648215559,Yonge-Bay Corridor 
+162,Goodlife Fitness,"483 Bay St, Toronto ON M5G 2C9",43.653509,-79.382627,7.5,0.9868715677812386,Yonge-Bay Corridor 
+163,Doubletree Fitness Centre,"108 Chestnut Cres (Dundas St W), Toronto ON M1L 1Y5",43.65471,-79.386184,7.3,0.9760886153538234,Yonge-Bay Corridor 
+164,The Underground Dance Centre,"220 Richmond St W, Toronto ON M5V 1V6",43.649854,-79.388122,7.4,0.9081197383070014,Wellington Place 
+165,Goodlife Fitness,"267 Richmond St W, Toronto ON M5V 3M6",43.648743,-79.391825,7.4,0.964261142592662,Wellington Place 
+166,Fitness Centre,"Sheraton Ctr (123 Queen St W), Toronto ON M5H 2M9",43.650978,-79.384234,6.9,0.8715365081747789,Yonge-Bay Corridor 
+167,U Condominiums Fitness Centre,"65 St Mary St (Bay St), Toronto ON M5S 0A6",43.666712,-79.38948,null,0.2154776647777736,Bay-Cloverhill 
+168,Manulife Pool,"44 Charles St W, Toronto ON M4Y 1R7",43.669257,-79.388432,null,0.8524349207540561,Bay-Cloverhill 
+169,Uptown Gym,"35 Balmuto St (Bloor West), Toronto ON M4Y 0A3",43.669834,-79.387424,null,0.6409164258640747,Bay-Cloverhill 
+170,Currie Hall,"105 Maitland St (Jarvis), Toronto ON M4Y 1E4",43.664682,-79.379495,null,0.90165872330844,Church-Wellesley 
+171,Body by Chosen,"195 Church St, Toronto ON M5B 1Y7",43.655525,-79.376496,null,0.7933913761399032,Downtown Yonge East 
+172,The Dark Side Studio,"244 Augusta Ave (btwn Bathurst & Spadina), Toronto ON M5T 2L7",43.655585,-79.402734,null,0.28921329480491864,Kensington-Chinatown 
+173,Dance Annex,"527 Bloor St W, Toronto ON M5S 1Y5",43.665367,-79.409487,null,0.7290376652781426,University 
+174,Barry's Bootcamp,"310 Richmond St W, Toronto ON M5V 1X2",43.649024,-79.391823,null,0.9284659936703319,Wellington Place 
+175,Basecamp Climbing,"186 Spadina Ave, Toronto ON M5T 3B2",43.64967,-79.397695,null,0.9680389287099236,Kensington-Chinatown 
+176,Goodlife Fitness,"21 McCaul St (at Queen St W), Toronto ON M5T 1V7",43.650968,-79.389796,5.3,0.9063747013422399,Kensington-Chinatown 
+177,BOLO - BodyLove,"364 Richmond St W, Toronto ON M5V 1X6",43.648426,-79.393878,null,0.42702743273163957,Wellington Place 
+178,1 Cole Gym,"25 Cole St, Toronto ON M5A 4M3",43.659887,-79.365874,null,0.9782652206001926,Regent Park 
+179,Space Lofts,"255 Richmond St E, Toronto ON M5A 4T7",43.653303,-79.369971,null,0.9249383920641473,Moss Park 
+180,The King West Club,"266 King St W (at John St), Toronto ON M5V 1H8",43.647125,-79.387828,null,0.8508650129470484,Wellington Place 
+181,Legends Fitness Inc,"1 Irwin Ave, Toronto ON M4Y 1L1",43.666434,-79.385526,null,null,Bay-Cloverhill 
+182,DanceLife Studio,"593 Yonge St, Toronto ON M4Y 1Z4",43.666089,-79.384863,null,null,Church-Wellesley 
+183,Walker Dance Studios,"1 Gloucester St, Toronto ON M4Y 0C7",43.666364,-79.384954,null,null,Church-Wellesley 
+184,RAMP Home Exercise Program,"619 Yonge St, Toronto ON M4Y 1Z5",43.666964,-79.38519,null,null,Church-Wellesley 
+185,YMCA of Greater Toronto,"20 Grosvenor St, Toronto ON",43.663051,-79.385012,null,null,Bay-Cloverhill 
+186,Kangoo Club Toronto,"7 Isabella St, Toronto ON M4Y 1M7",43.667526,-79.385186,null,null,Church-Wellesley 
+187,Articulate Bodies - a Boutique Pilates and Movement Studio,"750 Yonge St, Toronto ON",43.669214,-79.386682,null,null,Bay-Cloverhill 
+188,Btf Canada Corporation-Bally Total Fitness,"80 Bloor St W, Toronto ON M5S 2V1",43.669684,-79.390253,null,null,Annex 
+189,Xquisite Fitness,"782 Yonge St, Toronto ON M4Y 2B6",43.66977,-79.386759,null,null,Bay-Cloverhill 
+190,Braithwaite Physiotherapy,"208 Bloor St W, Toronto ON",43.668636,-79.396086,null,null,Annex 
+191,Sklpt Your Body,"70 Yorkville Ave, Toronto ON M5R 1B9",43.671375,-79.390943,null,null,Annex 
+192,Royal Academy of Dance,"1200 Sheppard Ave E, North York ON M2K 2S5",43.77136,-79.36772,null,null,Bayview Village 
+193,Sports Camps Canada,"65 Van Horne Ave, North York ON M2J 2S8",43.784909,-79.359889,null,null,Don Valley Village 
+194,Conservatory of Dance & Music,"5915 Leslie St, North York ON M2H 1J8",43.798227,-79.370072,null,0.3215746613127181,Bayview Woods-Steeles 
+195,Better Bodies Fitness,"1515 Steeles Ave E, North York ON M2M 3Y7",43.805334,-79.385276,null,null,Bayview Woods-Steeles 
+196,Fit Pro,"3351 Bayview Ave, Toronto ON M2K 1G5",43.792787,-79.39317,null,null,Bayview Woods-Steeles 
+197,Foremost Fitness,"1760 Ave Rd (at Avenue Rd), North York ON M5M 3Y9",43.729062,-79.418644,null,0.032148709673384124,Bedford Park-Nortown 
+198,Gravitate Studio,"1947 Ave Rd, Toronto ON M5M 4A2",43.734008,-79.419389,null,0.4700278955729851,Bedford Park-Nortown 
+199,Max Revolution,"1947 Ave Rd, Toronto ON M5M 4A2",43.734008,-79.419389,null,0.659899175642036,Bedford Park-Nortown 
+200,Tandem Studios,"3300 Yonge St (btw Lawrence and York Mills), Toronto ON M4N 2L6",43.730531,-79.403846,null,0.8870229294104403,Lawrence Park North 
+201,Dextraze Fitness Centre,"215 Yonge Blvd (at Wilson Ave), Toronto ON M5M 3H9",43.743465,-79.413736,null,0.8519408063446792,Bedford Park-Nortown 
+202,Sportchek,"3401 Dufferin St (in Yorkdale), Toronto ON",43.730386,-79.442114,null,0.26592111682365743,Englemount-Lawrence 
+203,Lili Viola Pilates Inc,"1759 Ave Rd, Toronto ON M5M 3Y8",43.72937,-79.418272,null,null,Bedford Park-Nortown 
+204,UnitedSalseros MamboMosaic Fan Page,"1660 Ave Rd, Toronto ON M5M 3Y1",43.726718,-79.41766,null,null,Bedford Park-Nortown 
+205,Disc Golf Sales and Lessons,"265 Brookdale Ave, Toronto ON M5M 1P6",43.728058,-79.411599,null,null,Lawrence Park North 
+206,York School of Dance,"100 Old Orch Grove, Toronto ON M5M 2E2",43.733763,-79.408859,null,null,Lawrence Park North 
+207,Royal Academy of Dancing,"3284 Yonge St, Toronto ON M4N 2L6",43.730361,-79.403866,null,null,Lawrence Park North 
+208,Tandem Dance and Fitness,"3300 Yonge St, Toronto ON M4N 2L6",43.73059,-79.403809,null,null,Lawrence Park North 
+209,Lili Viola Pilates Inc,"3345 Yonge St, Toronto ON M4N 2M6",43.731336,-79.4036,null,null,Lawrence Park North 
+210,Pilates Toronto,"3313 Yonge St, Toronto ON M4N 2L9",43.730506,-79.403421,null,null,Lawrence Park North 
+211,The Perfect Fit,"17 Frontenac Ave, North York ON M5N 1Z4",43.718213,-79.421824,null,null,Bedford Park-Nortown 
+212,Sophie Solmini Coach,"3080 Yonge St, Toronto ON M4N 3N1",43.725488,-79.4029,null,null,Lawrence Park North 
+213,Ruby Rasaei,"3077 Bathurst St, North York ON M6A 1Z9",43.719842,-79.429529,null,null,Bedford Park-Nortown 
+214,Roland & Romaine Productions Ltd,"508B Lawrence Ave W, North York ON M6A 1A1",43.718819,-79.431238,null,null,Englemount-Lawrence 
+215,Niskers Fitness,"2770 Yonge St, Toronto ON M4N 2J3",43.718767,-79.401078,null,null,Lawrence Park South 
+216,York Gymnastics Club,"2690 Eglinton Ave W, Toronto ON M6M 1T9",43.690154,-79.476055,null,0.8384245881337486,Beechborough-Greenbrook 
+217,Crossfit Inc,"662 Caledonia Rd, Toronto ON M6E 4V9",43.696206,-79.463609,null,0.3675898475125405,Briar Hill-Belgravia 
+218,Fitness Centre,"32 Colville Rd (Keele St), Toronto ON M6M 2Y4",43.70655,-79.476875,null,0.25709585819541914,Brookhaven-Amesbury 
+219,"iLoveKickboxing - Toronto - West, on","605 Rogers Rd, Toronto ON M6M 1B9",43.680383,-79.472983,null,0.9684079508637621,Keelesdale-Eglinton West 
+220,Beaches Sabre Club,"45 Densley Ave, North York ON M6M 2P5",43.704053,-79.472634,null,null,Brookhaven-Amesbury 
+221,In Motion Bodies,"62 Clarkson Ave, York ON M6E 2T6",43.697355,-79.46285,null,null,Briar Hill-Belgravia 
+222,iLoveKickboxing.com,"605 Rogers Rd, York ON M6M 1B9",43.680383,-79.472983,null,null,Keelesdale-Eglinton West 
+223,Yorkdale Martial Arts Academy,"62 Clarkson Ave, Toronto ON",43.697514,-79.461886,null,null,Briar Hill-Belgravia 
+224,Fit Buzz Gym,"1302 Lawrence Ave W, North York ON M6L 1A6",43.710008,-79.474156,null,null,Maple Leaf 
+225,GoodLife Fitness Scarborough Kennedy and Lawrence,"1141 Kennedy Rd, Scarborough ON M1P 2K8",43.752036,-79.274649,7.8,0.9894171951814463,Dorset Park 
+226,Fitness Centre,"1346 Danforth Ave, Toronto ON M4J 1M9",43.743855,-79.246807,null,0.9306050712400395,Eglinton East 
+227,The Cobra Gym,"1 Brantwood Dr, Scarborough ON M1H 2G5",43.7635,-79.247068,null,null,Woburn North 
+228,Dance Fusion,"489 Brimley Rd, Scarborough ON M1J 1A3",43.733396,-79.246952,null,null,Kennedy Park 
+229,J'Danse Studio,"150 Nantucket Blvd, Scarborough ON M1P 2P1",43.756894,-79.274287,null,null,Dorset Park 
+230,Phase Lll Fitness,"4 Deborah Dr, Scarborough ON M1H 2H6",43.764883,-79.241848,null,null,Woburn North 
+231,Southside Muay Thai Academy,"2065 Midland Ave, Scarborough ON M1P 4P8",43.770124,-79.270787,null,0.8575261755544714,Bendale-Glen Andrew 
+232,Afterburn Fitness,"230 Nantucket Blvd, Scarborough ON M1P 2N9",43.759357,-79.275985,null,0.9226617130133473,Dorset Park 
+233,LA Fitness,"33 William Kitchen Rd (Kennedy Rd), Scarborough ON M1P 5B7",43.774416,-79.281491,null,0.9948712175229232,Dorset Park 
+234,Present Truth Fitness,"2065 Midland Ave, Scarborough ON M1P 4P8",43.770124,-79.270787,null,null,Bendale-Glen Andrew 
+235,London School of Dance,"2065 Midland Ave, Scarborough ON M1P 4P8",43.769966,-79.271418,null,null,Bendale-Glen Andrew 
+236,J'Danse Studio | Dance Studio | Kids Dance Classes,"2105 Midland Ave, Toronto ON",43.77113,-79.27128,null,null,Bendale-Glen Andrew 
+237,Prima Dance School,"2105 Midland Ave, Scarborough ON M1P 3E3",43.771103,-79.272018,null,null,Bendale-Glen Andrew 
+238,Rosetefit,"230 Nantucket Blvd, Scarborough ON M1P 2N9",43.758429,-79.275606,null,null,Dorset Park 
+239,Mademoiselle Spa,"1399 Kennedy Rd, Scarborough ON M1P 2L6",43.76391,-79.279887,null,null,Dorset Park 
+240,Curves,"1225 Kennedy Rd, Scarborough ON M1P 4Y1",43.755682,-79.277095,null,null,Dorset Park 
+241,Olympia Fitness & Mma,"1950 Ellesmere Rd, Scarborough ON M1H 2V8",43.775007,-79.239353,null,null,Woburn North 
+242,Scarborough Japanese Jiu Jitsu and Martial Arts Club,"1950 Ellesmere Rd, Scarborough ON M1H 2V8",43.775229,-79.239387,null,null,Woburn North 
+243,Nithyananda Meditation Academy,"1960 Ellesmere Rd, Scarborough ON M1H 2V9",43.775118,-79.238573,null,null,Woburn North 
+244,Variety Village,"3701 Danforth Ave (Kingston Rd), Scarborough ON M1N 2G2",43.698804,-79.258721,7.0,0.9881224903366232,Birchcliffe-Cliffside 
+245,Variety - the Children's Charity,"3701 Danforth Ave, Scarborough ON M1N 2G2",43.698661,-79.258371,null,null,Birchcliffe-Cliffside 
+246,Curves,"3400 Danforth Ave, Scarborough ON M1L 1E1",43.693575,-79.276898,null,null,Oakridge 
+247,Taoist Tai Chi Society of Canada,"1430 Kingston Rd, Scarborough ON M1N 1R3",43.687497,-79.271594,null,null,Birchcliffe-Cliffside 
+248,Fearless Fitness,"1429 Kingston Rd, Scarborough ON M1N 1R4",43.687171,-79.27145,null,null,Birchcliffe-Cliffside 
+249,Yoga Vitality Studio,"2 Valhalla Blvd, Scarborough ON M1N 3B2",43.685966,-79.267097,null,null,Birchcliffe-Cliffside 
+250,Satyaram Yoga & Reflexology,"39 Preston St, Scarborough ON M1N 3N2",43.704194,-79.259518,null,null,Birchcliffe-Cliffside 
+251,Yogaaah,"1 Firvalley Crt, Scarborough ON M1L 1N8",43.703051,-79.281006,null,null,Oakridge 
+252,Alyona's Dance Studio,"1234 Kingston Rd, Scarborough ON M1N 1P3",43.682787,-79.278574,null,null,Birchcliffe-Cliffside 
+253,The Nhl Arena,"1165 Kingston Rd, Scarborough ON M1N 1P2",43.682055,-79.279395,null,null,Birchcliffe-Cliffside 
+254,Nupur Dance Academy,"3079 Danforth Ave, Toronto ON M1L 1A8",43.691506,-79.287756,null,null,Oakridge 
+255,Sanctuary Y,"3003 Danforth Ave, Toronto ON M4C 1M9",43.691243,-79.289071,null,null,Taylor-Massey 
+256,Planet Fitness,"1 York Gate Blvd, North York ON M3N 3A1",43.757392,-79.519811,null,0.9926383207615617,Black Creek 
+257,Gold Standard Equipment,"4359 Jane St, Toronto ON M3N 2K3",43.763731,-79.51845,null,null,Black Creek 
+258,Total Performance Athletics,"989 Murray Ross Pky, North York ON M3J 3M4",43.773771,-79.514924,null,null,York University Heights 
+259,Uno Mas Fitness,"25 Kidd Terr, North York ON M3J 3S9",43.766207,-79.5039,null,null,York University Heights 
+260,Definitely Dance,"2885 Jane St, North York ON M3N 2J6",43.751872,-79.51615,null,null,Glenfield-Jane Heights 
+261,Euro-Can Soccer Academy,"643 Sentinel Rd, Toronto ON M3J 0B4",43.767536,-79.501115,null,null,York University Heights 
+262,Hi-Five Health Clinic,"4700 Keele St, Toronto ON M3J 1P3",43.773338,-79.502477,null,null,York University Heights 
+263,Kids in Dance,"293 Eddystone Ave, North York ON M3N 1H8",43.747299,-79.522662,null,null,Glenfield-Jane Heights 
+264,Moksha Yoga Danforth,"372A Danforth Ave (at Chester Ave), Toronto ON M4K 1N8",43.677597,-79.352316,7.9,0.8602844597890944,Playter Estates-Danforth 
+265,Spirit Loft,"290 Carlaw Ave (btwn Dundas St. E. & Queen St. E.), Toronto ON M4M 3L1",43.663446,-79.34147,7.4,0.32941794573497957,South Riverdale 
+266,Riverdale Fitness,"835 Danforth Ave, Toronto ON M4J 1L2",43.679627,-79.340523,null,0.8927083724246632,Blake-Jones 
+267,YogaFit Training Centre,"898 Danforth Ave (Danforth and Jones), Toronto ON M4J 1L9",43.68023,-79.339168,null,0.5859633980060295,Danforth 
+268,Hone Fitness,"603 Danforth Ave (Gough), Toronto ON M4K 1R2",43.678526,-79.346024,null,0.9502695738106853,North Riverdale 
+269,The S P a C E,"1324 Danforth Ave (at Greenwood and Danforth), Toronto ON M4J 1M9",43.682217,-79.329519,null,0.43605909358151634,Danforth 
+270,Goodlife Fitness,"635 Danforth Ave (at Pape Ave), Toronto ON M4K 1R2",43.678653,-79.345467,5.2,0.9297231708384934,North Riverdale 
+271,Loft Cycle Club Inc,"452 Danforth Ave, Toronto ON M4K 1P4",43.678018,-79.350372,null,0.8692410652856482,Playter Estates-Danforth 
+272,Orangetheory Fitness,"423 Danforth Ave (Chester), Toronto ON M4K 1P1",43.677514,-79.351134,null,0.8080334246506798,North Riverdale 
+273,Toronto Newsgirls Boxing Club,"388 Carlaw Ave (Dundas), Toronto ON M4M 2T4",43.665862,-79.342226,null,0.8320886653907257,South Riverdale 
+274,Risque Fitness,"403 Danforth Ave (Danforth Ave And Chester Street), Toronto ON M4K 1P1",43.67748,-79.351596,null,0.17458500644225117,North Riverdale 
+275,Primal Movement,"388 Carlaw Ave (at Dundas St. E), Toronto ON M4M 2T4",43.66581,-79.342171,null,0.9458475625774009,South Riverdale 
+276,Goodlife Fitness,"280 Coxwell Ave (at Gerrard), Toronto ON M4L 3B6",43.673275,-79.319594,5.7,0.9573435408613853,Greenwood-Coxwell 
+277,Primal MMA Academy,"388 Carlaw Ave, Toronto ON M4M 2T4",43.665737,-79.342393,null,0.07475513190978346,South Riverdale 
+278,BOMB Fitness,"1502 Danforth Ave, Toronto ON M4J 1N4",43.683137,-79.325314,null,0.6183810560288212,Danforth 
+279,Tidal Crossfit Danforth,,43.683196,-79.325276,null,0.8145132034875721,Danforth 
+280,Libra Fitness,"1116 Dundas St E (Logan), Toronto ON M4M 1S1",43.664319,-79.343384,null,0.16472148209304363,South Riverdale 
+281,The Flying Yogi,"245 Carlaw Ave (Dundas Street), Toronto ON M4M 2S1",43.663656,-79.340895,null,0.8143756020064797,South Riverdale 
+282,Fortis Fitness,"276 Carlaw Ave (Queen), Toronto ON M4M 3L1",43.663349,-79.341267,null,0.8042181108567569,South Riverdale 
+283,Artists' Play,"401 Logan Ave (Logan Avenue), Toronto ON M4M 2P2",43.664174,-79.343829,null,0.8797550693636557,South Riverdale 
+284,Aradia Fitness,"245 Carlaw Ave (Dundas and Carlaw), Toronto ON M4M 2S1",43.663323,-79.340842,null,0.24892107929598078,South Riverdale 
+285,Garment Factory Lofts,"233 Carlaw Ave (btwn Dundas St & Queen St. E), Toronto ON M4M 3N6",43.662978,-79.34018,null,0.9063121552144707,South Riverdale 
+286,Cornerstone Studio,"1519 Gerrard St E, Toronto ON M4L 2A4",43.672647,-79.319729,null,0.8347718942720256,Greenwood-Coxwell 
+287,Hone Fitness Inc,"181 Carlaw Ave (Carlaw & Queen), Toronto ON",43.661313,-79.339916,null,0.9433582266921855,South Riverdale 
+288,Yoga Mamas,"1402 Queen St E (Greenwood), Toronto ON M4L 1C9",43.664804,-79.324196,null,0.8445165809784716,Greenwood-Coxwell 
+289,Torq Ride,"978 Queen St E (at Carlaw Ave), Toronto ON M4M 1K1",43.661261,-79.339861,null,0.8408513778911948,South Riverdale 
+290,Yogathletix,"909 Queen St E (Logan Ave), Toronto ON M4M 1J4",43.660645,-79.3414,null,0.2465005441513116,South Riverdale 
+291,Pegasus Studios,"361 Glebeholme Blvd (Coxwell), Toronto ON M4C 1T9",43.686022,-79.322682,null,0.9200785579364782,Danforth 
+292,One Academy,"858 Eastern Ave (Laing), Toronto ON M4L 1A1",43.662253,-79.326911,null,0.9811986339925696,Greenwood-Coxwell 
+293,Chi Junky,"70 McGee St, Toronto ON M4M 2K9",43.659019,-79.345257,null,0.9072941294204476,South Riverdale 
+294,Metro Movement Dance Studio,"833 Broadview Ave, Toronto ON M4K 2P9",43.678868,-79.358037,null,0.4357463629426702,Playter Estates-Danforth 
+295,Crossfit Inc,"1510 Danforth Ave (Coxwell Ave.), Toronto ON M4J 1N4",43.683157,-79.325036,null,0.8979309740933938,Danforth 
+296,Yoga Fit Canada,"898 Danforth Ave, Toronto ON M4J 1L9",43.680164,-79.339298,null,null,Danforth 
+297,Swann Fitness,"842 Danforth Rd, Toronto ON M1K 1H5",43.679973,-79.340391,null,null,Danforth 
+298,Nbx Training,"635 Danforth Ave, East York ON M4K 1R2",43.678607,-79.34532,null,null,North Riverdale 
+299,Oxygen Fitness,"635 Danforth Ave, Toronto ON M4K 1R2",43.678646,-79.34556,null,null,North Riverdale 
+300,Clear Cut Fitness,"731 Pape Ave, Toronto ON M4K 3S8",43.679578,-79.344786,null,null,Danforth 
+301,Meditation Cushions Toronto,"708 Pape Ave, Toronto ON M4K 3S7",43.679456,-79.34522,null,null,Playter Estates-Danforth 
+302,Bellydance Performance and Teacher,"100 Bain Ave, Toronto ON M4K 1E8",43.672274,-79.347497,null,null,North Riverdale 
+303,Fit Zone Plus,"475 Danforth Ave, Toronto ON M4K 1P1",43.677764,-79.350004,null,null,North Riverdale 
+304,Erika Downey's Personal Training,"1 Parkmount Rd, Toronto ON M4J 0A5",43.678664,-79.32428,null,null,Greenwood-Coxwell 
+305,Lorraine Bruce Yoga,"1386 Gerrard St E, Toronto ON M4L 1Z2",43.671864,-79.324375,null,null,Greenwood-Coxwell 
+306,Curves,"433 Danforth Ave, Toronto ON M4K 1P1",43.677658,-79.350689,null,null,North Riverdale 
+307,Atma Shakti Yoga,"112 Jones Ave, Toronto ON M4M 2Z8",43.665541,-79.334226,null,null,South Riverdale 
+308,Elite Training Centre,"1590 Dundas St W, Toronto ON M6K 1T8",43.6672,-79.32911,null,null,South Riverdale 
+309,CrossFit Leslieville,"388 Carlaw Ave, Toronto ON M4M 2T4",43.665646,-79.342098,null,null,South Riverdale 
+310,Pilates Tall and Flex Classes with Leta,"403 Danforth Ave, Toronto ON M4K 1P1",43.677487,-79.351504,null,null,North Riverdale 
+311,Resilience Fitness,"1 Parkmount Rd, Toronto ON",43.678442,-79.322922,null,null,Greenwood-Coxwell 
+312,This Way to Broadway Performing Arts,"371 Danforth Ave, Toronto ON M4K 1P1",43.677397,-79.352085,null,null,North Riverdale 
+313,Yoga Pranayam Centre,"348 Danforth Ave, Toronto ON M4K 1N8",43.677504,-79.352816,null,null,Playter Estates-Danforth 
+314,Bravo's Party Dance & Fitness Studio,"2342 Dufferin St, Toronto ON M6E 3S4",43.695167,-79.449768,null,0.7526738469621346,Oakwood Village 
+315,Fairbank Sr. P.S. Gymnasium North,"2335 Dufferin St (Eglinton Avenue West), Toronto ON M6E 3S5",43.694261,-79.449108,null,0.913999074317309,Oakwood Village 
+316,Adrenalin Fitness,"68 Tycos Dr, Toronto ON M6B 1V9",43.705684,-79.455719,null,0.9135737606484783,Yorkdale-Glen Park 
+317,Bikran Yoga Forest Hill,"1059 Eglinton Ave W, Toronto ON M6C 2C9",43.699165,-79.433469,null,0.854473924519333,Humewood-Cedarvale 
+318,Front & Centre Dance Academy,"1200 Castlefield Ave, York ON M6B 1G2",43.699841,-79.45651,null,null,Briar Hill-Belgravia 
+319,Toronto24FIT,"1680 Eglinton Ave W, York ON M6E 2H5",43.696876,-79.445597,null,null,Briar Hill-Belgravia 
+320,Novita Wellness Institute,"68 Tycos Dr, Toronto ON",43.705639,-79.455571,null,null,Yorkdale-Glen Park 
+321,Lionheart Training,"370 Ridelle Ave, York ON M6B 4B4",43.704158,-79.441244,null,null,Briar Hill-Belgravia 
+322,Valid Fitness,"1410 Eglinton Ave W, Toronto ON M6C 2E5",43.69833,-79.438764,null,null,Forest Hill North 
+323,Strolf,"338 Marlee Ave, North York ON M6B 3H8",43.706663,-79.443097,null,null,Yorkdale-Glen Park 
+324,Burdeyney Beverley D Fitness,"360 Ridelle Ave, York ON M6B 1K1",43.70443,-79.439837,null,null,Briar Hill-Belgravia 
+325,AikiFit,"473 Oakwood Ave, Toronto ON M6E 2W4",43.691128,-79.439714,null,null,Oakwood Village 
+326,Dufferin Club - Ski & Snowboard,"36 Bloem Ave, Toronto ON M6E 1S1",43.686039,-79.44788,null,null,Caledonia-Fairbank 
+327,Aradia Pole Dancing for Fitness Toronto,"1174 Eglinton Ave W, Toronto ON M6C 2E3",43.699512,-79.433338,null,null,Forest Hill North 
+328,Ian Kennedy Personal Training,"30 Blandford St, Toronto ON",43.687938,-79.440325,null,null,Oakwood Village 
+329,Yogabuds,"165 Dewbourne Ave, Toronto ON M6C 1Z1",43.697112,-79.431596,null,null,Humewood-Cedarvale 
+330,Dreamshape Studio,"989 Eglinton Ave W, York ON M6C 2C6",43.699669,-79.430414,null,null,Humewood-Cedarvale 
+331,F45 Training Yorkdale,"3101 Dufferin St, Toronto ON M6A 0C3",43.715682,-79.45471,null,null,Yorkdale-Glen Park 
+332,Womens Fitness Clubs of Canada,"1820 Bayview Ave, Toronto ON M4G 4G7",43.712552,-79.377569,null,0.9036789632353861,Mount Pleasant East 
+333,McMaster Fitness,"1820 Bayview Ave (btwn Glazebrook Ave. and Roehampton Ave.), Toronto ON M4G 4G7",43.712716,-79.377641,null,0.7904079258453109,Mount Pleasant East 
+334,Nordixx Pole Walking Canada Inc,"14 Ronan Ave, Toronto ON M4N 2X9",43.727074,-79.39421,null,null,Lawrence Park North 
+335,Equilibrium Lifestyle Management,"79 Divadale Dr, East York ON M4G 2P1",43.713976,-79.371101,null,null,Leaside-Bennington 
+336,Joy of Dance Centre & Teachers College,"95 Danforth Ave (Broadview and Danforth), Toronto ON M4K 1N2",43.676084,-79.358484,7.9,0.853091655095633,North Riverdale 
+337,Fit4Less,"45 Overlea Blvd, Toronto ON M4H 1C3",43.705725,-79.346153,7.9,0.9856894459664002,Thorncliffe Park 
+338,Bikram Yoga East York,"18 Thorncliffe Park Dr, Toronto ON M4H 1N7",43.705344,-79.351428,7.1,0.8936590735667554,Thorncliffe Park 
+339,Fight Club,"401 Donlands Ave, Toronto ON M4J 3S2",43.693963,-79.342605,null,0.8719117849413943,Old East York 
+340,Riverdale Pilates,"456 Danforth Ave, Toronto ON M4K 1P4",43.678018,-79.350372,null,0.778705545339688,Playter Estates-Danforth 
+341,Egyptian Dance Academy,"211 Danforth Rd (Broadview), Toronto ON M1L 3X2",43.676559,-79.3558,null,0.25007818265971155,North Riverdale 
+342,Cross Fit Quantum,"2 Thorncliffe Park Dr (at Overlea Blvd.), Toronto ON M4H 1H2",43.706769,-79.351139,null,0.9686268623109543,Thorncliffe Park 
+343,The Inside Out Creative,"1048 Broadview Ave, East York ON M4K 2B8",43.684634,-79.356955,null,null,Broadview North 
+344,Certified Management Accounts of Ontario,"110 O'Connor Dr, East York ON M4K 2K6",43.693073,-79.351823,null,null,Broadview North 
+345,Lytton Sports Camps,"1033 Pape Ave, East York ON M4K 3W1",43.689211,-79.348543,null,null,Danforth East York 
+346,Fitness Heaven,"809 Cook Rd, Toronto ON M4J 3C6",43.693185,-79.347161,null,null,Old East York 
+347,Vibrant Life Coach,"880 Broadview Ave, Toronto ON M4K 2R1",43.679808,-79.358233,null,null,Playter Estates-Danforth 
+348,Growing Baby Prenatal Classes and Childbirth Education,"880 Broadview Ave, Toronto ON M4K 2R1",43.679808,-79.358233,null,null,Playter Estates-Danforth 
+349,Criss-Cross Dance Studio,"809 Gore Vale Ave, Toronto ON M4J 3R6",43.691527,-79.342126,null,null,Old East York 
+350,Toronto Virtual Shooting Ranges,"401 Donlands Ave, East York ON M4J 3S2",43.694074,-79.342623,null,null,Old East York 
+351,Elissa Gallander Yoga Studio,"348 Danforth Ave, Toronto ON M4K 1N8",43.677498,-79.352909,null,null,Playter Estates-Danforth 
+352,The Athlete Developer,"50 Cambridge Ave, Toronto ON M4K 2L3",43.677505,-79.360581,null,null,Playter Estates-Danforth 
+353,Nourishing Vitality,"331 Danforth Ave, Toronto ON M4K 1N7",43.677118,-79.353503,null,null,North Riverdale 
+354,Crescent Yoga & Wellness,"257 Danforth Ave, Toronto ON M4K 1N2",43.676678,-79.35493,null,null,North Riverdale 
+355,Celtic Dance Centre,"836B Danforth Ave, Toronto ON M4J 1L6",43.676321,-79.35754,null,null,North Riverdale 
+356,La Femme Strong,"148 Danforth Ave, Toronto ON M4K 1N1",43.676321,-79.35754,null,null,North Riverdale 
+357,ORB Fitness Playground,"416 Moore Ave, East York ON M4G 1C9",43.696954,-79.371156,null,null,Leaside-Bennington 
+358,The Yoga Sanctuary Danforth,"348 Danforth Rd, Toronto ON M1L 0B5",43.67615,-79.358354,null,null,North Riverdale 
+359,T Train Cycling Centre,"4 Overlea Blvd, East York ON M4H 1A4",43.703049,-79.35289,null,null,Thorncliffe Park 
+360,MODALIFE Studio,"899 Millwood Rd, East York ON M4G 1X2",43.703546,-79.363873,null,null,Leaside-Bennington 
+361,Satyaram Yoga and Reflexology Clinic,"4 Airdrie Rd, Toronto ON M4G 1L7",43.699781,-79.372448,null,null,Leaside-Bennington 
+362,2120 Fitness,"36 Kimbourne Ave, East York ON M4J 4J2",43.688496,-79.333552,null,null,Danforth East York 
+363,Bikram Yoga East York Inc,"1 Thorncliffe Park Dr, East York ON M4H 1G9",43.705521,-79.351316,null,null,Thorncliffe Park 
+364,Insideout Fitness & Wellness,"860 Millwood Rd, East York ON M4G 1W6",43.704444,-79.366216,null,null,Leaside-Bennington 
+365,Leaside Yoga,"862 Millwood Rd, Toronto ON M4G 1W6",43.704568,-79.366048,null,null,Leaside-Bennington 
+366,OIP Dance Centre,"190 Richmond St E, Toronto ON M5A 1P1",43.652934,-79.37197,7.7,0.440068300371524,Moss Park 
+367,The 500 on Sherbourne's Fitness Gym,"500 Sherbourne St, Toronto ON M4X 1L1",43.667675,-79.375389,null,0.4523148321887392,North St.James Town 
+368,Royal Canadian Yacht Club,"141 St George St (at Prince Arthur Ave.), Toronto ON M5R 2L8",43.653137,-79.371488,6.3,0.8857782614678326,Moss Park 
+369,Paintbox Fitness,"225 Sackville St, Toronto ON M5A 0B9",43.659788,-79.362585,null,0.613615041092806,Regent Park 
+370,Basketball Court at the Merchandise Lofts,"155 Dalhousie St, Toronto ON M5B 2P7",43.658025,-79.376847,null,0.8325890344128795,Downtown Yonge East 
+371,Framewrk,"9 Davies Ave, Toronto ON M4M 2A6",43.65849,-79.353356,null,0.49116223214620786,South Riverdale 
+372,The Richmond Condo Gym,"323 Richmond St E (Sherbourne St), Toronto ON M5A 4R3",43.653605,-79.368897,null,0.9060807345417246,Moss Park 
+373,The Vü Gym,"116 George St (Adelaide And Jarvis), Toronto ON M5A 3S2",43.652046,-79.371829,null,0.2581966700441576,Moss Park 
+374,Mozo Gym,"333 Adelaide St E, Toronto ON",43.651653,-79.368727,null,0.7551819466856807,Moss Park 
+375,Jennifer Snowdon Yoga,"58 Rose Ave, Toronto ON M4X 1N9",43.667258,-79.371067,null,null,Cabbagetown-South St.James Town 
+376,Parliament Street Fitness,"488 Parliament St, Toronto ON M4X 1P2",43.66476,-79.368333,null,null,Cabbagetown-South St.James Town 
+377,Greater Mind International,"250A Carlton St, Toronto ON M5A 2L1",43.664317,-79.368261,null,null,Cabbagetown-South St.James Town 
+378,Shoe Room at the National,"404 Jarvis St, Toronto ON M4Y 2G6",43.66447,-79.377778,null,null,Church-Wellesley 
+379,P.O.S.E. Dance Company Inc,"179 Dundas St W, Toronto ON M5G 1C7",43.656985,-79.374156,null,null,Moss Park 
+380,Purusha,"661 Yonge St, Toronto ON M4Y 1Z9",43.668217,-79.385717,null,null,Church-Wellesley 
+381,Curves,"444 Yonge St, Toronto ON M5B 2H4",43.66113,-79.382811,null,null,Downtown Yonge East 
+382,Ugly Duckling Pilates,"130 Rosedale Valley Rd, Toronto ON M4W 1P9",43.674154,-79.385914,null,null,Rosedale-Moore Park 
+383,Yogathletix,"573 King St E, Toronto ON M5A 1M5",43.656146,-79.357052,null,null,Moss Park 
+384,Riverdale Yoga Babies,"1 Munro St, Toronto ON",43.658905,-79.351504,null,null,South Riverdale 
+385,Ontario School of Ballet & Related Arts,"1133 St Clair Ave W (Dufferin), Toronto ON M6E 1B1",43.678091,-79.441365,null,0.9721919915938004,Corso Italia-Davenport 
+386,Moksha Yoga,"932 St Clair Ave W (Oakwood), Toronto ON M6C 1C8",43.679955,-79.435068,null,0.9091079671257553,Wychwood 
+387,Crossfit Inc,"4 St Clair Gdns, Toronto ON M6E 3V4",43.677845,-79.445507,null,null,Corso Italia-Davenport 
+388,Crossfit Lugal,"1331 St Clair Ave W, Toronto ON M6E 1C2",43.676407,-79.449046,null,null,Corso Italia-Davenport 
+389,Kinect Fit,"44 Ford St, Toronto ON M6N 3A1",43.6716,-79.461791,null,null,Weston-Pelham Park 
+390,The Yorkville Club,"87 Rd Ave (at Yorkville Ave), Toronto ON M5R 3R9",43.671961,-79.395246,7.2,0.5194518457362305,Annex 
+391,Kula Yoga Studio Annex,"304 Brunswick Ave (at Bloor), Toronto ON M5S 2M7",43.66562,-79.407563,7.2,0.8103914136675798,University 
+392,Track Fitness & Health,"417 Spadina Rd (Lonsdale), Toronto ON M5P 2W3",43.688837,-79.412583,6.6,0.8383745512315333,Forest Hill South 
+393,Studio Lagree,"435 Spadina Rd, Toronto ON M5P 2W3",43.689059,-79.412618,null,0.8331644587883564,Forest Hill South 
+394,Lindy Hop Revolution,"374 Dupont St, Toronto ON M5R 1V9",43.674444,-79.410516,null,0.08359915437635256,Annex 
+395,Halcyon Health,"677 Dupont St (Christie), Toronto ON M6G 1Z5",43.67129,-79.422219,null,0.703262406024443,Dovercourt Village 
+396,Equinox,"55 Ave Rd (Yorkville Ave), Toronto ON M5R 3L2",43.671276,-79.394622,null,0.18389187025431256,Annex 
+397,Mindful Movement Centre,"68 Scollard St, Toronto ON M5R 1G2",43.672231,-79.390752,null,0.8316633517218949,Annex 
+398,Body Mason,"901 Yonge St (Church), Toronto ON M4W 2H2",43.674704,-79.388387,null,0.05103764025969152,Rosedale-Moore Park 
+399,Ahimsa Yoga Centre,"440 Bloor St W, Toronto ON M5S 1X5",43.66584,-79.408393,null,0.7392201748789733,Annex 
+400,Barry's,"100 Bloor St W, Toronto ON M5S 3L3",43.66967,-79.391233,null,0.9119100336498167,Annex 
+401,Centre Ring Ltd,"22 Balliol St (Yonge & Davisville), Toronto ON M4S 1C1",43.697771,-79.395526,null,0.8693974306050712,South Eglinton-Davisville 
+402,First Choice Yoga Center,"809 Walmer Rd, Toronto ON M5R 3R5",43.676942,-79.409372,null,null,Casa Loma 
+403,The Studio For Movement,"1382 Bathurst St, Toronto ON M5R 3J1",43.680393,-79.417502,null,null,Wychwood 
+404,Fun Healthy Fitness,"501 St Clair Ave W, Toronto ON M5P 0A2",43.682946,-79.41791,null,null,Casa Loma 
+405,Interplay Ballet,"129 St Clair Ave W, Toronto ON M4V 0A4",43.686642,-79.400301,null,null,Yonge-St.Clair 
+406,Life Balance Fitness,"1592 Bathurst St, Toronto ON M5P 3H9",43.68771,-79.420357,null,null,Humewood-Cedarvale 
+407,Libertad,"1300 Yonge St, Toronto ON M4T 1X3",43.684109,-79.392646,null,null,Yonge-St.Clair 
+408,Amarant Dance Group,"Yonge St, Toronto ON",43.688254,-79.394336,null,null,Yonge-St.Clair 
+409,Arabesque Academy,"1397A Yonge St, Toronto ON M4T 1Y4",43.687028,-79.393439,null,null,Rosedale-Moore Park 
+410,Navina,"1498 Yonge St, Toronto ON M4T 1Z6",43.688692,-79.394499,null,null,Yonge-St.Clair 
+411,Steps Dance Studio Inc,"1216 Yonge St, Toronto ON M4T 1W1",43.681877,-79.391682,null,null,Yonge-St.Clair 
+412,Sports Club,"1521 Yonge St, Toronto ON M4T 1Z2",43.689371,-79.394421,null,null,Rosedale-Moore Park 
+413,Sports Club of Canada,"1521 Yonge St, Toronto ON M4T 1Z2",43.689482,-79.394438,null,null,Rosedale-Moore Park 
+414,Extreme Fitness,"1521 Yonge St, Toronto ON M4T 1Z2",43.689593,-79.394456,null,null,Rosedale-Moore Park 
+415,Forest Hill Fitness,"675 St Clair Ave W, Toronto ON M6C 1A7",43.681565,-79.425314,null,null,Wychwood 
+416,Studio to the Power of 3,"39 Pleasant Blvd, Toronto ON M4T 1K2",43.687298,-79.392031,null,null,Rosedale-Moore Park 
+417,Sean Orr Works,"145 Davenport Rd Main, Toronto ON M5R 1J1",43.674838,-79.393507,null,null,Annex 
+418,Canadian Meditation Ctr,"14 Palmerston Gdns, Toronto ON M6G 1V9",43.670493,-79.416199,null,null,Annex 
+419,The Kin Studio,"43 Alvin Ave, Toronto ON",43.688744,-79.391971,null,null,Rosedale-Moore Park 
+420,Balance Personal Training Fitness & Rehabilitation,"52 St Clair Ave E, Toronto ON M4T 1M9",43.688775,-79.391799,null,null,Rosedale-Moore Park 
+421,NuFitness4u,"80 St Clair Ave E, Toronto ON M4T 1N6",43.689039,-79.390484,null,null,Rosedale-Moore Park 
+422,Charlottetown Junior Public School,"85 Charlottetown Blvd, Scarborough ON M1C 2C7",43.781849,-79.14264,null,0.9737744086263619,Centennial Scarborough 
+423,BOSS Fitness,"91 Rylander Blvd, Toronto ON",43.794778,-79.158506,null,0.889637357551194,Highland Creek 
+424,Bank's Cottages,"15 Ruddell Pl, Scarborough ON M1C 3E4",43.783558,-79.161466,null,null,Centennial Scarborough 
+425,Smart Fitness,"33 Chapais Cres, Scarborough ON M1C 2C3",43.783778,-79.141578,null,null,Centennial Scarborough 
+426,In the Spirit Yoga Studio & Wine Lounge,"376 Old Kingston Rd, Scarborough ON M1C 1B6",43.783787,-79.170173,null,null,Highland Creek 
+427,Cardio Core,"16 McMillan Ave, Scarborough ON M1E 4B5",43.774115,-79.166287,null,null,West Hill 
+428,Rouge Hill Pilates,"318 Rouge Highland Dr, Toronto ON M1C 2V4",43.791469,-79.138497,null,null,West Rouge 
+429,Pickering School of Ballet,"91 Rylander Blvd, Scarborough ON M1B 5M5",43.798031,-79.153059,null,null,West Rouge 
+430,Cambridge Club,"100 Richmond St W, Toronto ON M5H 3K6",43.650876,-79.38333,7.8,0.85244742997961,Yonge-Bay Corridor 
+431,Dance Migration Co,"819 Yonge St, Toronto ON",43.672525,-79.387478,null,null,Rosedale-Moore Park 
+432,Mandy Mintz,"68 Scollard St, Toronto ON M5R 1G2",43.67195,-79.390754,null,null,Annex 
+433,Curves,"700 Bay St, Toronto ON M5G 1Z6",43.658213,-79.385105,null,null,Yonge-Bay Corridor 
+434,Dance Classes Toronto,"38 Elm St, Toronto ON M5G 2K5",43.657661,-79.383428,null,null,Yonge-Bay Corridor 
+435,Premier Fitness Clubs,"76 Davenport Rd, Toronto ON M5R 1H3",43.673354,-79.390744,null,null,Annex 
+436,Extreme Fitness,"10 Dundas St E, Toronto ON M5B 2G9",43.656569,-79.380683,null,null,Downtown Yonge East 
+437,Venice Fitness,"750 Warden Ave, Toronto ON M1L 4A1",43.718535,-79.283578,null,0.9438210680376777,Clairlea-Birchmount 
+438,T-Zone Health,"59 Comstock Rd, Scarborough ON M1L 2G6",43.720994,-79.288459,null,null,Clairlea-Birchmount 
+439,Trinity Health & Fitness,"89 Roebuck Dr, Scarborough ON M1K 2H6",43.723755,-79.272647,null,null,Kennedy Park 
+440,Golden Kickers Soccer Club,"739 Birchmount Rd, Scarborough ON M1K 1R6",43.724883,-79.274931,null,null,Ionview 
+441,Crossfit Inc,"780 Birchmount Rd, Toronto ON M1K 5H4",43.726535,-79.276969,null,null,Clairlea-Birchmount 
+442,MitchFit,"126 Sinnott Rd, Scarborough ON M1L 4N2",43.727015,-79.280462,null,null,Clairlea-Birchmount 
+443,Sporttesting,"75 Carl Hall Rd (Downsview Park), Toronto ON",43.744428,-79.457552,null,0.891832726635894,Downsview 
+444,Harmony Fitness,"6B Tippett Rd (Wilson Station), Toronto ON M3H 2V2",43.733166,-79.447121,null,0.940631215521447,Clanton Park 
+445,Elite Spa,"1000 Sheppard Ave W (Sheppard/Allen), Toronto ON",43.749264,-79.462875,null,0.35728224565617145,Downsview 
+446,M1 Gym,"55 de Boers Dr, Toronto ON M3J 0G5",43.751125,-79.463981,null,0.6966637895447892,York University Heights 
+447,Rhythm Dance Studio,"6A Tippett Rd, North York ON M3H 2V2",43.73329,-79.446954,null,null,Clanton Park 
+448,Yourweddingdance.Ca,"6A Tippett Rd, Toronto ON M3H 2V2",43.733231,-79.446991,null,null,Clanton Park 
+449,Ndorphin Attainable Fitness,"28 York Downs Dr, North York ON M3H 1J1",43.746664,-79.433081,null,null,Lansing-Westgate 
+450,Teiko Reindorf,"935 Sheppard Ave W, North York ON M3H 2T7",43.751034,-79.458662,null,null,Clanton Park 
+451,Elite Spa Fitness,"1000 Sheppard Ave W, North York ON M3H 2T6",43.75122,-79.459957,null,null,Bathurst Manor 
+452,DrWeightloss,"3401 Dufferin St, Toronto ON M6A 2T9",43.727519,-79.4575,null,null,Yorkdale-Glen Park 
+453,"Premier Fitness Clubs, Yorkdale","Yorkdale Mall, Toronto ON M6A 2T9",43.72555,-79.452922,null,null,Yorkdale-Glen Park 
+454,Resistance Fitness,"2530 Kingston Rd (Kingston and Midland), Toronto ON M1N 1V3",43.711208,-79.248587,null,0.9754131171739158,Birchcliffe-Cliffside 
+455,Interplay School of Dance,"39 Broadmead Ave, Scarborough ON M1M 1C3",43.717662,-79.230497,null,null,Cliffcrest 
+456,Encore Fitness and Health,"200 McIntosh St, Toronto ON",43.709817,-79.251071,null,null,Birchcliffe-Cliffside 
+457,Coysh School of Dance,"200 McIntosh St, Scarborough ON M1N 3Z3",43.709624,-79.251101,null,null,Birchcliffe-Cliffside 
+458,Planet Fitness,"1245 Dupont St (Dufferin St. & Dupont St), Toronto ON M6H 2A6",43.667946,-79.441888,7.6,0.9807170288087464,Junction-Wallace Emerson 
+459,Foundry Lofts - Gym,"1100 Lansdowne Ave, Toronto ON M6H 4K1",43.670681,-79.448267,null,0.8869541286698941,Junction-Wallace Emerson 
+460,The monkey vault,"213 Geary Ave, Toronto ON M6H 2C1",43.668341,-79.438023,null,0.5234422886879073,Dovercourt Village 
+461,Yoga yoga: a studio,"1485 Dupont St, Toronto ON M6P 3S2",43.665816,-79.450291,null,0.8607410465218098,Junction-Wallace Emerson 
+462,Rocket Cycle,"688 St Clair Ave W (Christie Street), Toronto ON M6C 1B1",43.68185,-79.426015,null,0.5258127869303612,Wychwood 
+463,Synergy Sports Medicine,"235 Wallace Ave (btwn Wharf St & Campbell Ave), Toronto ON M6H 1V5",43.66179,-79.446231,null,0.9234185211593551,Junction-Wallace Emerson 
+464,LA Fitness,"43 Junction Rd (Keele), Toronto ON M6N 1B5",43.667558,-79.464087,null,0.9900551656846924,Junction Area 
+465,West Toronto Train Station,"2480 Dundas St W (Bloor), Toronto ON",43.661589,-79.450575,null,0.43295055103138563,Junction-Wallace Emerson 
+466,Anytime Fitness,"30 Weston Rd, Toronto ON M6N 0A7",43.673034,-79.46829,null,0.8830762687482018,Junction Area 
+467,The Body Engineers Inc,"36 Sousa Mendes St, Toronto ON M6P 0B2",43.661354,-79.453736,null,0.9035663802054015,Junction-Wallace Emerson 
+468,Results Oriented Fitness Canada,"35 Foundry Ave, Toronto ON M6H 4K7",43.670541,-79.449413,null,null,Junction-Wallace Emerson 
+469,Ballet Creole,"61 Primrose Ave, Toronto ON M6H 3V2",43.669853,-79.445,null,null,Junction-Wallace Emerson 
+470,Yoga House,"12 Foundry Ave, Toronto ON",43.668622,-79.448778,null,null,Junction-Wallace Emerson 
+471,F45,"875 Saint Clair Ave W, Toronto ON M6C 1C4",43.679795,-79.433405,null,null,Wychwood 
+472,Carpio Strength & Conditioning,"213 Geary Ave, Toronto ON M6H 2C1",43.669757,-79.438624,null,null,Junction-Wallace Emerson 
+473,Monvida,"344 Westmoreland Ave N, Toronto ON M6H 3A7",43.670713,-79.434755,null,null,Junction-Wallace Emerson 
+474,Atlas Boxing Centre,"840 St Clair Ave W, Toronto ON M6C 0A4",43.680766,-79.431642,null,null,Wychwood 
+475,Fits Toronto,"300 Campbell Ave, Toronto ON M6P 3V6",43.665823,-79.450199,null,null,Junction-Wallace Emerson 
+476,My Fencing Club,"729 St Clair Ave W, Toronto ON M6C 1B2",43.681083,-79.427296,null,null,Wychwood 
+477,The Pilates Group,"701A St Clair Ave W, Toronto ON M6C 1B2",43.681321,-79.426351,null,null,Wychwood 
+478,Archa Mati's Yoga For Life,"990 Dovercourt Rd, Toronto ON M6H 2X5",43.666997,-79.431821,null,null,Dovercourt Village 
+479,Eastward Moving Dance +Somatics,"10 Heintzman St, Toronto ON M6P 2J6",43.665685,-79.463599,null,null,Junction Area 
+480,Christine Noonan Yoga,"10 Heintzman St, Toronto ON M6P 2J6",43.665633,-79.463544,null,null,Junction Area 
+481,Dan Julien Fitness,"62 Shanly St, Toronto ON M6H 1S5",43.664123,-79.431968,null,null,Dovercourt Village 
+482,Kageyama Martial Arts,"87 Wade Ave, Toronto ON M6H 1P5",43.660093,-79.445631,null,null,Junction-Wallace Emerson 
+483,Legacy Indoor Cycling,"1506 Danforth Ave (at Coxwell), Toronto ON M4J 1N4",43.683196,-79.325276,null,0.1974331069163508,Danforth 
+484,The Pink Studio - Dance + Fitness,"2053 Danforth Ave (Woodbine Ave), Toronto ON M4C 1J8",43.685407,-79.313275,null,0.8374488685405487,Woodbine Corridor 
+485,Vive Fitness,"1391 Gerrard St E, Toronto ON M4L 1Z3",43.671649,-79.324248,null,0.1396529940831363,Greenwood-Coxwell 
+486,Power of Range of Motion - PROM,"1510 Danforth Ave, Toronto ON M4J 1N4",43.683248,-79.325331,null,null,Danforth 
+487,Midsummer Night's Run Ltd a,"1562 Danforth Ave, Toronto ON M4J 1N4",43.6834,-79.323999,null,null,Danforth 
+488,Toronto Yoga Co,"1768 Danforth Ave, Toronto ON",43.684458,-79.319489,null,null,Danforth 
+489,Counterbalance Studio Pilates,"1911 Danforth Ave, Toronto ON M4C 1J5",43.684737,-79.316351,null,null,Woodbine Corridor 
+490,Breathing Inspiration,"2038 Danforth Ave, Toronto ON M4C 1J6",43.685504,-79.314273,null,null,Danforth 
+491,Sam Lumpini Gym,"2073 Danforth Ave, Toronto ON M4C 1J8",43.685753,-79.313143,null,null,Danforth 
+492,Fight Club,"998 Coxwell Ave, East York ON M4C 3G5",43.696172,-79.329104,null,null,Old East York 
+493,Feel Good Yoga & Coffee,"1186 Woodbine Ave, East York ON M4C 4E2",43.691643,-79.315569,null,null,Danforth East York 
+494,Heal With Kare,"1602 Gerrard St E, Toronto ON M4L 2A5",43.67285,-79.320041,null,null,Greenwood-Coxwell 
+495,Ki Pilates Fitness,"1928 Gerrard St E, Toronto ON M4L 2C1",43.680771,-79.311375,null,null,Woodbine Corridor 
+496,East York Performing Arts Centre,"1351 Woodbine Ave, East York ON M4C 4G4",43.696632,-79.317245,null,null,Woodbine-Lumsden 
+497,Curves,"1359 Woodbine Ave, East York ON M4C 4G4",43.696737,-79.317355,null,null,Woodbine-Lumsden 
+498,Spiritual Adventures,"1359 Woodbine Ave, East York ON M4C 4G4",43.696789,-79.31741,null,null,Woodbine-Lumsden 
+499,Corinna Smith-Personal Training & Yoga,"373 Cedarvale Ave, East York ON M4C 4K7",43.697934,-79.316327,null,null,Woodbine-Lumsden 
+500,Camping County,"71 Thorncliffe Park Dr, East York ON M4H 1L3",43.703616,-79.341139,null,null,Thorncliffe Park 
+501,Your Final Physique,"39 Sepia Dr, North York ON M2J 4E9",43.788304,-79.339328,null,null,Pleasant View 
+502,Fitcore Academy,"30 Herons Hill Way, North York ON M2J 0A7",43.775387,-79.336063,null,null,Henry Farm 
+503,Agincourt Open Badminton Centre,"1510 Birchmount Rd, Toronto ON M1P 2G6",43.758611,-79.28955,6.1,0.894353335584994,Wexford/Maryvale 
+504,Toronto Dance Industry,"1530 Birchmount Rd, Scarborough ON M1P 2G9",43.759252,-79.289229,null,0.29618093343841084,Dorset Park 
+505,Fuzion Mixed Martial Arts & High Performance Cen tre,"1510 Birchmount Rd, Scarborough ON M1P 2G6",43.758218,-79.289535,null,null,Wexford/Maryvale 
+506,Cxc Sports,"1510 Birchmount Rd, Scarborough ON M1P 2G6",43.75806,-79.290963,null,null,Wexford/Maryvale 
+507,24FIT Challenge - SHAPE UP GTA,"2131 Lawrence Ave E, Toronto ON M1R 5G4",43.746178,-79.288204,null,null,Wexford/Maryvale 
+508,Prema Yoga Toronto,"2102 Lawrence Ave E, Scarborough ON",43.746679,-79.290625,null,null,Wexford/Maryvale 
+509,Canadian Aquafitness Leaders Alliance Inc,"125 Lilian Dr, Scarborough ON M1R 3W6",43.752063,-79.298593,null,null,Wexford/Maryvale 
+510,Octopus Garden Yoga Centre,"967 College St (Dovercourt), Toronto ON M6H 1A6",43.653292,-79.427287,7.6,0.89954466418984,Little Portugal 
+511,Luanda House,"974 Bloor St W (Dovercourt Rd), Toronto ON",43.66136,-79.429047,null,0.42642073529227803,Dovercourt Village 
+512,Elevation Dancentre,"979 Bloor St W (Dovercourt), Toronto ON M6H 1L7",43.661073,-79.429141,null,0.692460689758697,Palmerston-Little Italy 
+513,United Athletics,"1034 Bloor St W, Toronto ON M6H 1M3",43.660759,-79.431897,null,0.8827260104326942,Dovercourt Village 
+514,Union Yoga + Wellness,"956 Bloor St W, Toronto ON M6H 1L6",43.661446,-79.42864,null,0.7334596765114272,Dovercourt Village 
+515,Oliphants Academy,"501 Dupont St, Toronto ON M6G 1Y6",43.67248,-79.415908,null,0.971654094894985,Annex 
+516,Lotus Yoga Centre,"699 College St (Montrose (entrance)), Toronto ON M6G 1B9",43.655037,-79.417586,null,0.39532905517819394,Trinity-Bellwoods 
+517,Twisted Yoga Studio,"509 Bloor St W, Toronto ON M5S 1Y2",43.665559,-79.408395,null,0.30053414393114924,University 
+518,Mosaic Yoga,"225 Sterling Rd, Toronto ON M6R 2B2",43.655847,-79.446118,null,0.9176705320173628,Dufferin Grove 
+519,Cirque-ability,"213 Sterling Rd, Toronto ON M6R 2B2",43.655405,-79.445252,null,0.9292415656546703,Dufferin Grove 
+520,East to West Yoga,"1446 Bloor St W, Toronto ON M6P 3L5",43.657304,-79.448456,null,0.3529415443889869,Junction-Wallace Emerson 
+521,Studio Blue Yoga & Fitness,"1457 Dundas St W, Toronto ON M6J 1Y7",43.649458,-79.4306,null,0.44656058843397006,Little Portugal 
+522,Just 4 Fun Sporting Club,"163 Weston Rd, Toronto ON M6N 3P1",43.65534,-79.445382,5.9,0.07270987353172965,Dufferin Grove 
+523,Bees' Knees Dance,"805 Dovercourt Rd, Toronto ON M6H 2X4",43.662783,-79.429555,null,null,Dovercourt Village 
+524,Zumba Classes Toronto Manon,"805 Dovercourt Rd, Toronto ON M6H 2X4",43.662724,-79.429593,null,null,Dovercourt Village 
+525,Dance Class Toronto,"805 Dovercourt Rd, Toronto ON M6H 2X4",43.662724,-79.429593,null,null,Dovercourt Village 
+526,Arte Flamenco,"979 Bloor St W, Toronto ON M6H 1L7",43.661021,-79.429086,null,null,Palmerston-Little Italy 
+527,United Boxing Club,"1034 Bloor St W, Toronto ON",43.660795,-79.431929,null,null,Dovercourt Village 
+528,Strickly Salsa,"1056 Bloor St W, Toronto ON M6H 1M3",43.660594,-79.432618,null,null,Dovercourt Village 
+529,Tha Spot Dance Centre,"1090A Bloor St W, Toronto ON M6H 1M6",43.660271,-79.433969,null,null,Dovercourt Village 
+530,De Zilva Martial Arts,"896 College St, Toronto ON",43.653924,-79.425605,null,null,Palmerston-Little Italy 
+531,Brahma Kumaris World Spiritual Organization,"897 College St, Toronto ON M6H 1A1",43.654022,-79.424973,null,null,Palmerston-Little Italy 
+532,Octopus,"967 College St, Toronto ON M6H 1A6",43.653306,-79.427102,null,null,Little Portugal 
+533,Moksha Yoga Calgary,"9152 MacLeod Trail SE, Toronto ON M5S 2R4",43.66319,-79.410869,null,null,Palmerston-Little Italy 
+534,Phnx Fithouse Toronto,"725 Bathurst St, Toronto ON M5S 2R5",43.662591,-79.409838,null,null,University 
+535,Powers Sports Toronto - Swim,"725 Bathurst St, Toronto ON M5S 2R5",43.662591,-79.409838,null,null,University 
+536,Torrent Swim School,"725 Bathurst St, Toronto ON M5S 2R5",43.662591,-79.409838,null,null,University 
+537,Nia with Martha,"328 Howland Ave, Toronto ON M5R 3B9",43.675327,-79.413043,null,null,Casa Loma 
+538,UliFit Toronto,"100 Margueretta St, Toronto ON M6H 3S3",43.65294,-79.438264,null,null,Dufferin Grove 
+539,Archers Arena,"1140 Sheppard Ave W (at Yukon Ln), Toronto ON M3K 2A2",43.75369,-79.467665,8.5,0.9388111232033625,York University Heights 
+540,Mayfair Racquet & Fitness Club,"3855 Chesswood Dr (Sheppard Ave. W.), Toronto ON M3J 2P6",43.757051,-79.474721,7.7,0.9803980435571233,York University Heights 
+541,Wynn Fitness Clubs,"2737 Keele St (Wilson Ave), North York ON M3M 2E9",43.725838,-79.480456,6.4,0.9898112357863925,Downsview 
+542,The Hangar Sport and Events Centre,"75 Carl Hall Rd, Toronto ON M3K 2B9",43.746467,-79.47498,null,null,Downsview 
+543,Downsview fitness club,"75 Carl Hall Rd, Toronto ON M3K 2B9",43.747807,-79.475103,null,null,Downsview 
+544,Rugby Alliance Events,"35 Carl Hall Rd, Toronto ON M3K 2E2",43.748267,-79.474193,null,null,Downsview 
+545,Naha Karate Club,"288 Bridgeland Ave, North York ON M6A 1Z4",43.724257,-79.470601,null,null,Yorkdale-Glen Park 
+546,Dance Wear Center,"1150 Sheppard Ave W, North York ON M3K 2B5",43.754192,-79.468496,null,null,York University Heights 
+547,Atlas Youth Center,"100 Bridgeland Ave, North York ON M6A 1Z4",43.726149,-79.461634,null,null,Yorkdale-Glen Park 
+548,Personal Touch Training,"4000 Chesswood Dr, North York ON M3J 2B9",43.756481,-79.477909,null,null,York University Heights 
+549,Mayfair Tennis Courts,"3855 Chesswood Dr, Toronto ON M3J 2P6",43.756854,-79.475111,null,null,York University Heights 
+550,Pro-Fit Health & Fitness,"3970 Chesswood Dr, North York ON M3J 2W6",43.756906,-79.475166,null,null,York University Heights 
+551,Totum Life Science Inc,"445 King St W (at Spadina Ave.), Toronto ON M5V 1K4",43.645072,-79.396008,8.8,0.9424638170650855,Wellington Place 
+552,The Market Club,,43.64685,-79.370722,7.2,0.9926570845998924,St Lawrence-East Bayfront-The Islands 
+553,SoulCycle,"435 King St W (at Spadina Ave), Toronto ON M5V 1K4",43.645504,-79.395469,7.4,0.8198671520246181,Wellington Place 
+554,Goodlife Fitness,"7 Station St (in Union Station), Toronto ON M5J 1C3",43.644167,-79.384506,6.7,0.9835691322350233,Harbourfront-CityPlace 
+555,1 King West Gym,"1 King St W, Toronto ON M5H 1A1",43.648742,-79.378059,null,0.229738181909158,Yonge-Bay Corridor 
+556,Fuel East,"366 Adelaide St E (Sherbourne & Adelaide), Toronto ON",43.65281,-79.368257,null,0.8623234635543714,Moss Park 
+557,Club 18,"18 Yonge St (Yonge and Lakeshore), Toronto ON M5E 1Z8",43.644351,-79.376542,null,0.5567168286611376,St Lawrence-East Bayfront-The Islands 
+558,Coba,"585 Dundas St E, Toronto ON M5A 2B7",43.660174,-79.361899,null,0.022191366132522736,Regent Park 
+559,Corktown District Lofts Gym,"510 King St W (River), Toronto ON M5V 1L7",43.655563,-79.358128,null,0.8827197558199172,Moss Park 
+560,Bisha Fitness Centre,"80 Blue Jays Way (Mercer), Toronto ON M5V 2G3",43.645347,-79.392219,null,0.2557823895122653,Wellington Place 
+561,Greco Lean and Fit,"12 Blue Jays Way (Front Street), Toronto ON M5V 3S9",43.642946,-79.391276,null,0.9327754218736318,Harbourfront-CityPlace 
+562,The Matrix Gym,"373 Front St W (Blue Jays Way), Toronto ON M5V 3R7",43.642845,-79.392662,null,0.9643612163970928,Harbourfront-CityPlace 
+563,Hybrid Health and Fitness,"137 Yonge St, Toronto ON M5C 1W6",43.651192,-79.378191,null,null,Downtown Yonge East 
+564,Huff's Yoga Studio,"2461 Acton Ave, Toronto ON M3H 4J1",43.649955,-79.379771,null,null,Yonge-Bay Corridor 
+565,Arch Angels Dance Academy,"Fourwinds Dr, Toronto ON M3J 1K7",43.649955,-79.379771,null,null,Yonge-Bay Corridor 
+566,Creative Fitness,"80 Grandravine Dr, Toronto ON M3J 1B2",43.649955,-79.379771,null,null,Yonge-Bay Corridor 
+567,Zumba Joanne,"398 Steeles Ave W, Thornhill ON L4J 6X3",43.649955,-79.379771,null,null,Yonge-Bay Corridor 
+568,Marc Madilson Fitness & Wellness,"63 Provost Dr, Toronto ON M2K 0B7",43.649955,-79.379771,null,null,Yonge-Bay Corridor 
+569,Bodeaz Fitness,"191 Sherbourne St, Toronto ON M5A 3X1",43.65679,-79.369871,null,null,Moss Park 
+570,Body by Dex,"77 Adelaide St W, Toronto ON M5H 1P9",43.649448,-79.382121,null,null,Yonge-Bay Corridor 
+571,Hit Fitness Inc,"77 King St W Td, Toronto ON M5K 2A1",43.648476,-79.381592,null,null,Yonge-Bay Corridor 
+572,Fitness Bound,"110 George St S, Toronto ON M5A 4P9",43.648667,-79.369655,null,null,St Lawrence-East Bayfront-The Islands 
+573,Pursuit OCR,"444 Dufferin St (Queen W), Toronto ON M6K 2A3",43.644693,-79.429743,8.1,0.8112295317796875,Little Portugal 
+574,Pia Bouman School for Ballet and Creative Movement,"6 Noble St (on Queen St West), Toronto ON M6K 2C6",43.642427,-79.430035,6.9,0.8562439799352022,Roncesvalles 
+575,Bloor Street Boxing Gym,"2295 Dundas St W (S of Bloor St W), Toronto ON M6R 1X6",43.65544,-79.452458,6.7,0.9411065660924932,High Park-Swansea 
+576,Auxiliary Crossfit,"225 Sterling Rd, Toronto ON M6R 2B2",43.655543,-79.4449,null,0.980754556485408,Dufferin Grove 
+577,Broadway Arts Centre,"35 Goldene Way, Toronto ON M1C 5H4",43.653812,-79.447849,null,0.8536858433094408,Roncesvalles 
+578,Mary McCormick Recreation Centre,"66 Sheridan Ave, Toronto ON M6K 2G9",43.647369,-79.43307,null,0.6755919990993358,Little Portugal 
+579,Charb Arts,"2238 Dundas St W (Bloor Street West), Toronto ON M6R 3A9",43.654319,-79.45167,null,0.1512177731076669,Roncesvalles 
+580,Fine Tune Pilates,"461A Roncesvalles Ave, Toronto ON",43.652875,-79.451385,null,0.8026794761136338,Roncesvalles 
+581,Boom Fitness Inc,"2295 Dundas St W, Toronto ON M6R 1X6",43.655551,-79.452476,null,0.8719743310691636,High Park-Swansea 
+582,Dlm Dance & Entertainment Co,"1610 Bloor St W, Toronto ON M6P 1A7",43.655837,-79.455468,null,0.387848538296994,High Park North 
+583,Yoga Village,"240 Roncesvalles Ave (Roncesvalles And High Park ave), Toronto ON M6R 2L8",43.645692,-79.449116,null,0.5026457012046385,High Park-Swansea 
+584,6Ix Cycle Spin Studio,"1163 Queen St W, Toronto ON M6J 1J4",43.642626,-79.425766,null,0.870229294104402,Little Portugal 
+585,Muse Movement Studio,"180 Shaw St (Queen St W), Toronto ON M6J 2W5",43.649658,-79.417075,null,0.8804118037052326,Trinity-Bellwoods 
+586,Ride Cycle Club,"2 Humbert St, Toronto ON M6J 1M5",43.646315,-79.419813,null,0.8676774120914175,Trinity-Bellwoods 
+587,Misfit Ossington,"88 Ossington Ave, Toronto ON M6J 2Z4",43.646145,-79.419832,null,0.011233284547353674,Trinity-Bellwoods 
+588,Gym at EPIC,"68 Abell St, Toronto ON M6J 0B1",43.642231,-79.424804,null,0.43902378003777787,Little Portugal 
+589,Fly With Me,"163 Sterling Rd, Toronto ON M6R 2B2",43.654245,-79.444225,null,null,Dufferin Grove 
+590,Strength and Movement,"163 Sterling Rd, Toronto ON M6R 2B2",43.654245,-79.444225,null,null,Dufferin Grove 
+591,Faab Fitness,"163 Sterling Rd, Toronto ON M6R 2B2",43.654284,-79.444465,null,null,Dufferin Grove 
+592,Alleyway Fitness,"1050 Bloor St W, Toronto ON M6H 1M3",43.660785,-79.432322,null,null,Dovercourt Village 
+593,Body Buster Fitness | Fitness Bootcamp Toronto,"1873 Bloor St W, Toronto ON M6P 3L1",43.661241,-79.429916,null,null,Dovercourt Village 
+594,Soda Pop Hop,"755 Dovercourt Rd, Toronto ON M6H 2X1",43.661424,-79.429712,null,null,Dovercourt Village 
+595,Academy of Ballroom & Latin,"2140 Dundas St W, Toronto ON M6R 1X2",43.652952,-79.449627,null,null,Roncesvalles 
+596,LA Fitness,"3003 Danforth Ave, Toronto ON M4C 1M9",43.690196,-79.291152,7.9,0.9913248520784078,Taylor-Massey 
+597,VPDC,"276 Main St, Toronto ON M4C 4X5",43.687355,-79.301793,null,0.12479828873794424,East End-Danforth 
+598,Glanville Mediation Svc,"579 Kingston Rd (Main St.), Toronto ON M4E 1R3",43.678362,-79.299582,null,0.8147508787730952,The Beaches 
+599,Toronto Theatre Dance School,"1A Hannaford St (At Kingston Rd), Toronto ON M4E 3G6",43.680873,-79.291184,null,0.30421185624397995,East End-Danforth 
+600,Beaches Dance & Music Studio,"1A Hannaford St (Kingston Road), Toronto ON M4E 3G6",43.680481,-79.291169,null,0.7130321111819967,East End-Danforth 
+601,Omega Health and Fitness,"1089 Kingston Rd, Toronto ON M1N 4E4",43.680627,-79.282866,null,0.3977683541611939,Birchcliffe-Cliffside 
+602,Creswell Dance Academy,"2181 Queen St E (Lee Ave.), Toronto ON M4E 1E5",43.670421,-79.297585,null,0.2616116886203575,The Beaches 
+603,For the Love of It School of Dance,"65 Glen Manor Dr (Queen St. E), Toronto ON M4E 3V3",43.671146,-79.29218,null,0.866976895460402,The Beaches 
+604,Downward Dog Yoga Centre-Beaches,"1977 Queen St, Toronto ON",43.66983,-79.30042,null,0.8411078170150486,The Beaches 
+605,Crescent Town Club,"2A the Market Pl (Crescent Town Road), East York ON M4C 5M1",43.695498,-79.293156,null,0.8642061020002252,Taylor-Massey 
+606,Beaches Hot Yoga,"1911 Queen St E, Toronto ON M4L 1H3",43.668917,-79.304456,null,0.4791533756145157,The Beaches 
+607,Beaches Fitness,"121 Kingston Rd (Dundas St E), Toronto ON M4L 1T2",43.669362,-79.31109,null,0.723646189064435,The Beaches 
+608,Your Best Self,"45 Osborne Ave, Toronto ON M4E 3A8",43.682749,-79.296344,null,null,East End-Danforth 
+609,Health Movement Pilates,"592 Kingston Rd, Toronto ON M4E 1P9",43.678662,-79.300097,null,null,East End-Danforth 
+610,30 Minute Hit Beaches Toronto,"601 Kingston Rd, Toronto ON M4E 3Y2",43.678533,-79.298767,null,null,The Beaches 
+611,Vince Parrell's Dance Centre,"276 Main St, Toronto ON M4C 4X5",43.687289,-79.301923,null,null,East End-Danforth 
+612,Building Bodies by Brian,"2575 Danforth Ave, Toronto ON M4C 1L5",43.688238,-79.300435,null,null,East End-Danforth 
+613,Stretch Your Life,"166 Glenmount Park Rd, Toronto ON M4E 2N4",43.681895,-79.305892,null,null,East End-Danforth 
+614,Macy Skin Care Clinic Ltd,"2692 Danforth Ave, Toronto ON M4C 1L7",43.689031,-79.298782,null,null,East End-Danforth 
+615,Curves,"1B Hannaford St, Toronto ON M4E 3G6",43.68037,-79.291152,null,null,East End-Danforth 
+616,Coysh School of Dance,"29 Cavendish St, Toronto ON M4E 1N9",43.677386,-79.295968,null,null,The Beaches 
+617,Dancing at Twilight Inc,"2448 Danforth Ave, Toronto ON M4C 1K9",43.687796,-79.304249,null,null,East End-Danforth 
+618,Liv Fit,"28 Southwood Dr, Toronto ON M4E 2T6",43.675301,-79.296856,null,null,The Beaches 
+619,Centre For Counselling and Meditation,"2942 Danforth Ave, Toronto ON M4C 1M5",43.690292,-79.292945,null,null,Taylor-Massey 
+620,Sisters Pace Fitness-Beach,"2251 Queen St E, Toronto ON M4E 1G3",43.671385,-79.294322,null,null,The Beaches 
+621,Prana Yoga Toronto,"2245 Queen St E, Toronto ON M4E 1G1",43.6713,-79.29473,null,null,The Beaches 
+622,Dragon Boat Canada,"2255B Queen St E, Toronto ON",43.671,-79.294215,null,null,The Beaches 
+623,Fitnessworks For Women,"2171 Queen St E, Toronto ON M4E 1E5",43.670415,-79.297677,null,null,The Beaches 
+624,This Worthy Woman Positive,"72 Hammersmith Ave, Toronto ON M4E 2W4",43.670203,-79.29437,null,null,The Beaches 
+625,Wxfitness,"212 Woodbine Ave, Markham ON L3R 4B9",43.669235,-79.306283,null,null,The Beaches 
+626,Sinead Thornton - Be Inspired Fitness,"2491 Queen St E, Toronto ON M4E 1H9",43.673945,-79.282098,null,null,The Beaches 
+627,Club Aurora,"36 Aurora Crt, Toronto ON M1W 2R7",43.794419,-79.316053,null,0.16150661112570522,L'Amoreaux West 
+628,Fit4Less,"2900 Warden Ave, Scarborough ON M1W 2S8",43.798471,-79.318335,null,0.9817427853041618,L'Amoreaux West 
+629,L'Amoreaux Swimming Pool,"2501 Bridletowne Cir, Scarborough ON M1W 2K1",43.802599,-79.317203,null,0.800152612551757,East L'Amoreaux 
+630,Chi-Ping Dance,"121 l'Amoreaux Dr, Toronto ON M1W 2J9",43.799594,-79.309742,null,null,East L'Amoreaux 
+631,Protege School,"3390 Midland Ave, Scarborough ON M1V 5K3",43.809919,-79.290404,null,null,Milliken 
+632,GoodLife Fitness,"5650 Yonge St (at Finch Ave.), North York ON M2M 4G3",43.780105,-79.416087,6.5,0.9419947211068163,Newtonbrook West 
+633,Grand Triomphe II Gym,"500 Doris Ave, North York ON M2N 0C1",43.776852,-79.414441,null,0.04701592424413004,Yonge-Doris 
+634,Symphony Square Gym,"23 Lorraine Dr, Toronto ON M2N 6Z6",43.777819,-79.416724,null,0.8182159342515105,Willowdale West 
+635,Spark EMS Fitness,"5460 Yonge St, North York ON M2N 6K7",43.777399,-79.415419,null,null,Willowdale West 
+636,Northridge Club,"5650 Yonge St, North York ON M2M 4G3",43.78015,-79.416235,null,null,Newtonbrook West 
+637,Shauna Parr Coaching,"9 Kensington Ave, Toronto ON M2M 1R5",43.779278,-79.420502,null,null,Newtonbrook West 
+638,Dance Studio 1,"5801 Yonge St, North York ON M2M 3T9",43.784355,-79.416392,null,null,Newtonbrook East 
+639,Fitness That Fits,"4214 Dundas St W, Etobicoke ON M8X 1Y6",43.660338,-79.511932,null,null,Edenbridge-Humber Valley 
+640,Singing Lotus Yoga Studio,"4166 Dundas St W, Etobicoke ON M8X 1X3",43.661274,-79.509138,null,null,Edenbridge-Humber Valley 
+641,York Recreation Centre,"115 Black Creek Blvd, Toronto ON M6N 2K6",43.674053,-79.50335,null,null,Rockcliffe-Smythe 
+642,Curves,"4020 Dundas St W, York ON M6S 2T7",43.664808,-79.502321,null,null,Lambton Baby Point 
+643,Transfit Service,"4005 Dundas St W, York ON M6S 2T4",43.664785,-79.501101,null,null,Lambton Baby Point 
+644,Yavir School of Ukrainian Dance,"125 la Rose Ave, Etobicoke ON M9P 1A6",43.685272,-79.521823,null,null,Humber Heights-Westmount 
+645,GoodLife Fitness,"2549 Weston Rd (401), Toronto ON M9N 2A7",43.71012,-79.533722,6.3,0.926014185461778,Pelmo Park-Humberlea 
+646,Curves,"2267 Islington Ave, Etobicoke ON M9W 3W7",43.716748,-79.555028,null,null,Elms-Old Rexdale 
+647,Before and After Fitness Club,"815 Albion Rd, Etobicoke ON M9V 1A3",43.734196,-79.559186,null,null,Thistletown-Beaumond Heights 
+648,iPower Fitness For Women,"12 Automatic Rd, Toronto ON M9P 3N1",43.70473,-79.549651,null,null,Kingsview Village-The Westway 
+649,Fit4Less,"700 Lawrence Ave W, North York ON M6A 3B4",43.716703,-79.447145,6.7,0.9864087264357464,Yorkdale-Glen Park 
+650,Toronto Dance Salsa,"650 Lawrence Ave W, North York ON M6A 3E8",43.717199,-79.441887,null,null,Englemount-Lawrence 
+651,Marlis Fitness Systems,"3220 Dufferin St, North York ON M6A 2T3",43.719237,-79.455512,null,null,Yorkdale-Glen Park 
+652,Adrenalinfitness.com Ltd,"3170 Dufferin St, North York ON M6A 2T1",43.717467,-79.455133,null,null,Yorkdale-Glen Park 
+653,Curzons,"3401 Dufferin St, North York ON M6A 2T9",43.724799,-79.455517,null,null,Yorkdale-Glen Park 
+654,Booty Camp Fitness,"35 Saffron Cres (Rathburn Rd & Renforth Drive), Toronto ON M9C 3T8",43.653395,-79.572434,null,0.6396717579214671,Eringate-Centennial-West Deane 
+655,Bayer Gym,"2920 Matheson Blvd E, Mississauga ON",43.665987,-79.591375,null,0.4608471426946267,none
+656,Aimia Gym,"2845 Matheson Blvd E (Commerce), Mississauga ON L4W 5J8",43.66454,-79.594741,null,0.19403890637442645,none
+657,Skymark Fitness,"2595 Skymark Ave, Mississauga ON L4W 4L5",43.657793,-79.600136,null,0.8678851768988661,none
+658,Fitness Wave Inc,"2595 Skymark Ave, Mississauga ON L4W 4L5",43.657793,-79.600136,null,0.48788441849000797,none
+659,Mosaic XM - Breakaway,"2700 Matheson Blvd E, Mississauga ON L4W 4V9",43.662539,-79.598996,null,0.03682075006636078,none
+660,Commerce West Wellness Centre,"401/40 the West Mall (at Burnhamthorpe Rd., Level P4), Etobicoke ON M9C 5J5",43.645639,-79.566492,null,0.07766978146382958,Etobicoke West Mall 
+661,You Can Dance Studios Inc,"735 Renforth Dr, Etobicoke ON M9C 2N7",43.661374,-79.583699,null,null,Eringate-Centennial-West Deane 
+662,Rock the Floor,"735 Renforth Dr, Etobicoke ON M9C 2N7",43.661426,-79.583755,null,null,Eringate-Centennial-West Deane 
+663,Active State Health and Fitness Solution,"451 the West Mall, Etobicoke ON M9C 1G1",43.646732,-79.567652,null,null,Etobicoke West Mall 
+664,Power Yoga Canada Etobicoke,"1092 Islington Ave, Etobicoke ON M8Z 4R9",43.636642,-79.520387,8.5,0.8561626699691022,Etobicoke City Centre 
+665,Moksha Yoga Etobicoke Inc,"1138 the Queensway (at Woolgar Ave), Toronto ON M8Z 1P7",43.622763,-79.519819,8.1,0.9156878197670782,Etobicoke City Centre 
+666,Fit4Less,"1255 the Queensway (Kipling And Queensway), Etobicoke ON M8Z 1S2",43.620218,-79.523891,7.7,0.9492000350258315,Etobicoke City Centre 
+667,Xtreme Couture,"700 Kipling Ave (at North Queen St.), Toronto ON M8Z 5G3",43.624584,-79.528618,6.7,0.974900238926208,Etobicoke City Centre 
+668,GoodLife Fitness,"302 the East Mall (Bloor Street), Etobicoke ON M9B 6C7",43.637276,-79.55662,6.8,0.892476951751917,Islington 
+669,Goodlife Fitness,"185 the West Mall (at Dundas St W), Etobicoke ON M9C 5L5",43.624866,-79.558196,6.6,0.9931074167198308,Etobicoke City Centre 
+670,Kingsway Boxing Club,"22B Jutland Rd (kipling), Toronto ON M8Z 2G6",43.627025,-79.526725,null,0.918871417670532,Etobicoke City Centre 
+671,Torque Barbell,"253 Norseman St (at Kipling Ave), Toronto ON M8Z 2R5",43.633022,-79.525315,null,0.8615916738594713,Etobicoke City Centre 
+672,Fit 1 Bootcamp,"46 Fieldway Rd, Toronto ON M8Z 3L2",43.641283,-79.528993,null,0.8828010657860171,Etobicoke City Centre 
+673,Gym,"5191 Dundas St W, Etobicoke ON M9A 0B2",43.643621,-79.533065,null,0.9336698315007318,Etobicoke City Centre 
+674,Innovative Rhythm Dance Studios,"337 Evans Ave, Toronto ON M8Z 1K2",43.616735,-79.520897,null,0.22172602294191968,Mimico-Queensway 
+675,Taoist Tai Chi Society of Canada,"5485 Dundas St W, Etobicoke ON M9B 1B5",43.632323,-79.543896,null,null,Etobicoke City Centre 
+676,Extreme Couture MMA,"700 Kipling Ave, Toronto ON",43.624889,-79.529042,null,null,Etobicoke City Centre 
+677,Body by U Fitness Inc,"16 Goodrich Rd, Etobicoke ON M8Z 4Z8",43.628105,-79.525778,null,null,Etobicoke City Centre 
+678,Toronto Adventure Boot Camp,"16 Goodrich Rd, Etobicoke ON",43.628112,-79.525686,null,null,Etobicoke City Centre 
+679,Dance Extension,"50 Paxman Rd, Etobicoke ON M9C 1B7",43.623829,-79.557794,null,null,Etobicoke City Centre 
+680,PurEnergy Wellness Lofts,"333 Bering Ave, Etobicoke ON M8Z 3A8",43.637405,-79.529064,null,null,Etobicoke City Centre 
+681,West End Athletic Club,"283 Bering Ave, Etobicoke ON M8Z 3A5",43.638132,-79.526051,null,null,Etobicoke City Centre 
+682,Taoist Tai Chi,"35 Chauncey Ave, Etobicoke ON M8Z 2Z2",43.63717,-79.524632,null,null,Etobicoke City Centre 
+683,Etobicoke School of Dance,"48 Fieldway Rd, Etobicoke ON M8Z 3L2",43.64091,-79.529493,null,null,Etobicoke City Centre 
+684,International School of Dance,"18 Chauncey Ave, Etobicoke ON M8Z 2Z3",43.637913,-79.52293,null,null,Etobicoke City Centre 
+685,F45 Training,"2200 Dundas St E, Mississauga ON L4X 2V3",43.625507,-79.565451,null,null,none
+686,True Strength Fitness,"2200 Dundas St E, Mississauga ON L4X 2V3",43.625507,-79.565451,null,null,none
+687,Goodlife Fitness,"380 the East Mall (Burnhamthorpe Road), Etobicoke ON M9B 6L5",43.644055,-79.559829,5.9,0.5636406850051914,Islington 
+688,YFSK Royal Health and Wellness Centre,"385 the West Mall, Etobicoke ON M9C 1E7",43.641808,-79.565914,null,null,Etobicoke West Mall 
+689,Yoga Vitality Studio,"2 Valhalla Inn Rd, Etobicoke ON M9B 6C3",43.641624,-79.558545,null,null,Islington 
+690,GoodLife Fitness North York Sheppard and Consumers,"2235 Sheppard Ave E, Toronto ON M2J 5B5",43.774647,-79.328698,7.0,0.956392839719293,Henry Farm 
+691,Body & Soul Fitness,"1875 Leslie St, Toronto ON M3B 2M5",43.756298,-79.359187,null,0.14647052200998237,St.Andrew-Windfields 
+692,Lansing Square Fitness Centre,"2550 Victoria Park Ave, Toronto ON M2J 5A9",43.773791,-79.323108,null,0.9019089078195169,Henry Farm 
+693,F45,"155 Consumers Rd, Toronto ON M2J 0A3",43.773204,-79.332639,null,null,Henry Farm 
+694,Goodlife Fitness,"2235 Sheppard Ave E, North York ON M2J 5B5",43.772633,-79.328268,null,null,Henry Farm 
+695,GoodLife Fitness North York Sheppard and Consumers,"2235 Sheppard Ave E, Toronto ON M2J 5B5",43.772823,-79.32797,null,null,Henry Farm 
+696,Fitness Institute Olympic High Performance Ctr,"2235 Sheppard Ave E, North York ON M2J 5B5",43.774653,-79.328307,null,null,Henry Farm 
+697,Pure Dance Crew,"242 Lesmill Rd, North York ON M3B 2T5",43.761973,-79.359198,null,null,St.Andrew-Windfields 
+698,Jane Ferguson,"51 Underhill Dr, North York ON M3A 2J8",43.745014,-79.325541,null,null,Parkwoods-O'Connor Hills 
+699,Fitness One Scarborough Inc,"85 Ellesmere Rd, Scarborough ON M1R 4B7",43.758099,-79.313132,null,null,Wexford/Maryvale 
+700,Crossfit Inc,"1919B Leslie St, Toronto ON M3B 2M3",43.75725,-79.360791,null,null,St.Andrew-Windfields 
+701,Reach Yoga,"40 Underhill Dr, Toronto ON M3A 2J5",43.744039,-79.326605,null,null,Parkwoods-O'Connor Hills 
+702,GoodLife Fitness North York Ferrand and Rochefort,"250 Ferrand Dr, North York ON M3C 3G8",43.719812,-79.331564,6.7,0.9859396304774771,Flemingdon Park 
+703,Turning Pointe Academy of Dance,"105 Vanderhoof Ave, Toronto ON M4G 2H7",43.712407,-79.360179,null,0.8211743660949951,Thorncliffe Park 
+704,Nielsen Fitness In-Home Personal Training,"209 Wicksteed Ave, Toronto ON M4G 0B1",43.712573,-79.350094,null,null,Thorncliffe Park 
+705,Lifebalance With Mehri,"181 Wynford Dr, North York ON M3C 0C6",43.725026,-79.326176,null,null,Banbury-Don Mills 
+706,Personal Best Health & Perform,"957 Eglinton Ave E, East York ON M4G 4B5",43.714266,-79.357759,null,null,Thorncliffe Park 
+707,Bulldog Interactive,"109 Vanderhoof Ave, East York ON M4G 2H7",43.712472,-79.360048,null,null,Thorncliffe Park 
+708,Front & Centre Dance Academy,"1200 Castlefield Ave (at Dufferin St), Toronto ON",43.700731,-79.425858,null,0.8714176705320174,Humewood-Cedarvale 
+709,Detox Club,"574 Eglinton Ave W (at Chaplin), Toronto ON M5N 1B8",43.702867,-79.417354,null,0.7190427940606197,Forest Hill North 
+710,Groove School of Dance,"491 Eglinton Ave W, Toronto ON M5N 1A8",43.703798,-79.413057,null,0.8197545689946335,Lawrence Park South 
+711,eMbody Fitness,"490 Eglinton Ave W (btwn Castleknock Rd. and Heddington Ave.), Toronto ON M5N 1A5",43.703804,-79.412964,null,0.8845085750741172,Lawrence Park South 
+712,Body Harmonics Pilates,"488 Eglinton Ave W (Tarlton Rd), Toronto ON M5N 1A5",43.703602,-79.412651,null,0.40875770881024753,Forest Hill South 
+713,Body & Soul Fitness,"378 Eglinton Ave W, Toronto ON M5N 1A2",43.704491,-79.409704,null,0.8415831675860947,Lawrence Park South 
+714,Dansation to,"882A Eglinton Ave W, Toronto ON M6C 2B6",43.700899,-79.426633,null,null,Forest Hill North 
+715,Energy Fitness,"840 Eglinton Ave W, Toronto ON M5N 1G1",43.701295,-79.425059,null,null,Forest Hill North 
+716,Ashtanga Yoga Shala,"875 Eglinton Ave W, York ON M6C 3Z9",43.700698,-79.42632,null,null,Humewood-Cedarvale 
+717,Aradia Fitness,"801 Eglinton Ave W, Toronto ON M5N 1E3",43.700996,-79.424543,null,null,Forest Hill South 
+718,Ultra Violet Pole Fitness Studio,"801 Eglinton Ave W, Toronto ON M5N 1E3",43.700943,-79.424488,null,null,Forest Hill South 
+719,Yoga Goddess,"45 Gardiner Rd, Toronto ON M5P 3B6",43.702091,-79.419523,null,null,Forest Hill South 
+720,Reform Pilates,"565 Eglinton Ave W, Toronto ON",43.703061,-79.414806,null,null,Forest Hill South 
+721,Oxygen Yoga and Fitness,"434 Eglinton Ave W, Toronto ON M5N 1A2",43.704212,-79.411449,null,null,Lawrence Park South 
+722,Beatbox,"388 Eglinton Ave W, Toronto ON M5N 1A2",43.704503,-79.410314,null,null,Lawrence Park South 
+723,Hatha Raja Yoga Studies,"1074 Ave Rd, Toronto ON M5N 2C9",43.706379,-79.410006,null,null,Lawrence Park South 
+724,The Canadian Centre for Capoeira,"491 Eglinton Ave W, Toronto ON",43.704597,-79.409503,null,null,Lawrence Park South 
+725,Indev Soccer School,"80 Braemar Ave, Toronto ON M5P 2L4",43.702538,-79.409532,null,null,Yonge-Eglinton 
+726,VRTU Muay Thai,"243 Eglinton Ave W, Toronto ON",43.704883,-79.406593,null,null,Yonge-Eglinton 
+727,Fitness Studio Detox,"500 Oriole Pky, Toronto ON M5P 2H8",43.704688,-79.406225,null,null,Yonge-Eglinton 
+728,Be-Fit Boot Camp,"200 Eglinton Ave W, Toronto ON",43.706161,-79.404495,null,null,Yonge-Eglinton 
+729,Aquamermaid,"200 Eglinton Ave W, Toronto ON M4R 1A7",43.706191,-79.404456,null,null,Yonge-Eglinton 
+730,Moksha Yoga Uptown,"1498 Yonge St, Toronto ON M4T 1Z6",43.688692,-79.394499,7.4,0.8491012121439562,Yonge-St.Clair 
+731,Ferris360,"1910 Yonge St (at Davisville Ave), Toronto ON M4S 3B2",43.698461,-79.396853,null,0.844810547778987,Yonge-Eglinton 
+732,Barre Beautiful,"2156 Yonge St, Toronto ON M4S 2A8",43.70394,-79.397962,null,0.47413092155464653,Yonge-Eglinton 
+733,Freshly Squeezed,"2200 Yonge St (Yonge and Eglinton), Toronto ON M4S 2C6",43.706154,-79.398409,null,0.6322725510063671,Yonge-Eglinton 
+734,Pilates-Stott Pilates Studio Equipment Sales &Certification,"2200 Yonge St (at Eglinton Ave. W), Toronto ON M4S 2C6",43.706036,-79.398483,null,0.22460939943208116,Yonge-Eglinton 
+735,Yoga Plus Toronto,"40 Eglinton Ave E (at Yonge), Toronto ON M4P 3A2",43.707071,-79.397385,null,0.6153475688320136,North Toronto 
+736,RingFit Boxing & Fitness Toronto,"1992 Yonge St, Toronto ON M4S 1Z7",43.700341,-79.397247,null,null,Yonge-Eglinton 
+737,Centre Ring Ltd,"1992 Yonge St, Toronto ON M4S 1Z7",43.700289,-79.397192,null,null,Yonge-Eglinton 
+738,Curves,"158 Eglinton Ave W, Toronto ON",43.705784,-79.403498,null,null,Yonge-Eglinton 
+739,Essence Pilates,"2063 Yonge St, Toronto ON M4S 2A2",43.702222,-79.397641,null,null,Yonge-Eglinton 
+740,Mitrea Pilates Center of Toronto Inc,"124 Merton St, Toronto ON M4S 2Z2",43.697129,-79.392757,null,null,South Eglinton-Davisville 
+741,Body Harmonics Pilates,"90 Eglinton Ave W, Toronto ON M4R 2E4",43.706345,-79.401201,null,null,Yonge-Eglinton 
+742,Goodlife Fitness,"555 Richmond St W (Bathurst and Richmond), Toronto ON M5V 3B1",43.646456,-79.402446,8.8,0.980998486383708,Wellington Place 
+743,Argonaut Rowing Club,"1225 Lake Shore Blvd W (at Net Dr.), Toronto ON M6K 3C1",43.632168,-79.436009,8.2,0.9486246106503546,South Parkdale 
+744,Flirty Girl Fitness,"580 King St W (at Portland St), Toronto ON M5V 1M3",43.644837,-79.399243,7.9,0.18469871530253562,Wellington Place 
+745,Goodlife Fitness,"85 Hanna Ave (at Snooker St.), Toronto ON M6K 3S3",43.639968,-79.419872,7.4,0.9773708109730926,Fort York-Liberty Village 
+746,Crossfit Inc,"390 Queens Quay W (Spadina Ave), Toronto ON M5V 3A6",43.638174,-79.390515,8.0,0.8035175942257415,Harbourfront-CityPlace 
+747,Brass Vixens,"721 Queen St E (at Palmerstone Ave.), Toronto ON M4M 1H1",43.646631,-79.406213,7.5,0.8390187763475563,West Queen West 
+748,Gyan Yoga,"107 Jefferson Ave (Dufferin), Toronto ON M6K 3E4",43.638991,-79.421726,7.2,0.26934864462541125,South Parkdale 
+749,Studio Lagree California Body,"788 King St W (Niagara), Toronto ON M5V 1N6",43.643294,-79.406569,7.2,0.856500419059056,West Queen West 
+750,Quad,"580 King St W (btw Portland St and Bathurst St), Toronto ON M5V 1M3",43.64483,-79.399335,7.3,0.47178544176330045,Wellington Place 
+751,Downward Dog Yoga Centre,"735 Queen St E, Toronto ON M4M 1H1",43.646421,-79.406788,7.2,0.8316258240452333,West Queen West 
+752,Gym Toronto,"75 E Liberty St (Liberty Village), Toronto ON M6K 3R3",43.638294,-79.415118,null,0.5897662025743986,Fort York-Liberty Village 
+753,F45,"171 E Liberty St, Toronto ON M6K 3P6",43.638647,-79.417978,null,0.5144794285785766,Fort York-Liberty Village 
+754,Altea Active,"25 Ordnance St, Toronto ON M6K 0E9",43.639072,-79.410065,null,0.9946585606885078,Fort York-Liberty Village 
+755,Fusion Kinetics Inc,"31 Atlantic Ave (Liberty Village), Toronto ON M6K 3E7",43.637323,-79.419963,null,0.924638170650855,Fort York-Liberty Village 
+756,Neptune Fitness Centre,"209 Fort York Blvd, Toronto ON M5V 4A1",43.636814,-79.404599,null,0.254018588709173,Fort York-Liberty Village 
+757,Stay Gold,"65 Jefferson Ave (Liberty St.), Toronto ON M6K 1Y3",43.637749,-79.421273,null,0.45546090241553144,South Parkdale 
+758,DNA Gym,"1005 King St W (Shaw), Toronto ON M6K 3M8",43.641273,-79.414285,null,0.8779037039816865,West Queen West 
+759,Orangetheory Fitness,"600 Fleet St (Bathurst), Toronto ON M5V 1B7",43.636679,-79.400278,null,0.9483118800115085,Fort York-Liberty Village 
+760,Big Hit Kickboxing Studios,"165 Fort York Blvd, Toronto ON M5V 0C7",43.638376,-79.400876,null,0.9757696301022004,Fort York-Liberty Village 
+761,Atrium Gym,"650 Queens Quay W, Toronto ON M5V 3N2",43.634423,-79.39889,null,0.028358414330568793,Fort York-Liberty Village 
+762,Dufferin Liberty Centre Gym,"219 Dufferin St, Toronto ON M6K 3J1",43.636685,-79.426204,null,0.3643562127068713,South Parkdale 
+763,Aiyoku a Cardio Lounge,"77 Mowat Ave, Toronto ON M6K 3E3",43.638323,-79.425498,null,0.8099348269348645,South Parkdale 
+764,Studio KO,"788 King St W (Tecumseth St), Toronto ON M5V 1N6",43.643294,-79.406569,null,0.18732565266884327,West Queen West 
+765,F45 Training Trinity Bellwoods,"828 Richmond St W, Toronto ON M6J 1C9",43.644812,-79.411158,null,0.9143180595689321,West Queen West 
+766,Adelaide Club,"First Canadian Pl, Toronto ON",43.644457,-79.405989,null,0.1941119075318047,West Queen West 
+767,889 Yoga,"550 Wellington St W (Bathurst), Toronto ON M5V 2V4",43.642846,-79.401917,null,0.4490249058680777,Wellington Place 
+768,TAXI Bodyshop,"495 Wellington St W (Portland), Toronto ON",43.642819,-79.399201,null,0.6550581053526976,Wellington Place 
+769,Pure Barre - Queen St W,"737 Queen St W (Tecumseth St), Toronto ON M6J 1G1",43.64648,-79.40675,null,0.809572059393803,West Queen West 
+770,F45,"67A Portland St, Toronto ON M5V 2M9",43.643715,-79.399152,null,0.9789407187801004,Wellington Place 
+771,Gym at Neo,"15 Fort York Blvd, Toronto ON M5V 3Y4",43.64089,-79.394079,null,0.9557736330543776,Harbourfront-CityPlace 
+772,Undrcard Boxing,"425 Adelaide St W (Brant St), Toronto ON M5V 3C1",43.646446,-79.397957,null,0.2080972217010045,Wellington Place 
+773,Ayothaya Muay Thai Fitness Academy,"370 Queens Quay West &, Toronto ON",43.638312,-79.390163,null,0.2555822419034038,Harbourfront-CityPlace 
+774,370 Gym,"370 Queens Quay W, Toronto ON",43.638724,-79.389902,null,0.6630202274177206,Harbourfront-CityPlace 
+775,Christines Fitness & Personal Training,"457 Richmond St W, Toronto ON M5V 1X9",43.647544,-79.397524,null,0.04173703106040705,Wellington Place 
+776,Fort York Fitness,"660 Fleet St, Toronto ON M5V 1A9",43.636814,-79.407684,null,null,Fort York-Liberty Village 
+777,Liberty Life Yoga,"85 E Liberty St, Toronto ON M6K 3R4",43.638359,-79.414988,null,null,Fort York-Liberty Village 
+778,Vital Inspirational Body Experience,"51 E Liberty St, Toronto ON M6K 3P8",43.638835,-79.412307,null,null,Fort York-Liberty Village 
+779,Battery Park Condos,"50 Lynn Williams St, Toronto ON M6K 3R9",43.63958,-79.415183,null,null,Fort York-Liberty Village 
+780,King West Fitness,"37 Hanna Ave, Toronto ON M6K 1W9",43.638389,-79.419199,null,null,Fort York-Liberty Village 
+781,Liberty Movement Studio,"7 Fraser Ave, Toronto ON M6K 1Y7",43.635684,-79.423206,null,null,South Parkdale 
+782,Warrior Zen Fitness,"12 Sudbury St, Toronto ON M6J 3W7",43.641416,-79.41772,null,null,West Queen West 
+783,Atrium on Queen's Quay Inc,"650 Queen's Quay W, Toronto ON M5V 3N2",43.635664,-79.398808,null,null,Fort York-Liberty Village 
+784,Unleash Your Fitness,"38 Dan Leckie Way, Toronto ON M5V 2V6",43.637029,-79.398558,null,null,Harbourfront-CityPlace 
+785,Goodlife Fitness,"3495 Lawrence Ave E (Markham Rd.), Scarborough ON M1H 1B2",43.758941,-79.229019,7.1,0.933657322275178,Golfdale-Cedarbrae-Woburn 
+786,Fit4Less,"3434 Lawrence Ave E, Scarborough ON M1H 1A9",43.760047,-79.228489,null,0.6462828836266746,Woburn North 
+787,Btf Canada Corporation-Bally Total Fitness,"3495 Lawrence Ave E, Toronto ON M1H 1B3",43.758289,-79.226341,null,null,Golfdale-Cedarbrae-Woburn 
+788,Extreme Fitness Inc,"3495 Lawrence Ave E, Scarborough ON M1H 1B2",43.758308,-79.228452,null,null,Golfdale-Cedarbrae-Woburn 
+789,Bally Total Fitness,"3495 Lawrence Ave E, Scarborough ON M1H 1B3",43.758941,-79.229019,null,null,Golfdale-Cedarbrae-Woburn 
+790,Amor Healthy Lifestyle,"70 Golfhaven Dr, Toronto ON",43.764662,-79.215713,null,null,Golfdale-Cedarbrae-Woburn 
+791,2 the Core Fitness,"21 Bailey Cres, Toronto ON M1G 2P4",43.770233,-79.22825,null,null,Golfdale-Cedarbrae-Woburn 
+792,Nutrition Fitness Connection,"97 Mountland Dr, Scarborough ON M1G 2P2",43.771766,-79.223287,null,null,Golfdale-Cedarbrae-Woburn 
+793,Mudra Dance Academy,"960 Markham Rd, Scarborough ON M1H 2Y4",43.77203,-79.230639,null,null,Woburn North 
+794,Insudhar Yoga Studio,"20 Slan Ave, Scarborough ON M1G 3B2",43.773592,-79.219728,null,null,Morningside 
+795,Satya Yoga,"248 Scarborough Golf Club Rd, Scarborough ON M1J 3G8",43.74832,-79.210078,null,null,Guildwood 
+796,F45 Training,"3775 Kingston Rd, Scarborough ON M1J 3H4",43.746889,-79.208076,null,null,Guildwood 
+797,Train With Aldene,"15 Guildwood Pky, Scarborough ON M1E 4Y8",43.747577,-79.204717,null,null,Guildwood 
+798,System Fitness,"1671 Queen St E (at Kingston Rd), Toronto ON M4L 1G5",43.666895,-79.313069,8.1,0.6152850227042443,The Beaches 
+799,MOVE fitness studio,"388 Carlaw Ave, Toronto ON M4M 2T4",43.665724,-79.342074,null,0.6741471835478665,South Riverdale 
+800,Yoga Yoga East,"1402 Queen St E, Toronto ON M4L 1C9",43.664804,-79.324196,null,null,Greenwood-Coxwell 
+801,Kapow! Fit kidz,"1356A Queen St E, Toronto ON M4L 1C8",43.66441,-79.32577,null,null,South Riverdale 
+802,Rise and Shine Fitness,"1041 Eastern Ave, Toronto ON M4L 1A8",43.66387,-79.319232,null,null,The Beaches 
+803,Seven Seeds Studio,"914 Eastern Ave, Toronto ON M4L 1A4",43.662824,-79.324398,null,null,Greenwood-Coxwell 
+804,Vo2 Max Personal Training,"20 Leslie St, Toronto ON M4M 3L4",43.660186,-79.329077,null,null,South Riverdale 
+805,Goodlife Fitness,"3660 Kingston Rd, Scarborough ON M1M 1R9",43.742958,-79.2136,8.0,0.9960595939505386,Scarborough Village 
+806,Kiddie Korner Yoga,"121 Cultra Sq, Scarborough ON M1E 2E4",43.758519,-79.189035,null,null,West Hill 
+807,The GYM - Personal training & MMA bootcamp,"4320 Kingston Rd, Toronto ON M1E 2M8",43.764958,-79.192518,null,null,West Hill 
+808,The Gym,"4320 Kingston Rd, Toronto ON M1E 2M8",43.764958,-79.192518,null,null,West Hill 
+809,Waterclub Gym & Pool,"8 York St (Queens Quay), Toronto ON M5J 2Y2",43.640111,-79.381616,5.7,0.8603657697551944,Harbourfront-CityPlace 
+810,Infinity Gym,"30 Grand Trunk Cres (Bremner), Toronto ON M5J 3A4",43.64242,-79.383059,null,0.37307514291790195,Harbourfront-CityPlace 
+811,The Gym,"181 Wellington St W (John St), Toronto ON M5V 3G7",43.645376,-79.387175,null,0.902546878322763,Wellington Place 
+812,Telus House Gym,"25 York St, Toronto ON M5J 2V5",43.643552,-79.38137,null,0.9207227830525012,St Lawrence-East Bayfront-The Islands 
+813,Richmond & Spadina,"140 Spadina Ave, Toronto ON M5V 2L4",43.647638,-79.39623,null,0.842540123340964,Wellington Place 
+814,Fitness for Mental Health,"410 Queens Quay W, Toronto ON M5V 3T1",43.638225,-79.391365,null,null,Harbourfront-CityPlace 
+815,Andrew Younes Fitness,"20 Blue Jays Way, Toronto ON M5V 3W6",43.641401,-79.390141,null,null,Harbourfront-CityPlace 
+816,Dance-Teq,"470 Queens Quay W, Toronto ON M5V 3K4",43.637686,-79.393382,null,null,Harbourfront-CityPlace 
+817,PT Xpress,"88 Blue Jays Way, Toronto ON M5V 0L7",43.645334,-79.392404,null,null,Wellington Place 
+818,Barre 3,"325 King St E, Toronto ON M5A 1L1",43.646225,-79.390957,null,null,Wellington Place 
+819,Body by roc,"8 York St, Toronto ON M5J 2Y2",43.640386,-79.380913,null,null,Harbourfront-CityPlace 
+820,Harbourfront Centre - Premiere Dance Theatre,"207 Queens Quay W, Toronto ON M5J 1A7",43.638826,-79.380758,null,null,Harbourfront-CityPlace 
+821,Premier Health Centre,"2068 Sheppard E, Scarborough ON",43.776173,-79.321235,null,0.513241015248746,L'Amoreaux West 
+822,Breathe Yoga Studio,"2968 Dundas St W (at Pacific), Toronto ON M6P 1Y8",43.665561,-79.468349,7.9,0.8795111394653558,Junction Area 
+823,Moksha Yoga Bloor West Village,"2454 Bloor St W (at South Kingsway), Toronto ON M6S 1R2",43.648869,-79.485436,8.1,0.9727799251948311,High Park-Swansea 
+824,High Park Village Fitness,"65 High Park Ave (Bloor Street West), Toronto ON M6P 2R7",43.655831,-79.46552,null,0.906124516831163,High Park North 
+825,System Fitness,"2100 Bloor St W (Ellis Park Drive), Toronto ON M6S 1M7",43.652474,-79.47073,5.7,0.9014710849251323,High Park North 
+826,Rpm Spinning and Gravity Studios,"2109 Bloor St W, Toronto ON M6S 1M5",43.652117,-79.472542,null,0.10428941344241378,High Park North 
+827,Glenlake Gym,"2495 Dundas St W, Toronto ON M6P 1X4",43.660477,-79.454203,null,0.6442188614102901,High Park North 
+828,The Loft Pilates Studio,"396 Pacific Ave, Toronto ON M6P 2R1",43.665254,-79.46872,null,0.6128269598829137,Junction Area 
+829,Creative Childrens Dance Centre,"2968 Dundas St W (Pacific), Toronto ON M6P 1Y8",43.665561,-79.468349,null,0.5351321599679764,Junction Area 
+830,Generate Fitness,"2199 Bloor St W (Kennedy Ave), Toronto ON M6S 1N2",43.651241,-79.4753,null,0.3983375239238939,High Park-Swansea 
+831,Ironkore Performance Training,"3076 Dundas St W (Quebec Ave.), Toronto ON M6P 1Z8",43.665388,-79.47225,null,0.45595501682490835,Junction Area 
+832,Crossfit Inc,"142 Vine Ave (Pacific Ave.), Toronto ON M6P 1V7",43.666801,-79.469063,null,0.8700416557210943,Junction Area 
+833,Circuit Fitness Plus,"534 Annette St (Runnymede Rd), Toronto ON M6S 2C2",43.660142,-79.480242,null,0.20456962009481994,Runnymede-Bloor West Village 
+834,Swansea School of Dance,"356 Windermere Ave (in Windermere United Church), Toronto ON M6S 3L3",43.649165,-79.479874,null,0.8903754018588709,High Park-Swansea 
+835,Retrofit Bodyworks Pilates,"2323 Bloor St W, Toronto ON M6S 4W1",43.650157,-79.480128,null,0.2730951576787881,High Park-Swansea 
+836,RPM Spin & Gravity Studio,"2109 Dundas St W, Toronto ON",43.664291,-79.481706,null,0.6749790470471974,Junction Area 
+837,Stockyards Boxing and Fitness Ctr,"215 Ryding Ave, Toronto ON M6N 1H6",43.669239,-79.477922,null,0.3694849951839482,Junction Area 
+838,Body Language Academy of Dance,"272 Jane St (Ardagh Street), Toronto ON M6S 3Z2",43.655747,-79.487342,null,0.7920278705545339,Lambton Baby Point 
+839,TAB Fitness,"274 Jane St (Jane & Ardagh), Toronto ON M6S 3Z2",43.655805,-79.487304,null,0.05362704994933764,Lambton Baby Point 
+840,Vivace Studios,"291A Jane St, Toronto ON M6S 3Z3",43.656381,-79.487117,null,0.4318497391826472,Runnymede-Bloor West Village 
+841,Studio Z Yoga & Fitness,"419 Jane St (Annette), Toronto ON M6S 3Z7",43.658892,-79.488083,null,0.5214720856631766,Runnymede-Bloor West Village 
+842,The Motion Room,"3431 Dundas St W (at Windermere Ave.), Toronto ON M6S 2S4",43.665483,-79.4855,null,0.891914036601994,Runnymede-Bloor West Village 
+843,Snap Fitness,"183 Roncesvalles Ave, Toronto ON M6R 2L5",43.6448,-79.448271,null,0.6954003577638508,Roncesvalles 
+844,Orangetheory Fitness,"2480 Bloor St W (Riverview Gardens), Toronto ON M6S 0A5",43.648461,-79.486399,null,0.9587946110256313,High Park-Swansea 
+845,Think Fitness,"2489 Bloor St W (Jane), Toronto ON M6S 1R6",43.647855,-79.486254,null,0.5917238963735755,High Park-Swansea 
+846,High Park Recreation & Fitness,"65 High Park Ave, Toronto ON M6P 2R7",43.655811,-79.465797,null,null,High Park North 
+847,Kaleneelizabethyoga,"100 Quebec Ave, Toronto ON M6P 4B8",43.655576,-79.468237,null,null,High Park North 
+848,Get Fit with Andrei,"148 Glenlake Ave, Toronto ON M6P 1E7",43.658448,-79.461218,null,null,High Park North 
+849,F45 Training,"2100 Bloor St W, Toronto ON M6S 1M7",43.652513,-79.47097,null,null,High Park North 
+850,Coach Phil,"2100 Bloor St W, Toronto ON M6S 1M7",43.652513,-79.47097,null,null,High Park North 
+851,RPM Spinning & Gravity Study Ltd,"2968 Dundas St W, Toronto ON M6P 1Y8",43.665568,-79.468257,null,null,Junction Area 
+852,NXT 2 Gym,"105 the Queensway, Toronto ON M6S 5B5",43.636064,-79.470985,null,0.41798326265620894,High Park-Swansea 
+853,Grenadier Landing Gym,"5 Marine Parade Dr, Toronto ON M8V 4B4",43.629504,-79.475489,null,0.9065998674022091,Humber Bay Shores 
+854,Johnson Dance,"95 Lavinia Ave, Toronto ON M6S 3H9",43.647734,-79.47796,null,null,High Park-Swansea 
+855,Life Health Club,"1900 Lake Shore Blvd W, Toronto ON M6S 1A4",43.63641,-79.466273,null,null,South Parkdale 
+856,Osha Paddle Boarding & Yoga,"1755 Lake Shore Blvd W, Toronto ON M6S 5A3",43.637711,-79.457696,null,null,South Parkdale 
+857,Doreen Hayes School of Dancing,"2453A Bloor St W, Toronto ON M6S 1P7",43.649107,-79.484493,null,null,High Park-Swansea 
+858,366 Degree Fitness Inc,"36 Howard Park Ave, Toronto ON M6R 0A5",43.651199,-79.453647,null,null,High Park-Swansea 
+859,Boomerang Pilates and Wellness,"240 Roncesvalles Ave, Toronto ON M6R 2L8",43.64564,-79.449061,null,null,High Park-Swansea 
+860,Rita Ridaz Dance Academy,"2238 Dundas St W, Toronto ON M6R 3A9",43.654312,-79.451763,null,null,Roncesvalles 
+861,The Art of Balance,"274 Jane St, Toronto ON M6S 3Z2",43.655747,-79.487342,null,null,Lambton Baby Point 
+862,Favourite Dance Studio,"291A Jane St, Toronto ON M6S 3Z3",43.656433,-79.487172,null,null,Runnymede-Bloor West Village 
+863,TPASC - Fitness Centre,"875 Morningside Ave, Scarborough ON M1C 0C7",43.79009,-79.19403,null,0.5033524724484307,Highland Creek 
+864,Star Dance Academy,"4637 Kingston Rd, Scarborough ON M1E 2P8",43.774625,-79.17738,null,0.7920466343928647,West Hill 
+865,Equistrong,"80 Millhouse Cres, Scarborough ON M1B 2E3",43.805691,-79.173563,null,null,West Rouge 
+866,Extreme Fitness Pro,"70 Mornelle Crt, Scarborough ON M1E 4S8",43.785117,-79.195881,null,null,Morningside 
+867,Goodlife Fitness,"3389 Steeles Ave E (btwen Woodbine & Victoria Park), North York ON M2H 3S8",43.81357,-79.343662,7.2,0.8534356587983638,Hillcrest Village 
+868,Goodlife Fitness,"105 Gordon Baker Rd, North York ON M2H 3P8",43.801247,-79.343819,6.6,0.968733190728162,Hillcrest Village 
+869,Strumos Fitness,"217 Idema Rd, Markham ON L3R 1B1",43.815985,-79.355399,null,null,none
+870,Orangetheory Fitness,"6 Parklawn Rd, Toronto ON M8V 0E6",43.623302,-79.482759,null,0.9205601631203012,Humber Bay Shores 
+871,South Beach Shore Club,"88 Pk Lawn Rd, Toronto ON",43.624088,-79.484897,null,0.8672395891970328,Humber Bay Shores 
+872,Bikram Yoga Red Tree,"12 Drummond St, Etobicoke ON M8V 1Y8",43.613002,-79.498429,null,0.9148246832038629,Mimico-Queensway 
+873,Artistic Edge Dance Company Inc,"20 Drummond St, Etobicoke ON M8V 1Y8",43.612903,-79.49902,null,0.12123315945509813,Mimico-Queensway 
+874,Orangetheory Fitness - Park Lawn,"6 Pk Lawn Rd, Toronto ON M8V 1A4",43.622749,-79.481876,null,null,Humber Bay Shores 
+875,Strong Fitness,"2175 Lake Shore Blvd W, Etobicoke ON M8V 1A1",43.624236,-79.479967,null,null,Humber Bay Shores 
+876,F45 Training Humber Bay,"36 Pk Lawn Rd, Etobicoke ON",43.623571,-79.484438,null,null,Humber Bay Shores 
+877,Stefura Dance Studios,"80 Pk Lawn Rd, Etobicoke ON M8Y 3H8",43.624758,-79.485097,null,null,Humber Bay Shores 
+878,Think Fitness Studios,"134 Pk Lawn Rd, Toronto ON",43.627124,-79.488776,null,null,Stonegate-Queensway 
+879,Ballet Creole,"101 Portland St, Etobicoke ON M8Y 1B1",43.619157,-79.498677,null,null,Mimico-Queensway 
+880,Curves,"1500 Royal York Rd, Etobicoke ON M9P 3B6",43.691952,-79.531003,null,null,Willowridge-Martingrove-Richview 
+881,I Train - Specializing in Women's Fitness,"12 Spencely Crt, Etobicoke ON M9P 1N5",43.689315,-79.538576,null,null,Willowridge-Martingrove-Richview 
+882,Yashi Sports Inc,"457 Fenmar Dr, North York ON M9L 2R6",43.762781,-79.557198,null,0.879248445728725,Humber Summit 
+883,Body Blast Inc,"4370 Steeles Ave W (at Pine Valley Dr.), Woodbridge ON L4L 4Y4",43.767033,-79.564314,null,0.8020257826887661,none
+884,Lanna Mixed Martial Arts,"3625 Weston Rd, Toronto ON M9L 1V9",43.758832,-79.543712,null,0.13753893496453634,Humber Summit 
+885,All Dunamis,"20 Milvan Dr, North York ON M9L 1Z3",43.752029,-79.552866,null,null,Humber Summit 
+886,Supremebodytoneandfitness,"4300 Steeles Ave W, Woodbridge ON L4L 4C2",43.767284,-79.561683,null,null,none
+887,Xcel Fitness,"4160 Steeles Ave W, Woodbridge ON L4L 3S8",43.768207,-79.557568,null,null,none
+888,Woodbridge Fit Body Boot Camp,"4300 Steeles Ave W, Woodbridge ON L4L 4C2",43.768009,-79.561754,null,null,none
+889,Melrose Fitness Studio,"9 Milvan Dr, North York ON M9L 1Y9",43.751165,-79.553147,null,null,Humber Summit 
+890,Active Fitness and Health,"41 Gaudaur Rd, Woodbridge ON L4L 3R8",43.768418,-79.56079,null,null,none
+891,Brahma Kumaris World Spiritual Organization,"3000 Islington Ave, North York ON M9L 2L1",43.759684,-79.57169,null,null,Humber Summit 
+892,Curves,"2450 Finch Ave W, North York ON M9M 2E9",43.749941,-79.553744,null,null,Humber Summit 
+893,Herbalife Coach Connie Campea,"2300 Finch Ave W, North York ON M9M 2Y3",43.752134,-79.540793,null,null,Humbermede 
+894,Kerala Ayurveda Inc,"2645 Islington Ave, Etobicoke ON M9V 2X6",43.738396,-79.565446,null,null,Thistletown-Beaumond Heights 
+895,LA Fitness,"1970 Eglinton Ave E (Warden Ave), Toronto ON M1L 2M6",43.730422,-79.285446,7.0,0.9970040404798539,Wexford/Maryvale 
+896,Fore! Yoga,"1110 Birchmount Rd, Scarborough ON M1K 5G7",43.737303,-79.280345,null,null,Ionview 
+897,GoodLife Fitness Etobicoke Bloor Islington Place,"3280 Bloor St W, Etobicoke ON M8X 2X3",43.645539,-79.52225,7.0,0.8765839806857557,Islington 
+898,Goodlife Fitness,"3300 Bloor St W (Islington), Toronto ON M8X 2W8",43.645196,-79.522382,5.9,0.9596264745249622,Islington 
+899,Kingswood Gym,"3391 Bloor St W (Islington), Toronto ON M8X 1G3",43.64474,-79.523991,null,0.6280757058330518,Etobicoke City Centre 
+900,Memorial Pool and Health Club,"44 Montgomery Rd, Toronto ON M8X 1Z4",43.648312,-79.519708,null,0.8228380930936565,Kingsway South 
+901,F45 Training Etobicoke Central,"4922 Dundas St W, Etobicoke ON",43.648563,-79.529137,null,null,Islington 
+902,King's Mill Club,"3300 Bloor St W, Etobicoke ON M8X 2X2",43.645202,-79.52229,null,null,Islington 
+903,Toronto Memorial Health Club,"44 Montgomery Rd, Etobicoke ON M8X 1Z4",43.649272,-79.51963,null,null,Kingsway South 
+904,Toronto Clinic For Preventative Medicine,"3267 Bloor St W, Etobicoke ON M8X 1E2",43.645692,-79.517928,null,null,Stonegate-Queensway 
+905,The Monkey Vault,"100 Symes Rd, Toronto ON M6N 0A8",43.672503,-79.478588,null,0.35857069588821755,Junction Area 
+906,Gotta Dance,"3581B Dundas St W (at Watson St Ave), York ON M6S 2S8",43.665569,-79.491968,null,0.9101712512978322,Runnymede-Bloor West Village 
+907,The Motion Room,"3074 Dundas St W, Toronto ON M6P 1Z7",43.66563,-79.472008,null,null,Junction Area 
+908,The Loft Pilates Studio,"3079 Dundas St W, Toronto ON M6P 1Z9",43.665388,-79.47225,null,null,Junction Area 
+909,The Monkey Vault Parkour Training Centre,"100 Symes Rd, Toronto ON M6N 3T1",43.672451,-79.478533,null,null,Junction Area 
+910,Vaios Skretas - Tricking Coach,"100 Symes Rd, York ON M6N 0A8",43.672673,-79.478569,null,null,Junction Area 
+911,Rhythm & Motion Dance Studio,"3352 Dundas St W, Toronto ON M6P 2A4",43.665709,-79.481655,null,null,Junction Area 
+912,The Fitness Point,"289 John St, Toronto ON",43.663597,-79.481503,null,null,Junction Area 
+913,David Torres Fitness,"3415 Dundas St W, York ON M6S 2S4",43.665406,-79.48502,null,null,Runnymede-Bloor West Village 
+914,Pounds Fitness Center,"597 Jane St, York ON M6S 4A3",43.664998,-79.490566,null,null,Runnymede-Bloor West Village 
+915,Moonstar Yoga,"614 Jane St, York ON M6S 4A6",43.665433,-79.491525,null,null,Runnymede-Bloor West Village 
+916,TTM - Talk Touch Move,"357 Jane St, Toronto ON M6S 3Z3",43.657418,-79.487518,null,null,Runnymede-Bloor West Village 
+917,Yoga From the Heart Canada,"283 Spadina Ave, Toronto ON M5T 2E3",43.652866,-79.397672,null,null,Kensington-Chinatown 
+918,AFK Fitness,"222 Spadina Ave, Toronto ON M5T 2C2",43.650965,-79.397556,null,null,Kensington-Chinatown 
+919,Fitness 365,"40 Ronson Dr (Kipling Ave.), Toronto ON M9W 1B3",43.698872,-79.564283,7.5,0.9680764563865851,West Humber-Clairville 
+920,TH Fitness - Personal Training,"2000 Islington Ave, Etobicoke ON M9P 3S7",43.697121,-79.54696,null,null,Kingsview Village-The Westway 
+921,Stageworx,"1735 Kipling Ave, Etobicoke ON M9R 2Y8",43.693507,-79.557089,null,null,Kingsview Village-The Westway 
+922,La Danseuse,"1735B Kipling Ave, Etobicoke ON M9R 2Y8",43.693522,-79.558402,null,null,Willowridge-Martingrove-Richview 
+923,Spartan Fitness Equipment,"24 Ronson Dr, Etobicoke ON M9W 1B4",43.699776,-79.563447,null,null,West Humber-Clairville 
+924,Fitness Depot Warehouse,"40 Ronson Dr, Etobicoke ON M9W 1B3",43.699028,-79.564448,null,null,West Humber-Clairville 
+925,Bliss Yoga Studio,"2992 Bloor St W, Toronto ON M8X 1C2",43.647888,-79.510488,null,0.09366908094719856,Kingsway South 
+926,Arthur Murray Dance Studio,"3054 Bloor St W (Bloor St W & Royal York Road), Etobicoke ON M8X 1C4",43.647183,-79.512934,null,0.19744561614190465,Kingsway South 
+927,Bliss Yoga Studio,"2992 Bloor St W, Etobicoke ON M8X 1C2",43.647772,-79.510271,null,null,Kingsway South 
+928,Execufit Personal,"3016 Bloor St W, Etobicoke ON M8X 1C4",43.647442,-79.511713,null,null,Kingsway South 
+929,Vintage Fitness,"3044 Bloor St W, Etobicoke ON M8X 1C4",43.647235,-79.512989,null,null,Kingsway South 
+930,Fuzion Fitness & Yoga Studio,"3195 Sheppard Ave E, Scarborough ON M1T 3K1",43.777184,-79.313426,null,null,Tam O'Shanter-Sullivan 
+931,Barreworks,"2576A Yonge St, Toronto ON M4P 2J3",43.714057,-79.400185,7.7,0.7485458025293654,Lawrence Park South 
+932,Anytime Fitness,"2739 Yonge St, Toronto ON M4N 2H8",43.717749,-79.4004,null,0.9032161218898938,Lawrence Park South 
+933,Spinco Toronto,"2577 Yonge St, Toronto ON M4P 2J1",43.714163,-79.3995,null,0.031241790820730288,Mount Pleasant East 
+934,elements Toronto-Diet and fitness,"2532 Yonge St, Toronto ON M4P 2H7",43.71279,-79.399842,null,null,Yonge-Eglinton 
+935,Friends of the Heart,"2510 Yonge St, Toronto ON M4P 2H7",43.712294,-79.399716,null,null,Yonge-Eglinton 
+936,Yoga Tree Midtown,"40 Eglinton Ave E (at Yonge St.), Toronto ON M4P 3A2",43.707692,-79.397343,8.1,0.9224553107917088,North Toronto 
+937,Goodlife Fitness,"110 Eglinton Ave E (at Dunfield Ave.), Toronto ON M4P 2Y1",43.707683,-79.395142,7.4,0.9863649441463079,North Toronto 
+938,Crossfit Inc,"756 Mount Pleasant Rd (Eglinton), Toronto ON M4S 2N6",43.70738,-79.390039,7.2,0.8177906205826797,South Eglinton-Davisville 
+939,Goodlife Fitness,"2300 Yonge St (at Eglinton Ave. W), Toronto ON M4P 1E4",43.707048,-79.399253,6.2,0.8650504747251098,Yonge-Eglinton 
+940,SURFSET Toronto,"2481A Yonge St, Toronto ON M4P 2H6",43.711654,-79.39924,null,0.6060156865688445,North Toronto 
+941,Yoga Centre Toronto,"2428 Yonge St (Yonge & Eglinton), Toronto ON M4P 2H4",43.710413,-79.399322,null,0.8680026519558174,Yonge-Eglinton 
+942,Gym at 88 Erskine,"88 Erskine Ave, Toronto ON M4P 1Y3",43.711622,-79.395817,null,0.8222689233309566,North Toronto 
+943,Martha Hicks School of Ballet Inc,"2345 Yonge St (North of Eglington), Toronto ON M4P 2E5",43.70884,-79.398556,null,0.09625223602406775,North Toronto 
+944,Gym,"140 Erskine Ave, Toronto ON M4P 1Z2",43.713254,-79.393456,null,0.9262456061345242,North Toronto 
+945,Gym 88 Broadway,"88 Broadway Ave, Toronto ON M4P 0A5",43.710998,-79.39436,null,0.637082348231821,North Toronto 
+946,Yorkville Club Uptown Inc,"101 Eglinton Ave E, Toronto ON M4P 1H4",43.707384,-79.394626,null,0.20422561639208917,South Eglinton-Davisville 
+947,Fireflow Yoga,"172 Eglinton Ave E, Toronto ON M4P 1A6",43.707949,-79.393031,null,0.8151636832163721,North Toronto 
+948,Love to Dance,"252 Eglinton Ave E (Mount Pleasany), Toronto ON M4P 1K2",43.708463,-79.390586,null,0.3603782789807483,North Toronto 
+949,Victory of Light,"500 Duplex Ave, Toronto ON M4R 1V6",43.709599,-79.401252,null,null,Yonge-Eglinton 
+950,Triplegem Ca,"500 Duplex Ave, Toronto ON",43.709415,-79.401457,null,null,Yonge-Eglinton 
+951,Qualitee Golf Instruction,"55 Erskine Ave, Toronto ON M4P 1Y7",43.711267,-79.396837,null,null,North Toronto 
+952,Toronto Tae Bo Centre,"2345 Yonge St, Toronto ON M4P 2E5",43.708695,-79.399001,null,null,Yonge-Eglinton 
+953,Toronto Banker's Basketball league,"17 Broadway Ave, Toronto ON M4P 1T7",43.709679,-79.397052,null,null,North Toronto 
+954,Team Speed Academy,"66 Broadway Ave, Toronto ON M4P 1T6",43.710636,-79.395473,null,null,North Toronto 
+955,The Yoga Studio,"2300 Yonge St, Toronto ON M4P 1E4",43.707206,-79.398623,null,null,Yonge-Eglinton 
+956,Eclipse Fitness Club,"20 Eglinton Ave W, Toronto ON M4R 1K8",43.706794,-79.398885,null,null,Yonge-Eglinton 
+957,Yoga Tree Rh Inc,"40 Eglinton Ave E, Toronto ON M4P 3A2",43.707196,-79.397217,null,null,North Toronto 
+958,Dunfield Club,"110 Eglinton Ave E, Toronto ON M4P 2Y1",43.707618,-79.395272,null,null,North Toronto 
+959,Baby & Me Fitness,"120 Eglinton Ave E, Toronto ON M4P 1E2",43.707697,-79.394957,null,null,North Toronto 
+960,Goodlife Fitness,"250 Davisville Ave (at Mt Pleasant Ave.), Toronto ON M4S 1H2",43.700631,-79.386295,7.4,0.9700904417007543,Mount Pleasant East 
+961,Pure Fitness Canada Inc,"939 Eglinton Ave E (Brentcliffe), Toronto ON M4G 4E8",43.714163,-79.360738,6.2,0.7703368734441651,Thorncliffe Park 
+962,Ballroom on Bayview,"1578 Bayview Ave (Eglinton Ave), Toronto ON M4G 3B7",43.705748,-79.375362,null,0.5326553333083148,Mount Pleasant East 
+963,Interplay School of Dance,"250 Davisville Ave (at Mt Pleasant Rd), Toronto ON M4S 1H2",43.700611,-79.386573,null,0.815088627863049,Mount Pleasant East 
+964,Insideout Studio,"210 Laird Dr (Eglinton), Toronto ON M4G 3W4",43.711224,-79.36411,null,0.8646564341201636,Leaside-Bennington 
+965,Junction Fitness Hub,"511 Mount Pleasant Rd (Mt. Pleasant and Davisville), Toronto ON M4S 2M4",43.701765,-79.387693,null,0.8745074492438173,South Eglinton-Davisville 
+966,Sky Zone Trampoline Park,"45 Esandar Dr, Toronto ON M4G 4C5",43.706897,-79.357151,null,null,Thorncliffe Park 
+967,Ballroom Magic,"1578 Bayview Ave, Toronto ON M4G 3B7",43.705584,-79.37529,null,null,Mount Pleasant East 
+968,Fitwall Leaside,"1675 Bayview Ave, East York ON M4G 3C1",43.707472,-79.37559,null,null,Leaside-Bennington 
+969,North Movement Studio,"1675 Bayview Ave, Toronto ON M4G 3C1",43.707635,-79.375663,null,null,Leaside-Bennington 
+970,Insideout Fitness Wellness,"206 Laird Dr, East York ON M4G 3W4",43.711171,-79.364055,null,null,Leaside-Bennington 
+971,Body Insight,"586 Eglinton Ave E, Toronto ON M4P 1P2",43.710751,-79.37995,null,null,Mount Pleasant East 
+972,Zumba Classes in Toronto,"240 Manor Rd E, Toronto ON M4S 1R8",43.705128,-79.385467,null,null,Mount Pleasant East 
+973,Zumba Instructors - Southern Ontario,"240 Manor Rd E, Toronto ON",43.705232,-79.385577,null,null,Mount Pleasant East 
+974,Mitrea Pilates Center of Toronto Inc,"318 Millwood Rd, Toronto ON M4S 1K1",43.701799,-79.38723,null,null,Mount Pleasant East 
+975,Yoga Mind,"540 Mount Pleasant Rd, Toronto ON M4S 2M6",43.702561,-79.388334,null,null,South Eglinton-Davisville 
+976,The Boulevard Club,"1491 Lake Shore Blvd W, Toronto ON M6K 3C2",43.635616,-79.444133,8.2,0.9538847399957469,South Parkdale 
+977,Endurance Fitness,"530 Dufferin St, Toronto ON M6K 2A7",43.646976,-79.430763,null,null,Little Portugal 
+978,Deep Side Yoga,"1418 Queen St W, Toronto ON M6K 1L9",43.641064,-79.434864,null,null,Roncesvalles 
+979,Breakthru Dance Challenge,"29 Fuller Ave, Toronto ON M6R 2C4",43.64108,-79.43926,null,null,Roncesvalles 
+980,Marieta Akalski Sports Performance Therapy,"36 Lisgar St, Toronto ON M6J 0C7",43.641619,-79.423408,null,null,Little Portugal 
+981,Liberty Dance,"180 Shaw St, Toronto ON M6J 2W5",43.646882,-79.417426,null,null,Trinity-Bellwoods 
+982,NightTerrors Run Crew,"840 Queen St W, Toronto ON",43.645243,-79.414499,null,null,Trinity-Bellwoods 
+983,Om Laila Belly Dance,"943 Dundas St W, Toronto ON M6J 1W4",43.65058,-79.413669,null,null,Trinity-Bellwoods 
+984,Planet Fitness,"31 Tapscott Rd, Toronto ON M1B 4Y7",43.80711,-79.220215,null,0.9965224352960308,Malvern West 
+985,Malvern Recreation Centre,"30 Sewells Rd, Toronto ON M1B 3G5",43.807936,-79.217295,null,0.9952402396767616,Malvern East 
+986,Fit4Less,"855 Milner Ave, Scarborough ON M1B 5N6",43.800107,-79.19849,null,0.9805606634893234,Morningside Heights 
+987,Snap Fitness,"8130 Sheppard Ave E (Morningside), Scarborough ON M1B 3W3",43.802546,-79.198166,null,0.3108167273364106,Morningside Heights 
+988,Achieve! Fitness and Health,"4637 Kingston Rd (Manse road), Scarborough ON M1E 2P8",43.800166,-79.195264,null,0.44196344804293164,Morningside Heights 
+989,MMA World Academy,"15 Grand Marshall Dr, Scarborough ON M1B 5N6",43.800323,-79.195429,null,0.9082073028858784,Morningside Heights 
+990,Pantheon Martial Arts,"65 Edenmills Dr, Scarborough ON M1E 4L3",43.793039,-79.208599,null,null,Morningside 
+991,Ekagrata Healing Arts Studio,"400 Sewells Rd, Scarborough ON M1B 5K8",43.81675,-79.210318,null,null,Morningside Heights 
+992,Actionzone Indoor,"480 Tapscott Rd, Toronto ON M1B 1W3",43.812622,-79.236789,null,null,Malvern West 
+993,Snap Fitness,"2307 Markham Rd (at Finch Ave. E), Toronto ON M1B 2W3",43.812448,-79.242391,null,0.8786667667404711,Malvern West 
+994,Master Yoga,"850 Tapscott Rd, Toronto ON M1X 1N4",43.821025,-79.241949,null,null,Morningside Heights 
+995,Corestrength Fitness,"151 Nashdene Rd, Scarborough ON M1V 2T3",43.819104,-79.247607,null,null,Milliken 
+996,Body Language Fitness,"111 Orfus Rd, North York ON M6A 1M4",43.717942,-79.466306,null,0.768391688870542,Yorkdale-Glen Park 
+997,Crossfit Inc,"1214 Caledonia Rd, Toronto ON M6A 2W5",43.719091,-79.46902,null,null,Yorkdale-Glen Park 
+998,Nfitness,"107 Orfus Rd, North York ON M6A 1M4",43.717758,-79.466511,null,null,Yorkdale-Glen Park 
+999,Rhytnic Fire Danz Centre,"1381A Wilson Ave, North York ON M3M 1H7",43.722695,-79.498773,null,null,Oakdale-Beverley Heights 
+1000,Continental Dance Club,"3141 Wharton Way (Dundas), Mississauga ON L4X 2B6",43.621874,-79.577334,null,0.8096393765879185,none
+1001,Mars Fitness,"2050 Dundas St E, Mississauga ON L4X 1L9",43.623368,-79.568559,null,null,none
+1002,Muscles in Motion Fitness,"2065 Dundas St E, Mississauga ON L4X 2W1",43.622779,-79.568931,null,null,none
+1003,Passmore Fitness,"3880 Midland Ave, Scarborough ON M1V 5K4",43.820381,-79.295053,null,0.23700440528634362,Milliken 
+1004,My Cure Fitness,"955 Middlefield Rd, Scarborough ON M1V 5E2",43.831054,-79.266888,null,null,Milliken 
+1005,Yoga Magic,"3838 Midland Ave, Scarborough ON M1V 5K5",43.8194,-79.294617,null,null,Milliken 
+1006,H2O Performance Paddles,"380 Passmore Ave, Toronto ON M1V 4B4",43.829013,-79.259247,null,null,Milliken 
+1007,Goodlife Fitness Centres,"225 Select Ave, Toronto ON M1X 0B5",43.831532,-79.258609,null,null,Milliken 
+1008,Crossfit Inc,"222 Islington Ave, Toronto ON M8V 3W7",43.604511,-79.507052,null,0.9824433019351771,New Toronto 
+1009,The Westway Club,"291 Evans Ave, ON M8Z 5V2",43.616165,-79.519496,null,0.7995709335635031,Mimico-Queensway 
+1010,Sean Boutilier Academy of Dance,"11 Plastics Ave, Etobicoke ON M8Z 4B6",43.623299,-79.508738,null,0.8875670807220325,Stonegate-Queensway 
+1011,Dbs Performance & Rehabilitation Centre,"300 New Toronto St, Toronto ON M8V 2E8",43.604598,-79.517295,null,0.43327579089578566,New Toronto 
+1012,Inner Soldier,"800 Islington Ave, Etobicoke ON M8Z 6A1",43.616967,-79.51089,null,null,Mimico-Queensway 
+1013,Avalon Woods,"1000 Islington Ave, Etobicoke ON M8Z 4P8",43.616874,-79.511389,null,null,Mimico-Queensway 
+1014,Complete Body Fit Camp,"800 Islington Ave, Etobicoke ON M8Z 6A1",43.617558,-79.512014,null,null,Mimico-Queensway 
+1015,Freedom Fitness Studio,"222 Islington Ave, Toronto ON M8V 3W7",43.605385,-79.50738,null,null,New Toronto 
+1016,Rhythmic Rainbow Studio,"175 Birmingham St, Toronto ON M8V 3Z7",43.602184,-79.510458,null,null,New Toronto 
+1017,Fitness Push,"300 New Toronto St, Etobicoke ON M8V 2E8",43.604598,-79.517295,null,null,New Toronto 
+1018,Awakened Meditation Centre,"134 6th St, Etobicoke ON M8V 3A5",43.601393,-79.504446,null,null,New Toronto 
+1019,Take Thirty Fitness Centres,"2735 Lake Shore Blvd W, Etobicoke ON M8V 1G9",43.602201,-79.498038,null,null,New Toronto 
+1020,Vikaa Inc,"2927 Lake Shore Blvd W, Etobicoke ON M8V 1J3",43.600686,-79.504892,null,null,New Toronto 
+1021,Centennial College Gym,"940 Progress Ave (Markham Rd), Scarborough ON M1G 3T5",43.785555,-79.227734,null,0.7605108767716191,Woburn North 
+1022,The Pilates House,"131 Weir Cres, Scarborough ON M1E 4T1",43.773307,-79.196813,null,null,West Hill 
+1023,Dumbbells Fitness,"941 Progress Ave, Scarborough ON M1G 3T8",43.785281,-79.226847,null,null,Woburn North 
+1024,Jellyz Training Room,"Fitness Crt (Runner's Point), Scarborough ON",43.822919,-79.212123,null,0.2380943445791271,Morningside Heights 
+1025,Pinnacle Centre Fitness Centre & Pool,"Pinnacle Ctr (Yonge & Harbour St.), Toronto ON M5E 2A1",43.643084,-79.376995,6.2,0.8008281107316646,St Lawrence-East Bayfront-The Islands 
+1026,Area Fitness,"258 the Esplanade (Berkeley), Toronto ON M5A 4J6",43.649976,-79.363973,null,0.15732227517794373,St Lawrence-East Bayfront-The Islands 
+1027,GoodLife Fitness Toronto Wellington and York,"111 Wellington St W (at York St), Toronto ON M5J 2S6",43.646473,-79.383103,6.1,0.9532405148797238,Yonge-Bay Corridor 
+1028,BeHot Yoga,"43 Colborne St, Toronto ON M5E 1E3",43.648951,-79.37503,null,0.8635118399819867,Downtown Yonge East 
+1029,Goodlife Fitness,"137 Yonge St, Toronto ON M5C 1W6",43.651179,-79.378376,null,0.05901227155026832,Downtown Yonge East 
+1030,Yoga Tree Bay and Dundas,"123 Dundas St W (Bay Street), Toronto ON M5G 1C4",43.655346,-79.384411,null,0.8134749377666028,Yonge-Bay Corridor 
+1031,Tac,"79 Wellington St W, Toronto ON",43.64746,-79.380121,null,0.8500644225116023,Yonge-Bay Corridor 
+1032,Hilton Precor Fitness,"145 Richmond St W (in Hilton Toronto), Toronto ON M5H 2L2",43.649126,-79.385323,null,0.8420334997060333,Yonge-Bay Corridor 
+1033,Anamaya Wellness,"105 George St, Toronto ON",43.652119,-79.370812,null,null,Moss Park 
+1034,Uni-Fit,"200 King St E, Toronto ON M5A 3W8",43.650984,-79.370211,null,null,Moss Park 
+1035,Flexafit,"33 Villiers St, Toronto ON M5A 1A9",43.647155,-79.352541,null,null,South Riverdale 
+1036,Pursuit OCR,"75 Westmore Dr, Toronto ON M9V 3Y6",43.738546,-79.602057,null,0.9945709961096308,West Humber-Clairville 
+1037,Green Enerchi,"4057 Summit Crt, Mississauga ON L5L 3C2",43.744697,-79.572941,null,null,Thistletown-Beaumond Heights 
+1038,Omgyan Personnal Yoga Teacher,"5 Lightwood Dr, Etobicoke ON M9V 2Z1",43.737326,-79.572298,null,null,Thistletown-Beaumond Heights 
+1039,Pursuit OCR,"75 Westmore Dr, Etobicoke ON M9V 3Y6",43.73861,-79.601928,null,null,West Humber-Clairville 
+1040,Parul's Bollywood Dance Academy,"101 Westmore Dr, Toronto ON M9V 3Y6",43.737277,-79.601709,null,null,West Humber-Clairville 
+1041,Suzymari,"100 Westmore Dr, Etobicoke ON M9V 5C3",43.736944,-79.601655,null,null,West Humber-Clairville 
+1042,Mr Fitness Inc,"20 Baywood Rd, Etobicoke ON M9V 4A8",43.745347,-79.605799,null,null,West Humber-Clairville 
+1043,Steppin' Dance Co,"113 Westmore Dr, Toronto ON M9V 3Y6",43.736018,-79.601268,null,null,West Humber-Clairville 
+1044,Oxygen Yonge and Eg,"188 Eglinton Ave E, Toronto ON M4P 2X7",43.708361,-79.392769,null,null,North Toronto 
+1045,Top Form Fitness,"150 Eglinton Ave E, Toronto ON M4P 1E8",43.707836,-79.393809,null,null,North Toronto 
+1046,High Performance Specialists,"150 Eglinton Ave E, Toronto ON M4P 1E8",43.707836,-79.393809,null,null,North Toronto 
+1047,Orangetheory Fitness,"97 Eglinton Ave E, Toronto ON M4P 1H4",43.707311,-79.394849,null,null,South Eglinton-Davisville 
+1048,Moksha Yoga Thornhill Inc,"55 Glen Cameron Rd, Thornhill ON L3T 1P2",43.80604,-79.41738,6.7,0.2802261426333356,none
+1049,Fit4Less,"6464 Yonge St, Toronto ON M2M 3X7",43.79612,-79.419262,null,0.9677949988116236,Newtonbrook East 
+1050,World on Yonge Fitness Centre,"7161 Yonge St (Steeles), Markham ON",43.802088,-79.420687,null,0.9193515428104353,none
+1051,Academy of Ballet & Jazz,"34 Doncaster Ave (at Yonge St.), Thornhill ON L3T 4S1",43.802931,-79.418383,null,0.9132211702200123,none
+1052,National Ballroom Academy,"39 Glen Cameron Rd (Yonge St), Markham ON L3T 1P1",43.80594,-79.417974,null,0.9643757237245419,none
+1053,Dance Kids Canada,"11 Glen Cameron Rd, Thornhill ON L3T 4N3",43.805127,-79.41911,null,0.645187657516518,none
+1054,Menaka Thakkar Dance Co,"11 Glen Cameron Rd, Markham ON L3T 4N3",43.805735,-79.419254,null,0.7631632722566583,none
+1055,Added Dimensions,"6021 Yonge St, North York ON M2M 3W2",43.789152,-79.417676,null,null,Newtonbrook East 
+1056,Taoist Tai Chi Society,"6117 Yonge St, North York ON M2M 3W2",43.791557,-79.418624,null,null,Newtonbrook West 
+1057,Pro Sports Hockey Development,"10 Crestwood Dr, Scarborough ON M1E 1E5",43.799928,-79.412508,null,null,none
+1058,Cardinal's Viva Dance,"55 Doncaster Ave, Thornhill ON L3T 1L7",43.803386,-79.416767,null,null,none
+1059,Great Life Wellness Centre,"100 Steeles Ave W, Thornhill ON L4J 7Y1",43.796913,-79.424595,null,null,Newtonbrook West 
+1060,Alka's Total Fitness,"34 Doncaster Ave, Thornhill ON L3T 4S1",43.803756,-79.417859,null,null,none
+1061,Ginga Fitness,"34 Doncaster Ave, Thornhill ON L3T 4S1",43.803913,-79.418024,null,null,none
+1062,Donita Ballet School,"155 Hilda Ave, North York ON M2M 1V6",43.793185,-79.427139,null,null,Newtonbrook West 
+1063,Arthur Murray Dance Studio,"180 Steeles Ave W, Thornhill ON L4J 2L1",43.796864,-79.426041,null,null,none
+1064,L'Ambiance Dance Centre Inc,"100 Steeles Ave W, Thornhill ON L4J 7Y1",43.7978,-79.425534,null,null,none
+1065,Toronto Bjj & Mma Kavkaz,"205 Hilda Ave, North York ON M2M 4B1",43.795139,-79.428109,null,null,Newtonbrook West 
+1066,Stepanova Ballet Academy Inc,"85 Glen Cameron Rd, Thornhill ON L3T 1N8",43.806779,-79.414168,null,null,none
+1067,Comp Benefitness,"11 Glen Cameron Rd, Thornhill ON L3T 4N3",43.805735,-79.419254,null,null,none
+1068,Q M Fitness,"6020 Bathurst St, North York ON M2R 1Z8",43.787056,-79.44721,null,null,Westminster-Branson 
+1069,Step Up Dance Intensive,"299 Mullen Dr, Thornhill ON",43.797026,-79.448485,null,null,none
+1070,Toronto Dance Theatre,"80 Winchester St (at Metcalfe St), Toronto ON M4X 1B2",43.66637,-79.367044,7.4,0.922930661362755,Cabbagetown-South St.James Town 
+1071,Cabbagetown Boxing Club,"2 Lancaster Ave (Parliament), Toronto ON M4X 1C1",43.666477,-79.369446,null,0.024124041480591937,Cabbagetown-South St.James Town 
+1072,The Halifax Fitness Spot,"280 Wellesley St E, Toronto ON M4X 1G7",43.668317,-79.370393,null,0.46160293216246984,North St.James Town 
+1073,Toronto Racquet Club,"159 Bleecker St (Wellesley St. East), Toronto ON M4X 1L9",43.666431,-79.37318,null,0.8531667104489561,Cabbagetown-South St.James Town 
+1074,Drama Girls,"1 Withrow Ave, Toronto ON M4K 1C8",43.669614,-79.352454,null,null,North Riverdale 
+1075,Broadview Fitness,"493 Broadview Ave, Toronto ON M4K 2N4",43.669477,-79.352806,null,null,North Riverdale 
+1076,Hotflex Fitness Ltd,"276 Carlaw Ave, Toronto ON M4M 3L1",43.663244,-79.341157,null,null,South Riverdale 
+1077,Dynamic Conditioning Centre,"619 Yonge St (Isabella St), Toronto ON M4Y 1Z5",43.667068,-79.3853,7.1,0.8083336460639722,Church-Wellesley 
+1078,Body Project,"565 Sherbourne St, Toronto ON M4X 1W7",43.670064,-79.375722,null,null,North St.James Town 
+1079,365Golf.ca,"360 Bloor St E, Toronto ON M4W 3M3",43.672366,-79.378052,null,null,Rosedale-Moore Park 
+1080,Yogi Bare,"598 Yonge St, Toronto ON M4Y 1Z3",43.665514,-79.385052,null,null,Bay-Cloverhill 
+1081,Ks Yorkville,"27 Yorkville Ave, Toronto ON M4W 1L1",43.671744,-79.388944,null,null,Annex 
+1082,Redwood Hot Yoga,"2638 St Clair Ave E, Toronto ON M4B 3M1",43.705379,-79.313524,null,0.46250985101512365,O'Connor-Parkview 
+1083,StrengthBox,"45 Cranfield Rd, Toronto ON M4B 3H6",43.715304,-79.309051,null,0.8466494039354023,O'Connor-Parkview 
+1084,Clancys Boxing Academy,"100 Sunrise Ave, North York ON M4A 1B3",43.718729,-79.309076,null,0.80234172702368,Victoria Village 
+1085,Toronto Dance Vibe,"179 Hartley Dr, North York ON",43.720784,-79.311741,null,0.3127118750078183,Victoria Village 
+1086,Kage Dojo International,"127 Sunrise Ave, North York ON M4A 1A9",43.717276,-79.310532,null,null,Victoria Village 
+1087,Mindset Cycling,"100 Sunrise Ave, North York ON M4A 1B3",43.71818,-79.308896,null,null,Victoria Village 
+1088,The Endurance Lab Inc,"100 Sunrise Ave, North York ON M4A 1B3",43.718259,-79.30858,null,null,Victoria Village 
+1089,Boundless Dance Co,"179 Bartley Dr, North York ON",43.720908,-79.311573,null,null,Victoria Village 
+1090,Fit After 50,"567 College St, Toronto ON M6G 3W9",43.655088,-79.41266,null,null,Trinity-Bellwoods 
+1091,Dance Studio of Toronto,"491 College St, Toronto ON M6G 1A5",43.655937,-79.409476,null,null,Trinity-Bellwoods 
+1092,Rusty Dragons - One Gorgeous Boat,"76 Brunswick Ave, Toronto ON M5S 2L7",43.659668,-79.405256,null,null,University 
+1093,Finess Trainer Toronto,"4000 Spadina Ave, Toronto ON M5T 2G7",43.656088,-79.399682,null,null,Kensington-Chinatown 
+1094,Studio Fitness,"652 Queen St W, Toronto ON M6J 1E5",43.646761,-79.406748,null,null,Trinity-Bellwoods 
+1095,Bang Personal Training,"610 Queen St W, Toronto ON M6J 1E3",43.64719,-79.40489,null,null,Trinity-Bellwoods 
+1096,Train . Breathe . Sustain,"165 Bathurst St, Toronto ON M5V 3C2",43.646989,-79.403606,null,null,Wellington Place 
+1097,6Fitness,"145 St George St, Toronto ON M5R 2M1",43.668973,-79.400054,null,null,Annex 
+1098,Goodlife Fitness,"1448 Lawrence Ave E (at Victoria Park Ave.), North York ON M4A 2V6",43.74216,-79.314458,7.1,0.9846199071815463,Parkwoods-O'Connor Hills 
+1099,Transformation Fitness,"68 Railside Rd, North York ON M3A 1A3",43.737429,-79.323218,null,null,Victoria Village 
+1100,Lvlup Player Development,"101 Railside Rd, North York ON M3A 1B2",43.734825,-79.325055,null,null,Victoria Village 
+1101,Move Dance International,"59 Portage Ave, North York ON M9N 3G8",43.710215,-79.520255,null,null,Pelmo Park-Humberlea 
+1102,C Canadian Contemporary Dance Theatre,"509 Parliament St, Toronto ON M4X 1P3",43.665166,-79.368162,null,0.060169374913999076,Cabbagetown-South St.James Town 
+1103,Collective,"5250 Victor Ave, Toronto ON M4K 1A8",43.667691,-79.350325,null,null,North Riverdale 
+1104,Body Buster Fitness - Etobicoke Central Bootcamp,"516 the Kingsway, Etobicoke ON M9A 3W6",43.673003,-79.548787,null,0.4826747226079233,Princess-Rosethorn 
+1105,The Little Fitness Studio That Could,"250 Wincott Dr, Toronto ON M9R 2R5",43.680115,-79.545267,null,null,Willowridge-Martingrove-Richview 
+1106,Freedom Dance & Athletics,"1785 Finch Ave W, Toronto ON M3N 1M6",43.649955,-79.379771,null,null,Yonge-Bay Corridor 
+1107,Trek Fitness,"1287 Bloor St W, Toronto ON M6H 1N7",43.649955,-79.379771,null,null,Yonge-Bay Corridor 
+1108,Northern Phoenix Yoga,"1750 Steeles Ave W, Concord ON L4K 2L7",43.649955,-79.379771,null,null,Yonge-Bay Corridor 
+1109,Sahir Abbas: Toronto Chess Coach,"1 Norcross Rd, Toronto ON M3H 2R3",43.649955,-79.379771,null,null,Yonge-Bay Corridor 
+1110,Fitness Two 4,"306 Rexdale Blvd (Martin Grove Rd), Toronto ON M9W 1R6",43.714701,-79.583396,null,0.9818553683341464,West Humber-Clairville 
+1111,Reebok,"37 Mowat Ave, Toronto ON M6K 3E9",43.636973,-79.424768,8.6,0.8948411953815939,South Parkdale 
+1112,Pure Yoga Toronto,"47 Fraser Ave, Toronto ON M6K 1Y7",43.637362,-79.423755,null,0.8611475963523099,South Parkdale 
+1113,Tula South Yoga & Spa,"47 Fraser Ave, Toronto ON",43.63729,-79.42351,null,0.864700216409602,South Parkdale 
+1114,It's you baby,"110 Beaconsfield Ave, Toronto ON M6J 3J4",43.647316,-79.427639,null,null,Little Portugal 
+1115,Cadence Dance Studio,"593 Yonge St (at Dundonald St.), Toronto ON M4Y 1Z4",43.666155,-79.384734,null,0.4859271212519233,Church-Wellesley 
+1116,Sagrario Pilates Studio,"65 Wellesley St E (at Church St.), Toronto ON M4Y 1G7",43.665515,-79.381171,null,0.7028746200322739,Church-Wellesley 
+1117,Goodlife Fitness,"55 Bloor St W (Bay St), Toronto ON M4W 1A5",43.669681,-79.388756,5.3,0.8256776872943796,Bay-Cloverhill 
+1118,Fitness Barre,"901 Yonge St, Toronto ON M4W 2H2",43.674888,-79.388182,null,null,Rosedale-Moore Park 
+1119,Extreme Fitness,"100 Bloor St W, Toronto ON M5S 3L3",43.669684,-79.390253,null,null,Annex 
+1120,"Peace, Love and Paddle Boarding","1575 Lake Shore Blvd W, Toronto ON M6K 3C1",43.636785,-79.446564,null,null,South Parkdale 
+1121,Pia Bouman School,"1515A Queen St W, Toronto ON M6R 1A5",43.63941,-79.441376,null,null,South Parkdale 
+1122,99Strongstreet,"99 Florence St, Toronto ON M6K 1P4",43.645019,-79.432974,null,null,Little Portugal 
+1123,Sole Kinetics Wellness & Rehabilitation,"180 Sudbury St, Toronto ON M6J 0A8",43.641928,-79.425327,null,null,Little Portugal 
+1124,Diamond Dancers,"150 Sudbury St, Toronto ON",43.641356,-79.423927,null,null,Little Portugal 
+1125,Fortis Fitness Inc,"11 Carlaw Ave (Carlaw and Lakeshore), Toronto ON M4M 2R6",43.655915,-79.337706,null,0.9137551444190091,South Riverdale 
+1126,Alpha Obstacle Training,"15 Polson St, Toronto ON M5A 1A4",43.641138,-79.354251,null,0.234773145194581,South Riverdale 
+1127,Bayside Rowing Club,"600 Unwin Ave, Toronto ON M4M 3B9",43.651545,-79.325141,null,null,South Riverdale 
+1128,The Circus Fix,"6 Carlaw Ave, Toronto ON M4M 2R5",43.653951,-79.336928,null,null,South Riverdale 
+1129,Cirqular Motion,"6 Carlaw Ave, Toronto ON M4M 2R5",43.653944,-79.337021,null,null,South Riverdale 
+1130,Mayfair Lakeshore Racquet Club,"801 Lake Shore Blvd E, Toronto ON M4M 1A9",43.654058,-79.339329,null,null,South Riverdale 
+1131,Fitness One on One,"11 Carlaw Ave, Toronto ON M4M 2R6",43.655745,-79.337726,null,null,South Riverdale 
+1132,CrossFit Toronto,"32 Logan Ave, Toronto ON M4M 2M8",43.655375,-79.34052,null,null,South Riverdale 
+1133,Myodetox Performance,"13 Polson St, Toronto ON M5A 1A4",43.64119,-79.354306,null,null,South Riverdale 
+1134,Sankalpa Yoga Teacher Training,"70 McGee St, Toronto ON M4M 2K9",43.659019,-79.345257,null,null,South Riverdale 
+1135,The Rosemont Fitness,"50 John St, Toronto ON M5V 3T5",43.645592,-79.390388,null,0.8372487209316871,Wellington Place 
+1136,Icon II Fitness Centre,"250 Wellington St W, Toronto ON M5V 3P6",43.645801,-79.390609,null,0.03291802704494565,Wellington Place 
+1137,Extreme Fitness,"111 Wellington St W, Toronto ON M5J 2S6",43.646448,-79.383233,null,null,Yonge-Bay Corridor 
+1138,Adelaide Sports,"1 First Canadian Pl, Toronto ON M5X 1C8",43.64856,-79.381979,null,null,Yonge-Bay Corridor 
+1139,Hollywood Workout,"184 Pearl St, Toronto ON M5H 1L5",43.647638,-79.389265,null,null,Wellington Place 
+1140,Mad For Dance,"263 Adelaide St W, Toronto ON M5H 1Y2",43.647912,-79.389356,null,null,Wellington Place 
+1141,Hot Yoga Wellness,"3241 Kennedy Rd, Toronto ON M1V 2J8",43.816577,-79.303415,null,0.8788546255506607,Milliken 
+1142,Mayfair Racquet & Fitness Club,"160 Esna Park Dr, Markham ON L3R 1E3",43.825786,-79.337998,null,0.8900619848784143,none
+1143,Gym,"3 Clayton Dr, Markham ON L3R 8N3",43.828122,-79.308755,null,0.09365847013146243,none
+1144,Planet Fitness,"4711 Steeles Ave E, Scarborough ON M1V 4S5",43.823801,-79.301458,null,0.1502202643171806,Milliken 
+1145,Excellent Health Club Inc,"398 Ferrier St, Markham ON L3R 2Z5",43.820157,-79.331053,null,null,none
+1146,Yoga3,"900 Steeles Ave, Toronto ON",43.816772,-79.337461,null,null,none
+1147,Mimi Starikova & Co,"131 Telson Rd, Markham ON L3R 1E4",43.820112,-79.339491,null,null,none
+1148,Town Centre Montessori School,"3 Clayton Dr, Markham ON L3R 8N3",43.828065,-79.308653,null,null,none
+1149,Elite Fit Boot Camp & Personal Training,"415 Hood Rd, Markham ON L3R 3W2",43.830125,-79.328501,null,null,none
+1150,Norseman Community School and Indoor Pool,"105 Norseman St (at Islington Ave.), Toronto ON M8Z 2R1",43.634702,-79.51624,7.9,0.963860847374939,Stonegate-Queensway 
+1151,ProTrainer Live,"2054 Sheppard Ave E, Toronto ON M2J 5B3",43.779411,-79.288651,null,0.18710674122165097,Tam O'Shanter-Sullivan 
+1152,Curves,"1141 Eastern Ave (Coxwell), Toronto ON",43.665629,-79.311935,null,0.6725960395791897,The Beaches 
+1153,Barre3,"1383 Queen St E, Toronto ON M4L 1C7",43.664659,-79.324641,null,0.8391626324414255,Greenwood-Coxwell 
+1154,GoodLife Fitness,"1880 Eglinton Ave E, Scarborough ON M1L 2L1",43.726203,-79.299626,7.0,0.8401133335835178,Wexford/Maryvale 
+1155,Fit4Less,"1880 Eglinton Ave E, Scarborough ON M1L 2L1",43.725596,-79.299483,6.2,0.9412629314119163,Wexford/Maryvale 
+1156,Fit4Less,"4525 Kingston Rd, Scarborough ON M1E 2P1",43.770615,-79.184023,null,0.9945522322713001,West Hill 
+1157,Planet Fitness,"180 Queens Plate Dr, Toronto ON M9W 6Y9",43.718788,-79.594929,null,0.9925695200210155,West Humber-Clairville 
+1158,Curves,"190 Queen's Plate Dr, Etobicoke ON M9W 6Y9",43.71994,-79.594556,null,null,West Humber-Clairville 
+1159,Esmeralda Enrique Spanish Dance Co,"401 Richmond St W, Toronto ON M5V 3A8",43.647895,-79.395009,null,0.24749502758284234,Wellington Place 
+1160,Iyengar Yoga Sadhana,"10 John Graham Crt, Toronto ON M1B 4V9",43.801897,-79.151639,null,null,West Rouge 
+1161,F-IT Fitness,"10167 Sheppard Ave E, Toronto ON M1B 1G1",43.805266,-79.159662,null,null,West Rouge 
+1162,Trix Acro Gym,"601 Magnetic Dr, Toronto ON",43.784292,-79.474242,null,0.9587883564128544,York University Heights 
+1163,All That Dance Studios Inc,"630 Magnetic Dr, North York ON M3J 2C4",43.783739,-79.475654,null,0.8106415981786568,York University Heights 
+1164,BATL Vaughan,"1600 Steeles Ave W, Vaughan ON L4K 4M2",43.787537,-79.473688,null,0.8387814610190301,none
+1165,Siberia Boxing Club,"115 Dolomite Dr, Toronto ON M3J 2N1",43.780498,-79.472317,null,null,York University Heights 
+1166,H2T Elite Dryland Training Inc,"573 Alness St, North York ON M3J 2T8",43.776282,-79.47384,null,null,York University Heights 
+1167,Make Your Mark Fitness,"877 Alness St, North York ON M3J 2X4",43.779398,-79.475047,null,null,York University Heights 
+1168,Catalyst Training Systems,"401 Magnetic Dr, Toronto ON M3J 3H9",43.782854,-79.473917,null,null,York University Heights 
+1169,Kinderbounce,"406 Magnetic Dr, Toronto ON",43.784514,-79.474278,null,null,York University Heights 
+1170,Healing Pathways,"601 Magnetic Dr, North York ON M3J 3J2",43.783641,-79.47545,null,null,York University Heights 
+1171,The Farming Ninja,"40 Crocus Dr, Scarborough ON M1R 4S6",43.763371,-79.306231,null,null,Wexford/Maryvale 
+1172,Wynn Fitness Clubs,"10 Milner Business Crt (Markham & 401), Toronto ON M1B 3C6",43.788873,-79.235612,6.4,0.959563928397193,Malvern East 
+1173,Supreme Fitness,"1990 Ellesmere Rd (Markham And Ellesmere), Scarborough ON M1H 2W2",43.776636,-79.237779,null,0.19161631703381243,Woburn North 
+1174,Eastview Racquet & Fitness Clb,"10 Milner Business Crt, Scarborough ON M1B 3C6",43.788703,-79.235632,null,null,Malvern East 
+1175,Fit For Life,"10 Milner Business Crt, Scarborough ON M1B 3C6",43.788873,-79.235612,null,null,Malvern East 
+1176,Shambhalla Meditation,"670 Bloor St W, Toronto ON M6G 1L2",43.664197,-79.416314,null,0.3844335197207941,Annex 
+1177,Toronto Dance Zouk,"805 Dovercourt Rd, Toronto ON M6H 2X4",43.662724,-79.429593,null,null,Dovercourt Village 
+1178,Living Maps Yoga & Body Work,"555 Bloor St W, Toronto ON",43.665086,-79.410403,null,null,University 
+1179,Susan Greskevitch Pilates Inc,"287 MacPherson Ave, Toronto ON M4V 1A4",43.677076,-79.401348,null,null,Casa Loma 
+1180,Totum Life Science,"1073 Yonge St, Toronto ON M4W 2L2",43.678849,-79.390076,null,null,Rosedale-Moore Park 
+1181,Arte Flamenco,"625 Yonge St, Toronto ON M4Y 1Z5",43.674816,-79.388405,null,null,Rosedale-Moore Park 
+1182,Bach Fitness,"5 Four Winds Dr, North York ON M3J 1K7",43.765466,-79.493327,null,null,York University Heights 
+1183,Divine Svc,"1179 Finch Ave W, North York ON M3J 2G1",43.76496,-79.482606,null,null,York University Heights 
+1184,Argo Fitness Inc,"1179 Finch Ave W, Toronto ON M3J 2G1",43.764636,-79.481663,null,null,York University Heights 
+1185,York Recreation & Tait McKenzie Centre,"4700 Keele St, Toronto ON",43.774016,-79.494008,null,null,York University Heights 
+1186,Guided by Kat,"1110 Finch Ave W, North York ON M3J 2T2",43.766998,-79.476279,null,null,York University Heights 
+1187,Taub Fitness,"4000 Chesswood Dr, North York ON M3J 2B9",43.757915,-79.476735,null,null,York University Heights 
+1188,Fitness Ninja,"800 Petrolia Rd, North York ON M3J 3K4",43.779377,-79.489906,null,null,York University Heights 
+1189,Asante Soccer Academy,"4995 Keele St, Toronto ON M3J 3B2",43.779594,-79.493832,null,null,York University Heights 
+1190,BIA Medical,"2727 Steeles Ave W, North York ON M3J 3G9",43.78235,-79.488464,null,null,York University Heights 
