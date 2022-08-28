@@ -14,9 +14,17 @@ The project is divided into different parts due to its length and each part is s
 
 ### Roadmap -
 - Collect information about the different aspects of districts
+
+![image](https://user-images.githubusercontent.com/105684729/187066378-d1e2eebf-7034-47ed-80f6-cdadaf986d24.png)
+
+
 - Clean, process and merge the tables coming from different sources.
 - Optimize the data and supply it to the machine learning model.
+![image](https://user-images.githubusercontent.com/105684729/187066417-2180747a-c781-458d-ac81-01b83ff1337c.png)
+
 - Visualize it 
+
+![image](https://user-images.githubusercontent.com/105684729/187088560-6ed77714-3f7e-45db-864e-4282c81cf883.png)
 
 ### Required Data list :
 - Income per neighborhood *
@@ -26,3 +34,4 @@ The project is divided into different parts due to its length and each part is s
 - Number/size of green parks *
 - Crime rate
 
+![image](https://user-images.githubusercontent.com/105684729/187066144-b27d0d02-d6a9-41e5-9eb6-21ea90eabdd8.png)
