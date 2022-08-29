@@ -37,7 +37,7 @@ The project is divided into different parts due to its length and each part is s
 ![image](https://user-images.githubusercontent.com/105684729/187066144-b27d0d02-d6a9-41e5-9eb6-21ea90eabdd8.png)
 
 ### Disclaimer - 
-Most of the data is outdated, it is risky to take decisions according to the results of this work. However the same process can be applied once access to fresh data is achieved.
+Most of the data is outdated, it is risky to take new decisions according to the results of this work. However, the important things is the implementation and logic,  the same process can be applied once access to fresh data is achieved.
 
 
 
