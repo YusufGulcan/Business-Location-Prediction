@@ -22,7 +22,7 @@ The project is divided into different parts due to its length and each part is s
 - Optimize the data and supply it to the machine learning model.
 ![image](https://user-images.githubusercontent.com/105684729/187066417-2180747a-c781-458d-ac81-01b83ff1337c.png)
 
-- Visualize it 
+- Visualize the results 
 
 ![image](https://user-images.githubusercontent.com/105684729/187088560-6ed77714-3f7e-45db-864e-4282c81cf883.png)
 
@@ -35,3 +35,9 @@ The project is divided into different parts due to its length and each part is s
 - Crime rate
 
 ![image](https://user-images.githubusercontent.com/105684729/187066144-b27d0d02-d6a9-41e5-9eb6-21ea90eabdd8.png)
+
+### Disclaimer - 
+Most of the data is outdated, it is risky to take decisions according to the results of this work. However the same process can be applied once access to fresh data is achieved.
+
+
+
