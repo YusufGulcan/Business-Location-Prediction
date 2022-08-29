@@ -1,10 +1,10 @@
-# Business-Location-Prediction
+# Business_Location_Prediction
 Using a clustering ML algorithm to predict the best neighbourhoods for a new business investment. 
 
 ![image](https://user-images.githubusercontent.com/105684729/187290588-78e748dc-0883-4620-8113-f15e3aa48eaa.png)
 
 
-## OPTIMAL AREA FOR BUSINESS INVESTMENT 
+## OPTIMAL AREA FOR A NEW GYM BUSINESS 
 ### Project Introduction
 ### Purpose- 
 This project aims to give a list of district names in Toronto, Canada. The list shall be composed of the neighborhoods that hold the highest business opportunities for an enterpreneur who would like to start a gym business.
@@ -29,11 +29,10 @@ The project is divided into different parts due to its length and each part is s
 
 - Visualize the results 
 
-[Tabelau Link for dashboards](https://public.tableau.com/views/Book1_16617773505490/Story1?:language=en-GB&:display_count=n&:origin=viz_share_link)
 
+[![image](https://user-images.githubusercontent.com/105684729/187288823-b5bc2b15-253b-45d4-bb1e-fffc2a0fa1aa.png)](https://public.tableau.com/views/Book1_16617773505490/Story1?:language=en-GB&:display_count=n&:origin=viz_share_link)
 
-
-![image](https://user-images.githubusercontent.com/105684729/187288823-b5bc2b15-253b-45d4-bb1e-fffc2a0fa1aa.png)
+[**Tabelau Link for dashboards**](https://public.tableau.com/views/Book1_16617773505490/Story1?:language=en-GB&:display_count=n&:origin=viz_share_link)
 
 
 ### Required Data list :
@@ -44,11 +43,20 @@ The project is divided into different parts due to its length and each part is s
 - Number/size of green parks *
 - Crime rate
 
-In case, you would like to get the data quickly, I attached the data collected from APIs.
+In case you would like to get the data quickly, I attached the data collected from APIs.
 
 
 ### Disclaimer - 
 Most of the data is outdated, it is risky to take new decisions according to the results of this work. However, the important things is the implementation and logic,  the same process can be applied once access to fresh data is achieved.
+
+## References
+- [financesonline.com](financesonline.com) - I used the insights provided in this website to make decisions in regards to the data collection. I was able to create a list for the required data only with the information gathered from this website. The website gave me a good understanding about the features of gym subscribers by giving statistical data.
+
+- [Medium Post](https://medium.com/mlearning-ai/end-to-end-data-science-project-beginner-version-part-1-96e59bdfbc5b) My work is originated from this medium post. I was fascinated by the idea and I wanted to do a similar project. Thanks to the author of this post, I learned a lot through this project.
+
+- [open.toronto.ca](open.toronto.ca) - This database offers APIs and static data in the form of xls,xslx,csv etc. Most of the data is pulled from this database. It includes guides for developers as well. I used this API to collect demographic information like income level and age; also for geographical information like neighborhood coordination data and infrastructure locations.
+
+- [developer.foursquare.com](developer.foursquare.com) - Foursquare has an amazing API infrastructure. The guides are clear and concise. The interface is very user friendly and easy-to-understand. The data quality of free account is satisfying for personal use. This API is used to collect data about locations of gyms in specific areas and other specifications like rating and popularity.
 
 
 
