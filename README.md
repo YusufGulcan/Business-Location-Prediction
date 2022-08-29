@@ -1,7 +1,7 @@
 # Business-Location-Prediction
 Using a clustering ML algorithm to predict the best neighbourhoods for a new business investment. 
 
-![image](https://user-images.githubusercontent.com/105684729/187152056-59e32f42-fa6a-490e-a196-305fdfa2e7b5.png)
+![image](https://user-images.githubusercontent.com/105684729/187290588-78e748dc-0883-4620-8113-f15e3aa48eaa.png)
 
 
 ## OPTIMAL AREA FOR BUSINESS INVESTMENT 
