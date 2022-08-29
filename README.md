@@ -18,6 +18,7 @@ The project is divided into different parts due to its length and each part is s
 ![image](https://user-images.githubusercontent.com/105684729/187066378-d1e2eebf-7034-47ed-80f6-cdadaf986d24.png)
 
 
+
 - Clean, process and merge the tables coming from different sources.
 
 ![image](https://user-images.githubusercontent.com/105684729/187152488-09053451-9678-4b3f-bc38-67b2f8972db8.png)
@@ -28,7 +29,9 @@ The project is divided into different parts due to its length and each part is s
 
 - Visualize the results 
 
-![image](https://user-images.githubusercontent.com/105684729/187088560-6ed77714-3f7e-45db-864e-4282c81cf883.png)
+
+![image](https://user-images.githubusercontent.com/105684729/187288823-b5bc2b15-253b-45d4-bb1e-fffc2a0fa1aa.png)
+
 
 ### Required Data list :
 - Income per neighborhood *
