@@ -1,5 +1,5 @@
 # Business-Location-Prediction
-Using clustering algorithm to predict the best neighbourhoods for a new business investment. 
+Using a clustering ML algorithm to predict the best neighbourhoods for a new business investment. 
 
 ![image](https://user-images.githubusercontent.com/105684729/187152056-59e32f42-fa6a-490e-a196-305fdfa2e7b5.png)
 
@@ -7,7 +7,7 @@ Using clustering algorithm to predict the best neighbourhoods for a new business
 ## OPTIMAL AREA FOR BUSINESS INVESTMENT 
 ### Project Introduction
 ### Purpose- 
-This project aims to give a list of district names in Toronto, Canada. The list is composed of the neighborhoods that hold the highest business opportunities for an enterpreneur who would like to start a gym business.
+This project aims to give a list of district names in Toronto, Canada. The list shall be composed of the neighborhoods that hold the highest business opportunities for an enterpreneur who would like to start a gym business.
 
 ### Structure- 
 The project is divided into different parts due to its length and each part is segmented by subtitles to increase the readability.
