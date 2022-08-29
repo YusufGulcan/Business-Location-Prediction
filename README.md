@@ -1,7 +1,7 @@
 # Business-Location-Prediction
 Using clustering algorithm to predict the best neighbourhoods for a new business investment. 
 
-![image](https://user-images.githubusercontent.com/105684729/187061682-97ffed44-83a0-485a-bdf8-519a1d01a917.png)
+![image](https://user-images.githubusercontent.com/105684729/187152056-59e32f42-fa6a-490e-a196-305fdfa2e7b5.png)
 
 
 ## OPTIMAL AREA FOR BUSINESS INVESTMENT 
