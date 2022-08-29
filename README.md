@@ -44,6 +44,8 @@ The project is divided into different parts due to its length and each part is s
 - Number/size of green parks *
 - Crime rate
 
+In case, you would like to get the data quickly, I attached the data collected from APIs.
+
 
 ### Disclaimer - 
 Most of the data is outdated, it is risky to take new decisions according to the results of this work. However, the important things is the implementation and logic,  the same process can be applied once access to fresh data is achieved.
