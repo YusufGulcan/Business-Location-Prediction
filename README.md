@@ -19,6 +19,10 @@ The project is divided into different parts due to its length and each part is s
 
 
 - Clean, process and merge the tables coming from different sources.
+
+![image](https://user-images.githubusercontent.com/105684729/187152488-09053451-9678-4b3f-bc38-67b2f8972db8.png)
+
+
 - Optimize the data and supply it to the machine learning model.
 ![image](https://user-images.githubusercontent.com/105684729/187066417-2180747a-c781-458d-ac81-01b83ff1337c.png)
 
@@ -34,7 +38,6 @@ The project is divided into different parts due to its length and each part is s
 - Number/size of green parks *
 - Crime rate
 
-![image](https://user-images.githubusercontent.com/105684729/187066144-b27d0d02-d6a9-41e5-9eb6-21ea90eabdd8.png)
 
 ### Disclaimer - 
 Most of the data is outdated, it is risky to take new decisions according to the results of this work. However, the important things is the implementation and logic,  the same process can be applied once access to fresh data is achieved.
