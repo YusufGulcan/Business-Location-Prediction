@@ -6,8 +6,12 @@ Using a clustering ML algorithm to predict the best neighbourhoods for a new bus
 
 ## OPTIMAL AREA FOR A NEW GYM BUSINESS 
 ### Project Introduction
+### Business Problem - 
+An enterpreneur would like to launch a gym in central Toronto, Canada. S/he is not sure which neihgborhoods are profitable for this type of business. 
+The solution requires several types of data about neighborhood. It would be easier to decide if the investor knew the percentage of population that falls within their target audience, crime rates, total population, competition level, income level of the neighborhoods. However even then it would be hard to compare the neighborhoods since there are more than 100 different neighborhoods. Therefore the investor needs an agency to make calculations for them.
+
 ### Purpose- 
-This project aims to give a list of district names in Toronto, Canada. The list shall be composed of the neighborhoods that hold the highest business opportunities for an enterpreneur who would like to start a gym business.
+This project aims to give a list of district names in Toronto, Canada. The list shall be composed of the neighborhoods that hold the highest business opportunities for an enterpreneur who would like to start a gym business. 
 
 ### Structure- 
 The project is divided into different parts due to its length and each part is segmented by subtitles to increase the readability.
