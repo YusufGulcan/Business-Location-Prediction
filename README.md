@@ -35,7 +35,7 @@ The project is divided into different parts due to its length and each part is s
 
 [![image](https://user-images.githubusercontent.com/105684729/187288823-b5bc2b15-253b-45d4-bb1e-fffc2a0fa1aa.png)](https://public.tableau.com/views/Book1_16617773505490/Story1?:language=en-GB&:display_count=n&:origin=viz_share_link)
 
-[**Tabelau Link for dashboards**](https://public.tableau.com/app/profile/yusuf.gulcan/viz/Book1_16617773505490/GymBusness?publish=yes)
+[**Tableau Link for dashboards**](https://public.tableau.com/app/profile/yusuf.gulcan/viz/Book1_16617773505490/GymBusness?publish=yes)
 
 
 ### Required Data list :
