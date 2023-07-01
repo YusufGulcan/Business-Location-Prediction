@@ -1,7 +1,8 @@
 # Business_Location_Prediction
 Using a clustering ML algorithm to predict the best neighbourhoods for a new business investment. 
 
-![image](https://user-images.githubusercontent.com/105684729/187290588-78e748dc-0883-4620-8113-f15e3aa48eaa.png)
+<!-- Adjust the width and height values as needed -->
+<img src="https://user-images.githubusercontent.com/105684729/187290588-78e748dc-0883-4620-8113-f15e3aa48eaa.png" alt="image" width="800" height="400">
 
 
 ## OPTIMAL AREA FOR A NEW GYM BUSINESS 
@@ -22,13 +23,14 @@ The project is divided into different parts due to its length and each part is s
 
 
 
-- Clean, process and merge the tables coming from different sources.
+- Clean, process, and merge the tables coming from different sources.
 
 ![image](https://user-images.githubusercontent.com/105684729/187152488-09053451-9678-4b3f-bc38-67b2f8972db8.png)
 
 
 - Optimize the data and supply it to the machine learning model.
-![image](https://user-images.githubusercontent.com/105684729/187066417-2180747a-c781-458d-ac81-01b83ff1337c.png)
+
+<img src="https://github.com/YusufGulcan/Business-Location-Prediction/assets/105684729/0c30a16a-b2ab-4bbe-bd35-07c3022b3fe6" alt="image" width="600" height="400">
 
 - Visualize the results 
 
