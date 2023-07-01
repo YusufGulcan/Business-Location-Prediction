@@ -2,7 +2,7 @@
 Using a clustering ML algorithm to predict the best neighbourhoods for a new business investment. 
 
 <!-- Adjust the width and height values as needed -->
-<img src="https://user-images.githubusercontent.com/105684729/187290588-78e748dc-0883-4620-8113-f15e3aa48eaa.png" alt="image" width="800" height="400">
+<img src="https://user-images.githubusercontent.com/105684729/187290588-78e748dc-0883-4620-8113-f15e3aa48eaa.png" alt="image" width="700" height="400">
 
 
 ## OPTIMAL AREA FOR A NEW GYM BUSINESS 
